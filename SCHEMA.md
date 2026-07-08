@@ -5,6 +5,7 @@
 
 ## Conventions
 - File names: lowercase, hyphens, no spaces (e.g., `export-contract-process.md`)
+- **모든 페이지 본문은 한국어로 작성** (기술용어·고유명사는 영어 원문 사용 가능)
 - Every wiki page starts with YAML frontmatter (see below)
 - Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
 - When updating a page, always bump the `updated` date
