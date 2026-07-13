@@ -4,7 +4,9 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
-## [2026-07-08] ingest | 아이젤 제조위탁계약서 비교표 (Slack #아이젤-계약서)
+## [2026-07-13] create | Slack 일일 요약 (2026-07-13)
+- Created: `raw/articles/slack-summary-2026-07-13.md` — #코스메틱-본부 채널 Slack 도입 피드백 논의
+- 주요 내용: 이상원 대표, Slack 도입 초기 정착 단계, 구성원들의 가치 체감 필요성 논의
 - Slack 채널의 조항별 비교표 파일 분석하여 위키에 정리
 - Created: `entities/aizel-contract.md` — 아이젤 제조위탁계약 (화장품 반제품)
 - Created: `raw/articles/aizel-contract-comparison-table.md` — 원본 비교표
@@ -16,3 +18,10 @@
 - Structure: SCHEMA.md, index.md, log.md, raw/, entities/, concepts/, comparisons/, queries/, _archive/
 - Gateway: Telegram + Slack 동시 연결 완료
 - Language: 모든 페이지 본문은 한국어로 작성 (기술용어·고유명사는 영어 원문 사용 가능)
+
+## [2026-07-10] lint | Wiki 정기 점검 (cron)
+- 검사 범위: orphan pages, broken wikilinks, index completeness, tag audit, staleness, frontmatter
+- 이슈 5건 발견 (critical 1, warning 4)
+- Fixed: index.md wikilink `[[아이젤 제조위탁계약]]` → `[[aizel-contract|아이젤 제조위탁계약]]` (파일명 불일치 해소)
+- 미해결: raw/ sha256 placeholder, orphan page (신규 위키에서 예상됨), 연관 페이지 3건 미생성
+- Slack #wiki 채널 생성 및 리포트 게시 완료
