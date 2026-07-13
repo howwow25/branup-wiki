@@ -4,6 +4,11 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-07-14] update | Slack 일일 요약 (2026-07-13) — 코스메틱본부·헤르메스 채널 추가
+- Updated: `raw/articles/slack-summary-2026-07-13.md` — #코스메틱-본부 (이상원 대표 Slack 피드백 8건), #헤르메스 (프로젝트 생성 요청 2건) 추가
+- Created: `concepts/slack-adoption.md` — Slack 도입 및 내재화 개념 페이지
+- Updated: `index.md` — concepts 섹션에 slack-adoption 추가 (total 2→3)
+
 ## [2026-07-13] create | Slack 일일 요약 (2026-07-13)
 - Created: `raw/articles/slack-summary-2026-07-13.md` — #branup-design-backup (미국/캐나다 패키지 변경, 문안 수정), #코스메틱-본부 (Slack 도입 피드백)
 - 미국 패키지: Enagic.US 문안 추가, 후면 고시사항 변경
