@@ -5,8 +5,11 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 
 ## [2026-07-13] create | Slack 일일 요약 (2026-07-13)
-- Created: `raw/articles/slack-summary-2026-07-13.md` — #코스메틱-본부 채널 Slack 도입 피드백 논의
-- 주요 내용: 이상원 대표, Slack 도입 초기 정착 단계, 구성원들의 가치 체감 필요성 논의
+- Created: `raw/articles/slack-summary-2026-07-13.md` — #branup-design-backup (미국/캐나다 패키지 변경, 문안 수정), #코스메틱-본부 (Slack 도입 피드백)
+- 미국 패키지: Enagic.US 문안 추가, 후면 고시사항 변경
+- 캐나다 패키지: 불어 병기, 캐나다 법령 적용, 미국과 동일한 레이아웃
+- 문안: 6/26자 양산 반영, 7/10 변호사 신규 문안 → 다음 발주분 적용
+- 슬랙 도입 피드백: 이상원 대표, 슬랙 가치 체감 필요성 논의
 - Slack 채널의 조항별 비교표 파일 분석하여 위키에 정리
 - Created: `entities/aizel-contract.md` — 아이젤 제조위탁계약 (화장품 반제품)
 - Created: `raw/articles/aizel-contract-comparison-table.md` — 원본 비교표

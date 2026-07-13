@@ -10,7 +10,7 @@
 - **[아이젤 제조위탁계약](entities/aizel-contract.md)** — 화장품 반제품 제조 위·수탁 기본계약
 
 ### 📌 일일 요약 (Daily Summaries)
-- [2026-07-13 Slack 요약](raw/articles/slack-summary-2026-07-13.md) — #코스메틱-본부 Slack 도입 피드백
+- [2026-07-13 Slack 요약](raw/articles/slack-summary-2026-07-13.md) — #branup-design-backup(미국/캐나다 패키지 변경) + #코스메틱-본부(Slack 도입 피드백)
 
 ---
 
