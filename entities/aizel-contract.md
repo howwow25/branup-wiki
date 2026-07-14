@@ -1,10 +1,10 @@
 ---
 title: 아이젤 제조위탁계약 (화장품 반제품)
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-15
 type: entity
 tags: [contract, export, cosmetics, partner]
-sources: [raw/articles/aizel-contract-comparison-table.md]
+sources: [raw/articles/aizel-contract-comparison-table.md, raw/articles/slack-summary-2026-07-14.md]
 confidence: high
 ---
 
@@ -82,3 +82,8 @@ confidence: high
 - **갑:** (주)브랜업 / 대표 이상원 / 서울 영등포구 영신로 166, 1021호
 - **을:** (주)아이젤 / 대표 김범준 / 경기 화성시 동탄대로23길121
 - **예정 체결일:** 2026년 7월 (일자 미정)
+
+## 진행 경과
+- **2026-07-14:** 아이젤 미팅 (장소: 브랜업, 오전 10시). 아이젤의 신규 라인업 제안서(`[아이젤] 브랜업_신규 라인업 제안서_260714.pptx`) 수령. 회의록 작성 완료(`회의록_20260714_아이젤.docx`). 외부 법률 검토 요청서 작성 및 공유 (이향석).
+- **2026-07-08:** 신우 자문 반영한 브랜업 수정본 완료. 아이젤과의 조율 진행 중.
+- [[slack-adoption|Slack 도입]]과 함께 아이젤 계약 관련 채널(#아이젤-계약서)에서 검토 진행 중

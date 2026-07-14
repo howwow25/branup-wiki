@@ -4,6 +4,17 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 
+## [2026-07-15] ingest | Slack 일일 요약 (2026-07-14)
+- Created: `raw/articles/slack-summary-2026-07-14.md` — 5개 채널 27건 메시지 요약
+- **#코스메틱-본부:** 아이젤 미팅(오전 10시), 신규 라인업 제안서 수령, 채용 일정(김봉재 면접, 이지혜 취소, 최미래 7/24 Google Meet), 통합주간전략 자동화 논의(이상원 대표 제안, 강경철 협의)
+- **#branup-design-backup:** 캐나다 패키지 디자인 확정 (인쇄·후가공 최종사항, Enagic.CA 문안, 불어 병기)
+- **#뷰티-프로젝트:** 미국/캐나다 표지 수정 최종사항 이미지
+- **#아이젤-계약서:** 외부 법률 검토 요청서(표준양식 + 아이젤 적용본) 공유 (이향석)
+- **#업무에로사항:** 채널명 변경 논의 (문제해결방/병목해결방)
+- Updated: `entities/aizel-contract.md` — 진행 경과 섹션 추가 (7/14 미팅, 신규 라인업 제안, 외부 법률 검토)
+- Created: `concepts/integrated-weekly-strategy.md` — 통합주간전략 자동화 개념 페이지
+- Updated: `index.md` — total 3→4 (concepts에 integrated-weekly-strategy 추가)
+
 ## [2026-07-14] update | Slack 일일 요약 (2026-07-13) — 코스메틱본부·헤르메스 채널 추가
 - Updated: `raw/articles/slack-summary-2026-07-13.md` — #코스메틱-본부 (이상원 대표 Slack 피드백 8건), #헤르메스 (프로젝트 생성 요청 2건) 추가
 - Created: `concepts/slack-adoption.md` — Slack 도입 및 내재화 개념 페이지
