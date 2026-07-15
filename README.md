@@ -7,10 +7,10 @@
 ## 📋 페이지 목록
 
 ### 📌 엔터티 (Entities)
-- **[아이젤 계약검토 요청서 (2026-07-14)](entities/aizel-contract-review-request.md)** — 외부 검토 요청, DOCX 6종 분석
+- **[아이젤 계약검토 요청서 (2026-07-14)](entities/aizel-contract-review-request.md)** — 신우 외부 검토 의뢰, 7대 목표·8대 쟁점·NDA 분석
 - **[아이젤 미팅 회의록 (2026-07-14)](entities/aizel-meeting-2026-07-14.md)** — 부자재 검수, 신규 포트폴리오, 물량 전망
 - **[아이젤 신규 라인업 제안서](entities/aizel-proposal-lineup-2026-07-14.md)** — 아이젤 제안 10종 신규 제품군
-- **[아이젤 제조위탁계약](entities/aizel-contract.md)** — 화장품 반제품 제조 위·수탁 기본계약
+- **[아이젤 제조위탁계약](entities/aizel-contract.md)** — 브랜업 vs 아이젤 조항별 상세 비교, NDA, 계약검토 포함
 
 ### 📌 개념 (Concepts)
 - **[통합주간전략 자동화](concepts/integrated-weekly-strategy.md)** — AI 기반 주간 업무 자동 취합 구상
