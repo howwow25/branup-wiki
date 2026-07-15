@@ -20,7 +20,13 @@
 - Created: `concepts/slack-adoption.md` — Slack 도입 및 내재화 개념 페이지
 - Updated: `index.md` — concepts 섹션에 slack-adoption 추가 (total 2→3)
 
-## [2026-07-13] create | Slack 일일 요약 (2026-07-13)
+## [2026-07-15] create | Slack 일일 요약 (2026-07-14)
+- Created: `raw/articles/slack-summary-2026-07-14.md` — #코스메틱-본부(아이젤 미팅, 주간전략, 면접), #branup-design-backup(캐나다 패키지)
+- README.md 업데이트 (일일 요약 링크 추가)
+
+## [2026-07-15] update | README.md
+- 7/14 요약 링크 추가
+- 최종 업데이트 날짜 갱신
 - Created: `raw/articles/slack-summary-2026-07-13.md` — #branup-design-backup (미국/캐나다 패키지 변경, 문안 수정), #코스메틱-본부 (Slack 도입 피드백)
 - 미국 패키지: Enagic.US 문안 추가, 후면 고시사항 변경
 - 캐나다 패키지: 불어 병기, 캐나다 법령 적용, 미국과 동일한 레이아웃

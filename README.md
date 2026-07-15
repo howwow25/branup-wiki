@@ -11,6 +11,7 @@
 
 ### 📌 일일 요약 (Daily Summaries)
 - [2026-07-13 Slack 요약](raw/articles/slack-summary-2026-07-13.md) — #branup-design-backup(미국/캐나다 패키지 변경) + #코스메틱-본부(Slack 도입 피드백)
+- [2026-07-14 Slack 요약](raw/articles/slack-summary-2026-07-14.md) — #코스메틱-본부(아이젤 미팅, 주간전략 논의) + #branup-design-backup(캐나다 패키지)
 
 ---
 
@@ -21,4 +22,4 @@
 
 ---
 
-*최종 업데이트: 2026-07-13 | 총 2페이지*
+*최종 업데이트: 2026-07-15 | 총 3페이지*
