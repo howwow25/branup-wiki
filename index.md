@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-15 | Total pages: 14
+> Last updated: 2026-07-16 | Total pages: 16
 
 ## Entities (회사·인물·브랜드)
 
@@ -9,6 +9,8 @@
 - [[aizel-contract-review-request|아이젤 계약검토 요청서 (2026-07-14)]] — 신우 외부 검토 의뢰, 7대 핵심 목표, 8대 쟁점 분석
 - [[branup-org-chart|브랜업 조직도]] — 주요 인물·부서·협력사 구성
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너 (에나지크)
+
+- [[peachy|Peachy]] — 미국 보톡스 전문 체인점 (벤치마크 분석)
 
 - [[project-브랜업_대시보드_개발|브랜업 대시보드 개발]] — 대시보드 프로젝트 — 완료
 - [[project-시니어_마케터_채용_프로젝트|시니어 마케터 채용 프로젝트]] — 대시보드 프로젝트 — 계획

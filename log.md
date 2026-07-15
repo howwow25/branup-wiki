@@ -33,3 +33,34 @@
 - 프로젝트 7개 페이지 업데이트
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-15 16:10
+
+## [2026-07-16] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-16 08:07
+
+## [2026-07-16] ingest | Slack 채널 배치 수집 (7/9~7/16)
+
+### 새로 다운로드한 원본 파일 (6개)
+- `raw/articles/hoiuirok_aijel_20260714.docx` (490KB) — 아이젤 미팅 회의록 상세
+- `raw/articles/aijel_brandup_sin_gue_lineup_260714.pptx` (10,498KB) — 아이젤 신규 라인업 제안서
+- `raw/articles/tonghap_jugan_junryak_7w3_20260714.pdf` (1,039KB) — 통합주간전략 7월 3주차
+- `raw/articles/peachy_business_model_summary.pdf` (440KB) — Peachy 기업 분석
+- `raw/articles/aijel_gyeyakgeomto_yoengseo.docx` (24KB) — 아이젤 계약검토 요청서
+- `raw/articles/oeubu_gyeyakgeomto_yoengseo_pyojoonsik.docx` (20KB) — 외부 계약검토 표준양식
+
+### 원본 마크다운 저장 (4개)
+- `raw/articles/hoiuirok_aijel_20260714.md` — 회의록 텍스트 분석
+- `raw/articles/aijel_lineup_proposal_260714.md` — 라인업 제안서 텍스트 분석
+- `raw/articles/weekly-strategy-2026-07-3w-raw.md` — 주간전략 텍스트 분석
+- `raw/articles/peachy_business_model_summary.md` — Peachy 텍스트 분석
+
+### 위키 페이지 업데이트 (4개)
+- ✅ `concepts/aizel-meeting-2026-07-14.md` — 상세 업데이트 (65→220행): IDMO 디바이스 전략, 하이페리신 검토, 라비오 테스트, 샘플 계획, 제품 우선순위 표 추가
+- ✅ `concepts/aizel-proposal-lineup-2026-07-14.md` — 상세 업데이트: 제품별 텍스처·키벤핏, 데일리 루틴, 에피탈론 펩타이드 설명
+- ✅ `concepts/integrated-weekly-strategy.md` — 실제 PDF 데이터 반영: 대표 아젠다, 팀별 과제, 리스크 표, 우선순위, D+ 조기경보 원칙
+- ✅ `entities/peachy.md` — 신규: Peachy 비즈니스 모델 분석 (정액제·반복매출·업셀 구조)
+
+### 관련 DOCX 원본
+- `raw/articles/aijel_gyeyakgeomto_yoengseo.docx` — 기존 aizel-contract-review-request.md 에 이미 상세 반영됨
+- `raw/articles/oeubu_gyeyakgeomto_yoengseo_pyojoonsik.docx` — 표준양식 템플릿, 별도 wiki 페이지 미생성

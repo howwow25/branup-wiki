@@ -11,6 +11,7 @@
 - **[아이젤 제조위탁계약 (화장품 반제품)](entities/aizel-contract.md)**
 - **[브랜업 조직도 (Branup Org Chart)](entities/branup-org-chart.md)**
 - **[Enagic USA — 미국 에나지크](entities/enagic-usa.md)**
+- **[Peachy — 미국 보톡스 전문 체인점](entities/peachy.md)**
 - **[AI/AX 직원 교육](entities/project-ai_ax_직원_교육.md)**
 - **[브랜업 대시보드 개발](entities/project-브랜업_대시보드_개발.md)**
 - **[소라살롱 공구 프로젝트](entities/project-소라살롱_공구_프로젝트.md)**
@@ -19,12 +20,12 @@
 
 ### 📌 개념 (Concepts)
 
-- **[아이젤 미팅 회의록 (2026-07-14)](concepts/aizel-meeting-2026-07-14.md)**
-- **[아이젤 신규 라인업 제안서 (2026-07-14)](concepts/aizel-proposal-lineup-2026-07-14.md)**
+- **[아이젤 미팅 회의록 (2026-07-14) — 상세](concepts/aizel-meeting-2026-07-14.md)**
+- **[아이젤 신규 라인업 제안서 (2026-07-14) — 상세](concepts/aizel-proposal-lineup-2026-07-14.md)**
 - **[브랜업 재무현황](concepts/branup-finance.md)**
 - **[수출바우처 (Export Voucher)](concepts/export-voucher.md)**
 - **[정부지원사업 모니터링](concepts/government-support-programs.md)**
-- **[통합주간전략 자동화](concepts/integrated-weekly-strategy.md)**
+- **[통합주간전략 (7월 3주차, 2026-07-14)](concepts/integrated-weekly-strategy.md)**
 - **[PL보험 (Product Liability Insurance)](concepts/product-liability-insurance.md)**
 - **[브랜업 대시보드 프로젝트 현황](concepts/project-status.md)**
 - **[Slack 도입 및 내재화](concepts/slack-adoption.md)**
@@ -65,4 +66,4 @@
 
 ---
 
-*자동 생성: 2026-07-15 | 총 24페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-07-16 | 총 29페이지 (README.md·SCHEMA.md·log.md 제외)*
