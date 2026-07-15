@@ -7,11 +7,12 @@
 ## 📋 페이지 목록
 
 ### 📌 엔터티 (Entities)
+- **[아이젤 미팅 회의록 (2026-07-14)](entities/aizel-meeting-2026-07-14.md)** — 부자재 검수, 신규 포트폴리오, 물량 전망
 - **[아이젤 제조위탁계약](entities/aizel-contract.md)** — 화장품 반제품 제조 위·수탁 기본계약
 
 ### 📌 일일 요약 (Daily Summaries)
 - [2026-07-13 Slack 요약](raw/articles/slack-summary-2026-07-13.md) — #branup-design-backup(미국/캐나다 패키지 변경) + #코스메틱-본부(Slack 도입 피드백)
-- [2026-07-14 Slack 요약](raw/articles/slack-summary-2026-07-14.md) — #코스메틱-본부(아이젤 미팅, 주간전략 논의) + #branup-design-backup(캐나다 패키지)
+- [2026-07-14 Slack 요약](raw/articles/slack-summary-2026-07-14.md) — #코스메틱-본부(아이젤 미팅, 주간전략) + 문서: [[아이젤 미팅 회의록]] 분석 등록
 
 ---
 
@@ -22,4 +23,4 @@
 
 ---
 
-*최종 업데이트: 2026-07-15 | 총 3페이지*
+*최종 업데이트: 2026-07-15 | 총 4페이지*
