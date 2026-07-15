@@ -1,18 +1,31 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-15 | Total pages: 7
+> Last updated: 2026-07-15 | Total pages: 14
 
-## Entities
+## Entities (회사·인물·브랜드)
+
 - [[aizel-contract|아이젤 제조위탁계약]] — 화장품 반제품 제조 위·수탁 기본계약. 브랜업 수정안 vs 아이젤 회신안 조항별 상세 비교, NDA, 계약검토 요청서 포함
 - [[aizel-contract-review-request|아이젤 계약검토 요청서 (2026-07-14)]] — 신우 외부 검토 의뢰, 7대 핵심 목표, 8대 쟁점 분석
-- [[aizel-meeting-2026-07-14|아이젤 미팅 회의록 (2026-07-14)]] — 부자재 검수 체계, 신규 포트폴리오 5종, 물량 전망 10만세트
+- [[branup-org-chart|브랜업 조직도]] — 주요 인물·부서·협력사 구성
+- [[enagic-usa|Enagic USA]] — 북미 유통 파트너 (에나지크)
+
+## Concepts (개념·주제)
+
+- [[integrated-weekly-strategy|통합주간전략 자동화]] — AI 기반 주간 업무 자동 취합·대시보드화 구상
+- [[slack-adoption|Slack 도입 및 내재화]] — 브랜업 Slack 전환 과정, 대표 피드백, 과제
+- [[aizel-meeting-2026-07-14|아이젤 미팅 회의록 (2026-07-14)]] — 부자재 검수, 신규 포트폴리오 5종, 물량 전망
 - [[aizel-proposal-lineup-2026-07-14|아이젤 신규 라인업 제안서]] — 아이젤 제안 10종 신규 제품군 (스킨케어5·베이스3·퍼스널2), 에피탈론 펩타이드 컨셉
+- [[government-support-programs|정부지원사업 모니터링]] — 수출바우처·정부지원사업 모니터링 체계
+- [[export-voucher|수출바우처 (Export Voucher)]] — 중진공 수출바우처 제도 상세
+- [[product-liability-insurance|PL보험 (Product Liability Insurance)]] — 미국 수출 대비 PL보험 현황 및 쟁점
+- [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
+- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발)
 
-## Concepts
-- [[integrated-weekly-strategy|통합주간전략 자동화]] — 이상원 대표 제안, AI 기반 주간 업무 자동 취합·대시보드화 구상
-- [[slack-adoption|Slack 도입 및 내재화]] — 브랜업 Slack 전환 과정, 이상원 대표 피드백, 과제 정리
+## Comparisons (비교 분석)
 
-## Comparisons
+*(비어 있음 — 계약서 조항 비교는 aizel-contract.md 내에 포함)*
 
-## Queries
+## Queries (저장 질의)
+
+*(비어 있음)*
