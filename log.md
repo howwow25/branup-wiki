@@ -20,10 +20,11 @@
 - Created: `concepts/slack-adoption.md` — Slack 도입 및 내재화 개념 페이지
 - Updated: `index.md` — concepts 섹션에 slack-adoption 추가 (total 2→3)
 
-## [2026-07-15] ingest | 아이젤 미팅 회의록 (DOCX 파일 분석)
-- Created: `entities/aizel-meeting-2026-07-14.md` — Slack #코스메틱-본부 첨부 DOCX 파일 분석
-- 부자재 검수 체계 개선, 신규 포트폴리오(5개 제품 후보), 물량 전망(10만세트), 휴가철 리스크
-- README.md, index.md, log.md 업데이트 (total 3→4)
+## [2026-07-15] ingest | 아이젤 미팅 회의록 + 신규 라인업 제안서 (DOCX+PPTX 분석)
+- Created: `entities/aizel-meeting-2026-07-14.md` — Slack #코스메틱-본부 DOCX 파일 분석 (부자재 검수, 포트폴리오, 물량)
+- Created: `entities/aizel-proposal-lineup-2026-07-14.md` — PPTX 파일 분석 (10종 신규 제품군)
+- Created: `raw/articles/weekly-strategy-2026-07-3w.md` — PDF 파일 분석 (통합주간전략)
+- README.md, index.md, log.md 업데이트 (total 4→6)
 - Created: `raw/articles/slack-summary-2026-07-14.md` — #코스메틱-본부(아이젤 미팅, 주간전략, 면접), #branup-design-backup(캐나다 패키지)
 - README.md 업데이트 (일일 요약 링크 추가)
 
