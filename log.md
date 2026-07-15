@@ -54,3 +54,10 @@
 - Fixed: index.md wikilink `[[아이젤 제조위탁계약]]` → `[[aizel-contract|아이젤 제조위탁계약]]` (파일명 불일치 해소)
 - 미해결: raw/ sha256 placeholder, orphan page (신규 위키에서 예상됨), 연관 페이지 3건 미생성
 - Slack #wiki 채널 생성 및 리포트 게시 완료
+
+## [2026-07-15] ingest | 아이젤-계약서 채널 DOCX 6종 분석 완료
+- Created: `entities/aizel-contract-review-request.md` — 계약검토 요청서 (표준양식+아이젤 적용)
+- 기존 업데이트: `entities/aizel-contract.md` — 브랜업 수정안/아이젤 회신안 내용 분석 추가
+- Raw 업데이트: 아이젤 회신안 NDA, 조항별 비교표 원문 저장
+- README.md 재작성, index.md 갱신 (total 7)
+- 크론 지시서 완전 개선: 오류 시 계속 진행 + 텔레그램 보고 + 파일 분석 강제
