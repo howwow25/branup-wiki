@@ -92,3 +92,17 @@
 ### 위키 페이지 업데이트 (1개)
 - ✅ `entities/enagic-usa.md` — 패키지 디자인 현황 7/15까지 업데이트 (JNJ 샘플 지연, 인쇄 검토 프로세스 강화, 최종 AI 파일 2건 등록)
 
+## [2026-07-16] ingest | KANGEN BEAUTÉ 캐나다 라벨 분석
+
+### 신규 원본 저장
+- `raw/articles/kangen-beaute-canada-label-notice.md` — 캐나다 후면 고시사항 PDF 분석 (Timeless Radiance Collection)
+- `raw/articles/branup-design-label-inspection-summary.md` — 미국/캐나다 표지 검수 PDF 요약
+
+### 위키 페이지 업데이트 (1개)
+- ✅ `entities/enagic-usa.md` — KANGEN BEAUTÉ Timeless Radiance Collection 3-Step 제품 정보 추가 (PDRN, PLLA, Milk/Salmon Exosomes 등)
+
+### 미처리 파일
+- `브랜업-미국-표지-검수.pdf` — 이미지 PDF (1p), "변경 사항: 동박 아래 글자 추가" 단일 문장만 존재
+- `브랜업-캐나다-표지-검수.pdf` — 이미지 PDF (1p), 상동
+- AI/IDML/JPG 파일 다수 — 디자인 원본, 텍스트 분석 불가
+

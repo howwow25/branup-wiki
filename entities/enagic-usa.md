@@ -46,7 +46,18 @@ confidence: medium
 - [[aizel-contract|아이젤 제조위탁계약]]은 Enagic USA 유통을 전제로 작성
 - 미국 규제(FDA/MoCRA) 대응, PL보험, 리콜 비용 부담 구조가 계약의 핵심 쟁점
 
+### KANGEN BEAUTÉ Timeless Radiance Collection (캐나다 라벨 확정)
+- 2026-07-13 branup-design-backup 채널을 통해 캐나다 후면 고시사항 PDF 확정
+- **3-Step 스킨케어 세트:**
+  - STEP I: First Light Essence (50mL) — 유래 성분 + 발효 쌀 추출물 + 코코아 버터
+  - STEP II: Vital Rich Cream (50mL) — PDRN + PLLA 함유, 영양·활력
+  - STEP III: Crystal Ampoule Cream (50mL) — 투명 텍스처, 보습·광채
+- **기술 특징:** Milk Exosomes, Salmon Testis Exosomes, Callus Culture Extracts, Vesicle Technology 등 하이테크 성분 다수 함유
+- **유통:** Enagic Canada Corp. (Burnaby, BC) — 불어·영어 이중 라벨
+- **사용기한:** 제조 후 2년, 개봉 후 1년
+- 자세한 성분 정보: `raw/articles/kangen-beaute-canada-label-notice.md` ^[raw/articles/kangen-beaute-canada-label-notice.md]
+
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
 - [[aizel-meeting-2026-07-14|아이젤 미팅 회의록]] — 물량 전망 및 시장 확대 논의
-- [[concept:product-liability-insurance|PL보험]] — 미국 시장 PL보험 요건
+- [[product-liability-insurance|PL보험]] — 미국 시장 PL보험 요건
