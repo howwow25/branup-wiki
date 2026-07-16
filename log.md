@@ -64,3 +64,31 @@
 ### 관련 DOCX 원본
 - `raw/articles/aijel_gyeyakgeomto_yoengseo.docx` — 기존 aizel-contract-review-request.md 에 이미 상세 반영됨
 - `raw/articles/oeubu_gyeyakgeomto_yoengseo_pyojoonsik.docx` — 표준양식 템플릿, 별도 wiki 페이지 미생성
+
+## [2026-07-16] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-16 09:09
+
+## [2026-07-16] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-16 09:14
+
+## [2026-07-16] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-16 09:30
+
+## [2026-07-16] ingest | Slack 채널 수집 + Enagic USA 패키지 업데이트
+
+### Slack 수집 현황
+- **코스메틱-본부:** 면접 일정 3건 (최미래 비대면, 안성식 대면, 남궁선 커피챗), JNJ 자석&명판 샘플 딜레이 (7/24 예상)
+- **branup-design-backup:** [확정]미국-표지15300ea.ai, [확정]캐나다-표지5100ea-0714.ai 등 최종 디자인 파일 등록
+- **아이젤-계약서:** 기존 분석 완료 파일 외 신규 분석 대상 없음
+- **뷰티-프로젝트:** 제품 표지 이미지 JPG 파일 (텍스트 분석 불가)
+- **업무에로사항:** 인쇄 검토 인원 확대 필요성 논의
+
+### 위키 페이지 업데이트 (1개)
+- ✅ `entities/enagic-usa.md` — 패키지 디자인 현황 7/15까지 업데이트 (JNJ 샘플 지연, 인쇄 검토 프로세스 강화, 최종 AI 파일 2건 등록)
+
