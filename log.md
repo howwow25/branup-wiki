@@ -138,3 +138,21 @@
 - projects + tasks 페이지 업데이트
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-17 05:04
+
+## [2026-07-17] lint | Wiki 정기 린트 — 44 issues, 8 warnings 발견
+- **대상:** 21개 페이지, 10개 원본 파일
+- **주요 이슈:**
+  - 고아 페이지 8개 (inbound 링크 없음)
+  - 깨진 위키링크 5개 (`concept:` 접두사 오류, 존재하지 않는 페이지)
+  - index 누락 2개 (project-status.md, task-status.md)
+  - frontmatter 누락 2개 (created 필드)
+  - 태그 분류 오류 22건 (dashboard, legal, government 등 taxonomy 미등록 태그)
+  - 저신뢰도 페이지 1개 (branup-finance)
+  - 원본 해시 불일치 5건 (raw 파일 수정됨)
+- **Slack 전송:** ✅ #wiki 채널에 리포트 게시
+- **권장 조치:** `concept:` 접두사 정리, `dashboard` 태그 taxonomy 추가, 고아 페이지 링크 처리
+
+## [2026-07-18] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-18 05:05

@@ -66,4 +66,4 @@
 
 ---
 
-*자동 생성: 2026-07-17 | 총 31페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-07-18 | 총 31페이지 (README.md·SCHEMA.md·log.md 제외)*
