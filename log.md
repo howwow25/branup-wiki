@@ -157,7 +157,30 @@
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-18 05:05
 
-## [2026-07-19] sync | 브랜업 대시보드 DB 동기화
-- projects + tasks 페이지 업데이트
+## [2026-07-19] daily | 일일 위키 업데이트
+### DB 동기화
+- `concepts/project-status.md`, `concepts/task-status.md` 갱신 (branup_db_wiki_sync.py)
+
+### Slack 수집 (10개 파일, 18.2MB)
+- **코스메틱-본부:** 회의록_20260714_아이젤.docx, 아이젤 신규 라인업 제안서_260714.pptx, 통합주간전략_7월3주차.pdf, Peachy_요약.pdf
+- **branup-design-backup:** 미국/캐나다 표지 검수 PDF 5종, KANGEN BEAUTÉ 카탈로그 DOCX
+
+### Wiki 페이지 업데이트
+- `concepts/aizel-meeting-2026-07-14.md` — 진행상황 갱신, 새 소스 연결
+- `concepts/aizel-proposal-lineup-2026-07-14.md` — 새 소스 연결
+- `entities/enagic-usa.md` — KANGEN 카탈로그 분석 추가, 디자인백업 현황
+- `index.md` — 날짜 갱신
+- `README.md` — 자동 갱신 (wiki_readme_generator.py)
+
+### GitHub push
+- 18개 파일 (10개 신규 + 3개 수정 + README) commit (548ba65)
+- push 완료
+
+### 오류
+- 없음 (branup-전체 채널 not_in_channel은 기존 사항, 봇 미참여)
+
+### DB 동기화 (별도 실행)
+- projects + tasks 페이지 업데이트 (branup_db_wiki_sync.py)
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-19 05:02
+- Telegram 리포트 전송 완료
