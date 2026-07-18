@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-17 | Total pages: 19
+> Last updated: 2026-07-19 | Total pages: 19
 
 ## Entities (회사·인물·브랜드)
 

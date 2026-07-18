@@ -156,3 +156,8 @@
 - projects + tasks 페이지 업데이트
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-18 05:05
+
+## [2026-07-19] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-19 05:02

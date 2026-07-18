@@ -1,10 +1,10 @@
 ---
 title: 아이젤 미팅 회의록 (2026-07-14) — 상세
 created: 2026-07-15
-updated: 2026-07-16
+updated: 2026-07-19
 type: concept
 tags: [contract, partner, cosmetics, meeting]
-sources: [raw/articles/hoiuirok_aijel_20260714.md, raw/articles/slack-summary-2026-07-14.md]
+sources: [raw/articles/slack_코스메틱-본부_1784405024_회의록_20260714_아이젤.docx, raw/articles/slack-summary-2026-07-14.md]
 confidence: high
 ---
 
@@ -102,9 +102,10 @@ confidence: high
 - [[aizel-contract-review-request|아이젤 계약검토 요청서]] — 법률검토 의뢰서
 - [[enagic-usa|Enagic USA]] — 주요 타겟 파트너
 
-## 진행상황 (2026-07-16 기준)
+## 진행상황 (2026-07-19 기준)
 - ✅ 7/14 아이젤 미팅 완료
-- ⏳ 아이젤 측 내부 미팅 (다음주 초) → 부자재 검수 방식 정리
-- ⏳ 샘플링 일정 및 우선 제공 품목 정리 중
-- ⏳ 라비오 3% 안정성·점도·pH 추가 확인 예정
+- ✅ 아이젤 측 내부 미팅 결과 부자재 검수 체계 정리 중
+- ✅ 라비오 3% 원료 적용 완료, 에센스·크림 샘플 확인
+- ⏳ 샘플링 일정: 8월 중순까지 순차 제공 목표 (완제품형 선발송 → 개발 샘플 순차)
+- ⏳ 아이젤 라인업 제안서 10종 카테고리 검토 중 (스킨케어 5 + 베이스 3 + 퍼스널 2)
 - ⏳ 하이페리신 프로젝트 우선순위 재평가 대기

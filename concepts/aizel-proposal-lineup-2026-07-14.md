@@ -1,10 +1,10 @@
 ---
 title: 아이젤 신규 라인업 제안서 (2026-07-14) — 상세
 created: 2026-07-15
-updated: 2026-07-16
+updated: 2026-07-19
 type: concept
 tags: [cosmetics, product, partner, comparison]
-sources: [raw/articles/aijel_lineup_proposal_260714.md, raw/articles/slack-summary-2026-07-14.md]
+sources: [raw/articles/slack_코스메틱-본부_1784405026_[아이젤]_브랜업_신규_라인업_제안서_260714.pptx, raw/articles/slack-summary-2026-07-14.md]
 confidence: high
 ---
 

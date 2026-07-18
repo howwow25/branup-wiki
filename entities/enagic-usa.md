@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-07-17
+updated: 2026-07-19
 type: entity
 tags: [partner, export, usa, market, contract]
-sources: []
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx]
 confidence: medium
 ---
 
@@ -37,6 +37,17 @@ confidence: medium
 - 인쇄 전송 기간 담당자 과업 지양 (집중력 분산 방지)
 - 검토 인원을 강경철님 외 1~2명으로 확대 필요성 제기
 
+### 디자인 백업 파일 현황 (2026-07-19)
+- Slack #branup-design-backup 채널에서 7개 PDF/DOCX 파일 확인:
+  - **미국 표지 검수 PDF** (1.9MB) — `branup-미국-표지-검수.pdf`, AI 원본 기반, PANTONE 7570 C, 용기색상 [맞춰찍기]
+  - **캐나다 표지 검수 PDF** (2.6MB) — `branup-캐나다-표지-검수.pdf`, 동일 AI 원본, 5,100ea 수량
+  - **캐나다 후면 고시 PDF** (75KB) — `branup-캐나다-후면-고시사항.pdf`, TT Commons Pro 폰트, InDesign 제작
+  - **글자 PDF** (202KB) — `글자_.pdf`, TT Commons Pro ExtraBold/Black 폰트 확인
+  - **두코 인쇄 PDF** (1.4MB) — `00.07.10_두코_브랜업_캐나다-인쇄.pdf`, nosmstudio 제작
+  - **KANGEN BEAUTÉ 카탈로그 DOCX** (2.6MB) — 영문·불어 카탈로그 카피
+- **분석:** 모든 PDF는 AI/InDesign 원본 출력물로 이미지 전용(텍스트 레이어 없음). 실제 인쇄 감리 완료 단계로 추정
+- **추가 확인 필요:** 인쇄소 납품 완료 여부, 1차 생산분과의 문안 차이 확인
+
 ### 물량 전망
 - 기초 세트: 약 **100,000세트** (잠정, 아이젤 미팅 2026-07-14 기준)
 - 미국 1.5만세트: 용기 제조사 생산 라인 Full CAPA로 인해 일시에 생산 불가 (2026-07-16)
@@ -62,6 +73,18 @@ confidence: medium
 - **유통:** Enagic Canada Corp. (Burnaby, BC) — 불어·영어 이중 라벨
 - **사용기한:** 제조 후 2년, 개봉 후 1년
 - 자세한 성분 정보: `raw/articles/kangen-beaute-canada-label-notice.md` ^[raw/articles/kangen-beaute-canada-label-notice.md]
+
+### KANGEN BEAUTÉ 카탈로그 카피 (2026-07-19 수집)
+- Slack #branup-design-backup 채널에서 영문·불어 카탈로그 카피 DOCX(2.6MB) 수집
+- **브랜드 포지셔닝:**
+  - "Premium Skincare Line" — Enagic의 Kangen Water®와 Ukon(울금) 유산 계승
+  - 피부 밸런스, 광채, 고급스러운 수분감, 시각적 결 개선
+- **3-Step 시스템 설명:**
+  - 각 단계가 시너지를 이루어 준비(Prepare)→영양공급(Nourish)→수분잠금(Seal In)
+  - 피부결을 시각적으로 개선하고 지속적인 광채 부여
+- **주요 마케팅 키워드:** youthfully radiant, profoundly hydrated, enduring luminous glow
+- **카탈로그 구조:** Brand Introduction → 3-Step System Overview → 각 제품별 설명 (데이터 미포함, 마케팅/브랜드 카피 위주)
+- **다음 확인 필요:** 프랑스어 카탈로그 디자인 레이아웃, 제품별 이미지, 적용된 패키징 실제 사진
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
