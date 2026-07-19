@@ -184,3 +184,8 @@
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-19 05:02
 - Telegram 리포트 전송 완료
+
+## [2026-07-20] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-20 05:11
