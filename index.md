@@ -1,22 +1,25 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-19 | Total pages: 19
+> Last updated: 2026-07-21 | Total pages: 20
 
 ## Entities (회사·인물·브랜드)
 
 - [[aizel-contract|아이젤 제조위탁계약]] — 화장품 반제품 제조 위·수탁 기본계약. 브랜업 수정안 vs 아이젤 회신안 조항별 상세 비교, NDA, 계약검토 요청서 포함
 - [[aizel-contract-review-request|아이젤 계약검토 요청서 (2026-07-14)]] — 신우 외부 검토 의뢰, 7대 핵심 목표, 8대 쟁점 분석
 - [[branup-org-chart|브랜업 조직도]] — 주요 인물·부서·협력사 구성
+- [[drsante|Dr.SANTE (닥터상떼)]] — 에스테틱 화장품 전문 기업 (23년). 8,000여 거래처 B2B 납품 + D2C 반복매출 구조. 경쟁사 벤치마크 대상
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너 (에나지크). KANGEN BEAUTÉ Timeless Radiance Collection 캐나다 라벨 확정, 패키지 디자인 최종 완료
-
 - [[peachy|Peachy]] — 미국 보톡스 전문 체인점 (벤치마크 분석)
+
+## Projects (프로젝트)
 
 - [[project-브랜업_대시보드_개발|브랜업 대시보드 개발]] — 대시보드 프로젝트 — 완료
 - [[project-시니어_마케터_채용_프로젝트|시니어 마케터 채용 프로젝트]] — 대시보드 프로젝트 — 계획
 - [[project-소라살롱_공구_프로젝트|소라살롱 공구 프로젝트]] — 대시보드 프로젝트 — 보류
 - [[project-ai_ax_직원_교육|AI/AX 직원 교육]] — 대시보드 프로젝트 — 계획
 - [[project-에나지크_발주_시뮬레이터|에나지크 발주 시뮬레이터]] — 대시보드 프로젝트 — 계획
+
 ## Concepts (개념·주제)
 
 - [[integrated-weekly-strategy|통합주간전략 자동화]] — AI 기반 주간 업무 자동 취합·대시보드화 구상

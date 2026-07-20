@@ -189,3 +189,14 @@
 - projects + tasks 페이지 업데이트
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-20 05:11
+
+## [2026-07-21] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-21 06:20
+
+## [2026-07-21] ingest | Dr.SANTE 리서치 보고서
+- 출처: Slack #코스메틱-본부 (PDF: DrSANTE_리서치 보고서.pdf, 3.4MB)
+- 신규 파일: raw/articles/drsante-research-2026-07-21.md
+- 신규 페이지: entities/drsante.md — 에스테틱 화장품 전문 기업 (23년, 8,000 거래처)
+- 갱신: index.md — 페이지수 20, Projects 섹션 분리

@@ -10,6 +10,7 @@
 - **[아이젤 계약검토 요청서 (2026-07-14)](entities/aizel-contract-review-request.md)**
 - **[아이젤 제조위탁계약 (화장품 반제품)](entities/aizel-contract.md)**
 - **[브랜업 조직도 (Branup Org Chart)](entities/branup-org-chart.md)**
+- **[Dr.SANTE (닥터상떼)](entities/drsante.md)**
 - **[Enagic USA — 미국 에나지크](entities/enagic-usa.md)**
 - **[Peachy — 미국 보톡스 전문 체인점](entities/peachy.md)**
 - **[AI/AX 직원 교육](entities/project-ai_ax_직원_교육.md)**
@@ -66,4 +67,4 @@
 
 ---
 
-*자동 생성: 2026-07-20 | 총 31페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-07-21 | 총 33페이지 (README.md·SCHEMA.md·log.md 제외)*
