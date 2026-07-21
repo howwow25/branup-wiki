@@ -235,3 +235,14 @@
 - projects + tasks 페이지 업데이트
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-21 22:24
+
+## [2026-07-22] cron | Wiki Daily Cron
+- STEP 1: DB Sync — OK (project-status, task-status)
+- STEP 2: Slack scan — 9 channels, 16 messages, 0 new files
+- STEP 2b: Channel page updates:
+  - `channels/코스메틱-본부.md` — 두코 박지 불일치, JNJ 샘플/금형 기준, 보라색 용기 디자인 컨펌, 캡 증착 일정
+  - `channels/업무에로사항.md` — 두코 감리 사진 전환, 시안→샘플→양산 프로세스 경고 재강조
+  - `channels/브랜업-에듀.md` — 신규 생성 (교육 채널, 비밀번호 공유)
+- STEP 3: README.md — OK
+- STEP 4: Git Push — OK (commit 04a521c)
+- STEP 5: Telegram report — 전송 완료
