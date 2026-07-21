@@ -19,6 +19,17 @@
 - **[시니어 마케터 채용 프로젝트](entities/project-시니어_마케터_채용_프로젝트.md)**
 - **[에나지크 발주 시뮬레이터](entities/project-에나지크_발주_시뮬레이터.md)**
 
+### 📌 채널 (Channels) — Slack 채널별 지식 허브
+
+- **[branup-design-backup](channels/branup-design-backup.md)**
+- **[채널 맵](channels/index.md)** — 전체 채널 목록 + 설명 + 퀵뷰
+- **[뷰티-프로젝트](channels/뷰티-프로젝트.md)**
+- **[브랜업-공지사항](channels/브랜업-공지사항.md)**
+- **[브랜업-에듀](channels/브랜업-에듀.md)**
+- **[아이젤-계약서](channels/아이젤-계약서.md)**
+- **[업무에로사항](channels/업무에로사항.md)**
+- **[코스메틱-본부](channels/코스메틱-본부.md)**
+
 ### 📌 개념 (Concepts)
 
 - **[아이젤 미팅 회의록 (2026-07-14) — 상세](concepts/aizel-meeting-2026-07-14.md)**
@@ -52,15 +63,17 @@
 
 | 정보공급처 | 방식 | 주기 |
 |-----------|------|:----:|
-| **Slack** | 채널 대화 + 첨부 문서(DOCX/PPTX/PDF) 분석 → Wiki 저장 | 매일 05:00 KST |
+| **Slack 채널** | 채널 대화 + 첨부 문서(DOCX/PPTX/PDF) 분석 → Wiki 저장 | 매일 05:00 KST |
+| **Slack 채널 (채널 페이지)** | 각 채널 최근 활동 스캔 → `channels/채널명.md` 갱신 | 매일 05:00 KST |
 | **Telegram** | 게이트웨이 메시지 감지 → Wiki 업데이트 | 실시간 |
 | **브랜업 대시보드** | API(`toffer.co.kr:8800`) → projects/tasks 동기화 | 매일 05:00 KST |
 
 ### 실행 순서 (매일 05:00 크론)
 1. `branup_db_wiki_sync.py` — 대시보드 DB 프로젝트/업무 데이터 → 위키
 2. Slack API — 모든 채널 전날 대화 + 첨부파일 분석
-3. `wiki_readme_generator.py` — README.md 자동 갱신
-4. GitHub 자동 push
+3. **채널 페이지 갱신** — 각 `channels/채널명.md`의 최근 활동 요약 + 의사결정 업데이트
+4. `wiki_readme_generator.py` — README.md 자동 갱신
+5. GitHub 자동 push
 
 ### 정기 점검
 - **매주 금요일 18:00** — 위키 lint (고아 페이지, 깨진 링크, 만료 콘텐츠)
