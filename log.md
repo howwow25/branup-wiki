@@ -251,3 +251,13 @@
 - projects + tasks 페이지 업데이트
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-22 05:03
+
+## [2026-07-22] cron | Wiki Daily Cron
+- STEP 1: DB Sync - OK (project-status, task-status)
+- STEP 2: Slack scan - 8 channels, 9 messages, 1 new file (encrypted PDF, text extraction skipped)
+- STEP 2b: Channel updates:
+  - channels/브랜업-에듀.md - 교육자료 PDF 등록 내역 추가
+  - channels/코스메틱-본부.md - JNJ 샘플 진행상황 상세 보강
+- STEP 3: README.md - OK
+- STEP 4: Git Push - OK (commit 6b6c248)
+- STEP 5: Telegram report - 전송 완료
