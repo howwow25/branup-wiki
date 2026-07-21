@@ -246,3 +246,8 @@
 - STEP 3: README.md — OK
 - STEP 4: Git Push — OK (commit 04a521c)
 - STEP 5: Telegram report — 전송 완료
+
+## [2026-07-22] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-22 05:03
