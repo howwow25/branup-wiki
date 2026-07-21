@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-07-21 | Total pages: 26
+> Last updated: 2026-07-22 | Total pages: 27
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -11,6 +11,7 @@
 - [[channels/branup-design-backup|branup-design-backup]] — 디자인팀: AI/PDF 패키징 파일, 인쇄 검수
 - [[channels/업무에로사항|업무에로사항]] — 리스크·병목·이슈 트래킹
 - [[channels/브랜업-공지사항|브랜업-공지사항]] — 전사 공지·회의록·정책 공유
+- [[channels/브랜업-에듀|브랜업-에듀]] — 사내 교육 및 학습 자료 공유 채널
 - 전체 채널 맵: [[channels/index|채널 맵 바로가기]]
 
 ## Entities (회사·인물·브랜드)
