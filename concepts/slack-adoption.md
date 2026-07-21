@@ -44,3 +44,6 @@ confidence: medium
 - [[aizel-contract|아이젤 제조위탁계약]] — 계약 검토 등 Slack 기반 협업 사례
 - [[government-support-programs|정부지원사업 모니터링]] — 크론잡·알림 자동화 사례
 - [[integrated-weekly-strategy|통합주간전략 자동화]] — AI 기반 업무 취합과 Slack 연계
+
+---
+*Source channels: [[channels/브랜업-공지사항]], [[channels/업무에로사항]]*

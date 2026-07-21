@@ -55,3 +55,6 @@ confidence: medium
 - [[aizel-contract|아이젤 제조위탁계약]] — 주요 협력사 계약
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너
 - [[slack-adoption|Slack 도입 및 내재화]] — 조직 커뮤니케이션 전환
+
+---
+*Source channels: [[channels/코스메틱-본부]], [[channels/업무에로사항]], [[channels/브랜업-공지사항]]*

@@ -90,3 +90,6 @@ confidence: medium
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
 - [[aizel-meeting-2026-07-14|아이젤 미팅 회의록]] — 물량 전망 및 시장 확대 논의
 - [[product-liability-insurance|PL보험]] — 미국 시장 PL보험 요건
+
+---
+*Source channels: [[channels/코스메틱-본부]], [[channels/branup-design-backup]], [[channels/뷰티-프로젝트]]*

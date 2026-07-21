@@ -200,3 +200,33 @@
 - 신규 파일: raw/articles/drsante-research-2026-07-21.md
 - 신규 페이지: entities/drsante.md — 에스테틱 화장품 전문 기업 (23년, 8,000 거래처)
 - 갱신: index.md — 페이지수 20, Projects 섹션 분리
+
+## [2026-07-21] restructure | Slack 채널별 지식 허브 (channels/) 도입
+
+**변경 사유:** 직원 피드백 — 채널별로 쌓이는 지식의 아이덴티티와 맥락을 위키에서도 추적 가능해야 함.
+
+### 신규 구조
+- `channels/` 디렉토리 신설 — Slack 채널 1:1 매핑 지식 페이지
+
+### 신규 생성 (7개 파일)
+- `channels/index.md` — 채널 맵 (6개 채널, 유형별/퀵뷰 테이블)
+- `channels/코스메틱-본부.md` — 화장품 본부: 제품 개발·샘플·원부자재
+- `channels/아이젤-계약서.md` — 아이젤 제조위탁계약 검토 및 협상 *(delegate parallel)*
+- `channels/branup-design-backup.md` — 디자인팀: AI/PDF 패키징, 인쇄 검수 *(delegate parallel)*
+- `channels/뷰티-프로젝트.md` — KANGEN BEAUTÉ 제품·패키지·디자인
+- `channels/업무에로사항.md` — 리스크·병목·이슈 트래킹
+- `channels/브랜업-공지사항.md` — 전사 공지·회의록·정책
+
+### SCHEMA.md 변경
+- 디렉토리 레이아웃에 `channels/` 추가
+- "Channel Pages" 섹션 신설 (생성 조건, 포맷, 내용 구조, 업데이트 규칙)
+
+### 기존 페이지 채널 역링크 추가 (4개)
+- `entities/enagic-usa.md` — + Source channels 표시
+- `entities/branup-org-chart.md` — + Source channels 표시
+- `concepts/aizel-meeting-2026-07-14.md` — + Source channels 표시
+- `concepts/slack-adoption.md` — + Source channels 표시
+
+### index.md 업데이트
+- Channels 섹션 신설 (6개 채널 + 채널 맵 링크)
+- 총 페이지 수: 20 → 26
