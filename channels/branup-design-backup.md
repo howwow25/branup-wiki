@@ -2,7 +2,7 @@
 title: "branup-design-backup"
 type: channel
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-23
 tags: [channel, department, design, packaging]
 slack_channel_id: (unknown)
 status: active
@@ -27,6 +27,24 @@ related_concepts: []
 - **DOCX 파일:** 카탈로그 카피 (영문/불어)
 
 ## 최근 활동 요약
+
+### 2026-07-23 — 감리 완료 및 NEW CATALOG-C PDF 등록
+
+| 파일명 | 설명 | 상태 |
+|--------|------|------|
+| `NEW CATALOG-C.pdf` (4.5MB) | Timeless Radiance Collection 최종 카탈로그 PDF | ✅ 등록 완료 |
+| `260722_에나지크_카탈로그_문안_수정지시서_디자이너용.pdf` (1.6MB) | 디자이너 전달용 수정 지시서 (빨간색 박스 표기) | ✅ 등록 완료 |
+| `브랜업-미국-표지-검수.pdf` (2.0MB) | 미국 표지 감리 완료 PDF | ✅ 등록 완료 (재다운로드) |
+| `브랜업-캐나다-표지-검수.pdf` (2.6MB) | 캐나다 표지 감리 완료 PDF | ✅ 등록 완료 (재다운로드) |
+
+- **두코 감리 완료** (07-22): 색 이상 없음, 기타 이상 없음. 캐나다 재발주시 CAN 간격 수정 필요
+- **카탈로그 여백 스타일 채택 완료**
+- **지원패키지 카탈로그 감리:** 재단 부분 주요사항 확인 완료
+- **NEW CATALOG-C 분석:**
+  - Ukon Curcumin Core, Advanced Vesicle Vehicle Delivery, 99.9% 순금 함유
+  - 4종 제품 (First Light Essence, Vital Rich Cream, Crystal Ampoule Cream, Essence Eclat Premier)
+  - 캐나다 버전 Essence Eclat Premier — 불어 명칭 병기
+- **카탈로그 문안 수정 15건 확인:** 미국 4건, 캐나다 11건 ^[raw/articles/260722-enagic-catalog-copy-review.md]
 
 ### 2026-07-16 — 최종 AI 파일 등록 및 검수 완료
 

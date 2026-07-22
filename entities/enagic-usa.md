@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-07-19
+updated: 2026-07-23
 type: entity
 tags: [partner, export, usa, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md]
 confidence: medium
 ---
 
@@ -85,6 +85,35 @@ confidence: medium
 - **주요 마케팅 키워드:** youthfully radiant, profoundly hydrated, enduring luminous glow
 - **카탈로그 구조:** Brand Introduction → 3-Step System Overview → 각 제품별 설명 (데이터 미포함, 마케팅/브랜드 카피 위주)
 - **다음 확인 필요:** 프랑스어 카탈로그 디자인 레이아웃, 제품별 이미지, 적용된 패키징 실제 사진
+
+### NEW CATALOG-C PDF (2026-07-23 수집)
+- **파일:** NEW CATALOG-C.pdf (4.5MB) — Slack #branup-design-backup 채널에서 확인
+- **카탈로그 C 버전** — Timeless Radiance Collection 최종 카탈로그 디자인
+- **주요 기술 특장점:**
+  - Ukon Curcumin Core — 일본 울금의 골든 보태니컬 브라이트닝
+  - Advanced Vesicle Vehicle Delivery — 첨단 베시클 전달 시스템
+  - Multi-Active Synergy — 다중 활성 성분 시너지
+  - 99.9% 순금 함유
+- **제품군:** First Light Essence (50mL), Vital Rich Cream, Crystal Ampoule Cream, Essence Eclat Premier
+- **캐나다 대응:** Essence Eclat Premier는 불어 명칭, 영문/불어 병기
+
+### 카탈로그 문안 수정 지시서 (2026-07-22)
+- **파일:** 260722_에나지크_카탈로그_문안_수정지시서_디자이너용.pdf
+- Slack #코스메틱-본부 채널에서 확인
+- **총 15건 수정:** 미국 4건, 캐나다 11건
+  - 미국: 2P(1건), 3P(2건), 4P(1건)
+  - 캐나다: 2P(3건), 3P(3건), 4P(5건)
+- 카탈로그 디자이너 전달용으로 PDF 위에 빨간색 박스로 수정 위치 표시
+- 2026-07-22일 작성, 금주 내 카탈로그 검수 예정 ^[raw/articles/260722-enagic-catalog-copy-review.md]
+
+### 인쇄/표지 검수 감리 완료 (2026-07-22~07-23)
+- **두코 감리 완료:** 색 이상 없음, 기타 이상 없음 (07-22 감리)
+- **추후 캐나다 재발주시:** CAN 간격 수정 필요
+- **카탈로그 여백 스타일 채택 완료**
+- **미국 표지 검수:** 우측 윗면 동박 아래 글자 추가, 후면 글자 변경, 윗면 글자 추가
+- **캐나다 표지 검수:** 동일 변경사항 적용
+- **브랜업-캐나다-후면-고시사항.pdf** 확인: First Light Essence(50mL) 등 4종 제품의 영·불어 성분·규격 표기 확정 ^[raw/articles/kangen-beaute-canada-back-label-202607.md]
+- **지원패키지 카탈로그 감리:** 재단 부분 주요사항 확인
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조

@@ -1,10 +1,10 @@
 ---
 title: Dr.SANTE (닥터상떼)
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-23
 type: entity
 tags: [company, competitor, cosmetics, korea, b2b]
-sources: [raw/articles/drsante-research-2026-07-21.md]
+sources: [raw/articles/drsante-research-2026-07-21.md, raw/articles/drsante-research-report-20260720.md]
 confidence: medium
 ---
 
