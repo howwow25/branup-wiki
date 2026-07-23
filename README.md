@@ -22,7 +22,9 @@
 ### 📌 채널 (Channels) — Slack 채널별 지식 허브
 
 - **[branup-design-backup](channels/branup-design-backup.md)**
+- **[#branup-전체](channels/branup-전체.md)**
 - **[채널 맵](channels/index.md)** — 전체 채널 목록 + 설명 + 퀵뷰
+- **[#kcl-해외인증실증지원사업-202607](channels/kcl-해외인증실증지원사업-202607.md)**
 - **[뷰티-프로젝트](channels/뷰티-프로젝트.md)**
 - **[브랜업-공지사항](channels/브랜업-공지사항.md)**
 - **[브랜업-에듀](channels/브랜업-에듀.md)**
@@ -38,6 +40,7 @@
 - **[수출바우처 (Export Voucher)](concepts/export-voucher.md)**
 - **[정부지원사업 모니터링](concepts/government-support-programs.md)**
 - **[통합주간전략 (7월 3주차, 2026-07-14)](concepts/integrated-weekly-strategy.md)**
+- **[KCL 해외인증실증지원사업 (2026)](concepts/kcl-overseas-certification-2026.md)**
 - **[PL보험 (Product Liability Insurance)](concepts/product-liability-insurance.md)**
 - **[브랜업 대시보드 프로젝트 현황](concepts/project-status.md)**
 - **[Slack 도입 및 내재화](concepts/slack-adoption.md)**
@@ -80,4 +83,4 @@
 
 ---
 
-*자동 생성: 2026-07-24 | 총 50페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-07-24 | 총 59페이지 (README.md·SCHEMA.md·log.md 제외)*

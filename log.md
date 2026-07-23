@@ -287,3 +287,40 @@
 - STEP 3: README.md — OK
 - 카탈로그 PDF 분석: KANGEN BEAUTE Timeless Radiance Collection (US/CA), raw/articles/kangen-beaute-catalog-2026-07-23.md
 - Errors: branup-전체(not_in_channel), kcl-해외인증실증지원사업-202607(not_in_channel)
+
+## [2026-07-24] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-24 08:48
+
+## [2026-07-24] cron | Wiki Daily Cron (2nd run)
+
+### STEP 1: DB Sync
+- concepts/project-status.md, concepts/task-status.md 업데이트 (branup_db_wiki_sync.py)
+
+### STEP 2: Slack 채널 수집
+- 5 active channels, 13 files, 9 analyzable PDFs
+- **kcl-해외인증실증지원사업-202607** — 신규 채널 진입 (이전 not_in_channel 해소)
+  - 수정사업계획서, 컨설팅 요청서, SGS 시나리오, 대면평가 발표자료, Q&A 대본 (5종 PDF 다운로드·분석 완료)
+- **branup-전체** — 신규 채널 진입, 뷰티 BM 채용공고 등록 (원티드/잡플래닛/데모데이)
+- 코스메틱-본부·branup-design-backup: 카탈로그 PDF 중복 (기 분석 완료, skip)
+
+### STEP 2b: 채널 페이지 업데이트
+- channels/kcl-해외인증실증지원사업-202607.md — **신규 생성** (KCL 지원사업 전용 채널)
+- channels/branup-전체.md — **신규 생성** (전사 채용 공고 채널)
+- channels/index.md — 채널 7→9개 갱신, kcl/branup-전체 추가
+
+### 신규 Wiki 페이지
+- concepts/kcl-overseas-certification-2026.md — KCL 해외인증실증지원사업 (2026) 상세
+  - 사업개요, SGS 시험 시나리오 (총 69,052,500원), 3개 카테고리 5종 시험, KPI, 발표자료·Q&A
+  - 출처: 5종 PDF 원본 및 raw/articles/
+
+### 신규 원본 파일
+- raw/articles/kcl-branup-plan-202607.md
+- raw/articles/kcl-consulting-summary-202607.md
+- raw/articles/kcl-sgs-scenario-20260722.md
+- raw/articles/kcl-presentation-202607.md
+- raw/articles/kcl-qa-script-202607.md
+
+### navigation 업데이트
+- index.md — channels 2개 + concepts 1개 추가, 총 페이지 28→31

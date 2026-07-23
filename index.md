@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-|> Last updated: 2026-07-24 | Total pages: 28
+|> Last updated: 2026-07-24 | Total pages: 31
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -12,6 +12,8 @@
 - [[channels/업무에로사항|업무에로사항]] — 리스크·병목·이슈 트래킹
 - [[channels/브랜업-공지사항|브랜업-공지사항]] — 전사 공지·회의록·정책 공유
 - [[channels/브랜업-에듀|브랜업-에듀]] — 사내 교육 및 학습 자료 공유 채널
+- [[channels/branup-전체|branup-전체]] — 전사 채용 공고·인사 안내
+- [[channels/kcl-해외인증실증지원사업-202607|kcl-해외인증실증지원사업-202607]] — KCL 해외인증실증지원사업: 대면평가·컨설팅·SGS 시험 시나리오
 - 전체 채널 맵: [[channels/index|채널 맵 바로가기]]
 
 ## Entities (회사·인물·브랜드)
@@ -42,6 +44,7 @@
 - [[product-liability-insurance|PL보험 (Product Liability Insurance)]] — 미국 수출 대비 PL보험 현황 및 쟁점
 - [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
 - [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발)
+- [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미 수출 실증. SGS 시험 패키지(69백만원), 대면평가 발표·Q&A, 수정사업계획서
 
 ## Comparisons (비교 분석)
 
