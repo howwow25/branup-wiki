@@ -274,3 +274,16 @@
 |- STEP 3: README.md — OK
 |- STEP 4: Git Push — OK (commit 56d9e5a)
 |- STEP 5: Telegram report — 전송
+
+## [2026-07-24] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-24 05:00
+
+## [2026-07-24] cron | Wiki Daily Cron
+- STEP 1: DB Sync — OK (concepts/project-status.md, concepts/task-status.md)
+- STEP 2: Slack scan — 10 ch, 5 msgs, 4 files (all PDF)
+- STEP 2b: Channel updates: 코스메틱-본부(인쇄감리일정), branup-design-backup(카탈로그 재등록)
+- STEP 3: README.md — OK
+- 카탈로그 PDF 분석: KANGEN BEAUTE Timeless Radiance Collection (US/CA), raw/articles/kangen-beaute-catalog-2026-07-23.md
+- Errors: branup-전체(not_in_channel), kcl-해외인증실증지원사업-202607(not_in_channel)

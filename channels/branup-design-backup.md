@@ -2,7 +2,7 @@
 title: "branup-design-backup"
 type: channel
 created: 2026-07-21
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [channel, department, design, packaging]
 slack_channel_id: (unknown)
 status: active
@@ -27,6 +27,12 @@ related_concepts: []
 - **DOCX 파일:** 카탈로그 카피 (영문/불어)
 
 ## 최근 활동 요약
+
+### 2026-07-24
+- **카탈로그 PDF 재등록** — 코스메틱-본부 채널과 동일 파일 2종 (Timeless Radiance Collection):
+  - `0723-카탈로그-캐나다.pdf` (10.8MB) — Enagic Canada Corp. 버전, 불어/영어 이중언어
+  - `0723-카탈로그-미국.pdf` (21.1MB) — Enagic USA 버전, 영어 단일언어
+  - 두 파일 모두 2페이지, InDesign 제작 (NEW CATALOG-C(2).indd)
 
 ### 2026-07-23 — 감리 완료 및 NEW CATALOG-C PDF 등록
 

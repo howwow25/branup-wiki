@@ -80,4 +80,4 @@
 
 ---
 
-*자동 생성: 2026-07-23 | 총 50페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-07-24 | 총 50페이지 (README.md·SCHEMA.md·log.md 제외)*
