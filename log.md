@@ -324,3 +324,25 @@
 
 ### navigation 업데이트
 - index.md — channels 2개 + concepts 1개 추가, 총 페이지 28→31
+
+## [2026-07-24] lint | Wiki health check
+- Slack #wiki 채널에 리포트 게시 완료
+- 총 123개 이슈 발견:
+  - Orphan pages: 16 (채널 페이지 9개, 기타 7개) — inbound wikilinks 없음
+  - Broken wikilinks: 8 (government-support-programs 3개, 아이젤-계약서 4개)
+  - Index completeness: project-status, task-status 누락
+  - Frontmatter: 11개 이슈 (9개 sources 누락, 2개 created 누락)
+  - Unknown tags: 50개 (SCHEMA.md taxonomy 미포함)
+  - Source drift: 25 raw 파일 (22 hash mismatch, 3 sha256 없음)
+  - Low confidence: branup-finance
+  - Single-source no confidence: 9개 페이지
+  - Index mismatch: 디스크 33페이지, index.md claim 31
+- Stale content: 0 (모두 90일 이내)
+- Oversized pages: 0
+- Contradictions: 0
+- Log rotation: 326/500 (OK)
+
+## [2026-07-25] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-25 05:01
