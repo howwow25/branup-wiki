@@ -343,6 +343,15 @@
 - Log rotation: 326/500 (OK)
 
 ## [2026-07-25] sync | 브랜업 대시보드 DB 동기화
-- projects + tasks 페이지 업데이트
+- projects + tasks 페이지 업데이트 (concepts/project-status.md, concepts/task-status.md)
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-25 05:01
+
+## [2026-07-25] update | Daily channel scan + 페이지 갱신
+- Slack 11개 채널 스캔, 5개 활성 (지난 24h 메시지 있음)
+- 신규 업로드 파일: 0건
+- 채널 페이지 업데이트:
+  - channels/코스메틱-본부.md — SNS 이미지 제작, 선크림 인증 준비, JNJ 크림자 의뢰 완료
+  - channels/아이젤-계약서.md — 아이젤 2차 회신 도착 (조영길 담당자)
+- README.md 자동 갱신 (59페이지)
+- Git push: commit c1c28d8 (6 files changed)
