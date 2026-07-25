@@ -355,3 +355,8 @@
   - channels/아이젤-계약서.md — 아이젤 2차 회신 도착 (조영길 담당자)
 - README.md 자동 갱신 (59페이지)
 - Git push: commit c1c28d8 (6 files changed)
+
+## [2026-07-26] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-26 05:00
