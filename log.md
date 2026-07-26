@@ -368,3 +368,8 @@
 - README.md 갱신 (59페이지)
 - Git push: commit 3095e89 (4 files changed)
 - Telegram report: OK
+
+## [2026-07-27] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-27 05:01
