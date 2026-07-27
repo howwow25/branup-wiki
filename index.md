@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-|> Last updated: 2026-07-24 | Total pages: 31
+|> Last updated: 2026-07-28 | Total pages: 40
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -12,7 +12,8 @@
 - [[channels/업무에로사항|업무에로사항]] — 리스크·병목·이슈 트래킹
 - [[channels/브랜업-공지사항|브랜업-공지사항]] — 전사 공지·회의록·정책 공유
 - [[channels/브랜업-에듀|브랜업-에듀]] — 사내 교육 및 학습 자료 공유 채널
-- [[channels/branup-전체|branup-전체]] — 전사 채용 공고·인사 안내
+- [[channels/branup-전체|브랜업-전체]] — 전사 채용 공고·인사 안내 (7/27 채널명 변경)
+- [[channels/브랜업고문단-1억불만들기|브랜업고문단-1억불만들기]] — 1억불 수출 목표 고문단 자문 채널. 이영진 고문 전략자료
 - [[channels/kcl-해외인증실증지원사업-202607|kcl-해외인증실증지원사업-202607]] — KCL 해외인증실증지원사업: 대면평가·컨설팅·SGS 시험 시나리오
 - 전체 채널 맵: [[channels/index|채널 맵 바로가기]]
 

@@ -22,12 +22,13 @@
 ### 📌 채널 (Channels) — Slack 채널별 지식 허브
 
 - **[branup-design-backup](channels/branup-design-backup.md)**
-- **[#branup-전체](channels/branup-전체.md)**
+- **[브랜업-전체 (구 branup-전체)](channels/branup-전체.md)**
 - **[채널 맵](channels/index.md)** — 전체 채널 목록 + 설명 + 퀵뷰
 - **[#kcl-해외인증실증지원사업-202607](channels/kcl-해외인증실증지원사업-202607.md)**
 - **[뷰티-프로젝트](channels/뷰티-프로젝트.md)**
 - **[브랜업-공지사항](channels/브랜업-공지사항.md)**
 - **[브랜업-에듀](channels/브랜업-에듀.md)**
+- **[브랜업고문단-1억불만들기](channels/브랜업고문단-1억불만들기.md)**
 - **[아이젤-계약서](channels/아이젤-계약서.md)**
 - **[업무에로사항](channels/업무에로사항.md)**
 - **[코스메틱-본부](channels/코스메틱-본부.md)**
@@ -83,4 +84,4 @@
 
 ---
 
-*자동 생성: 2026-07-27 | 총 59페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-07-28 | 총 68페이지 (README.md·SCHEMA.md·log.md 제외)*

@@ -373,3 +373,31 @@
 - projects + tasks 페이지 업데이트
 - 출처: http://toffer.co.kr:8800/api
 - 동기화 시각: 2026-07-27 05:01
+
+## [2026-07-27] cron | Daily wiki maintenance
+- Slack 11개 채널 스캔, 0건 메시지 (주말)
+- 신규 업로드 파일: 0건
+- 채널 페이지 업데이트: 없음
+- README.md 갱신 (59페이지)
+- Git push: commit 133a13e (4 files changed)
+- Telegram report: OK
+
+## [2026-07-28] sync | 브랜업 대시보드 DB 동기화
+- projects + tasks 페이지 업데이트
+- 출처: http://toffer.co.kr:8800/api
+- 동기화 시각: 2026-07-28 05:02
+
+## [2026-07-28] cron | Daily wiki maintenance
+- Slack 14개 채널 스캔, 5개 활성 (지난 24h 메시지 있음)
+- 신규 업로드 파일: 8건 (모두 브랜업고문단-1억불만들기 채널)
+- 파일 분석 완료: DOCX 3건, PDF 2건, PPTX 2건, XLSX 1건
+- 신규 채널 페이지 생성: channels/브랜업고문단-1억불만들기.md
+- 채널 페이지 업데이트:
+  - channels/뷰티-프로젝트.md — 2차/3차 파일럿 오더 일정 논의
+  - channels/코스메틱-본부.md — 스탭2·3 시어버터/오일비중 포뮬러 이슈
+  - channels/branup-전체.md — 채널명 변경 반영, 마케터 면접 7/31 확정
+  - channels/branup-design-backup.md — 디자인 파일 등록
+- raw/ 신규 8건: amorepacific-counselor-expansion, ftc-mlm-regulation, advisor-response-dermabeauty, advisory-brainstorming-dermabeauty, global-direct-sales-beauty, brand-insight-book, yookil-pharmacy-insight, keymedi-ir-book
+- channels/index.md 갱신 (10개 채널)
+- index.md 갱신 (40페이지)
+- README.md 자동 갱신 (68페이지)

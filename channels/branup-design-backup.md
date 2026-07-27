@@ -2,7 +2,7 @@
 title: "branup-design-backup"
 type: channel
 created: 2026-07-21
-updated: 2026-07-24
+updated: 2026-07-28
 tags: [channel, department, design, packaging]
 slack_channel_id: (unknown)
 status: active
@@ -18,17 +18,20 @@ related_concepts: []
 
 ## 채널 개요
 
-브랜업(주) 디자인팀의 디자인 파일 중앙 저장소 채널. 미국·캐나다 수출 제품의 패키징 디자인 원본(AI/INDD), 인쇄 검수 PDF, 라벨 고시사항, 최종 확정 파일을 등록·보관한다.
-
-주요 파일 유형:
-- **AI 파일:** Adobe Illustrator 최종 디자인 원본 (인쇄용)
-- **PDF 파일:** 인쇄 검수본, 라벨 고시사항 PDF
-- **JPG 파일:** 최종 이미지 확인용 (전면/면지)
-- **DOCX 파일:** 카탈로그 카피 (영문/불어)
+| 항목 | 내용 |
+|------|------|
+| **Slack 채널** | #branup-design-backup |
+| **유형** | 부서 채널 |
+| **상태** | active |
+| **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
 
+### 2026-07-27
+- 디자인 파일 2건 등록 (이미지 파일 — AI/PDF 처리 불필요)
+
 ### 2026-07-24
+- NEW CATALOG-C PDF 등록
 - **카탈로그 PDF 재등록** — 코스메틱-본부 채널과 동일 파일 2종 (Timeless Radiance Collection):
   - `0723-카탈로그-캐나다.pdf` (10.8MB) — Enagic Canada Corp. 버전, 불어/영어 이중언어
   - `0723-카탈로그-미국.pdf` (21.1MB) — Enagic USA 버전, 영어 단일언어

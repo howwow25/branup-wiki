@@ -1,6 +1,6 @@
 ---
 title: 브랜업 대시보드 프로젝트 현황
-updated: 2026-07-27
+updated: 2026-07-28
 type: concept
 tags: [workflow, project, reporting, dashboard]
 sources: []
@@ -12,7 +12,7 @@ confidence: medium
 > 브랜업 대시보드 DB에서 자동 수집. 총 8개 프로젝트.
 > 출처: [브랜업 대시보드](http://toffer.co.kr/branup/branup-watcher/)
 
-*최종 업데이트: 2026-07-27*
+*최종 업데이트: 2026-07-28*
 
 ### 🟢 진행 (2개)
 
