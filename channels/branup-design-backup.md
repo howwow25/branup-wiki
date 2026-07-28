@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
@@ -33,6 +33,8 @@ related_concepts: []
 - **채널명 변경:** branup-design-backup → design-backup (간소화)
 - **에나지크-칸겐뷰티 브랜드 구조 정리 지시** — Ashton, 디자인팀에 폰트·문안 정리 및 키메디 검사 사전 진행으로 용기 디자인 조기 확정 지시
 - Canvas 업데이트 8건 (USLACKBOT — 탭 콘텐츠 자동 갱신)
+  - 2026-07-28: Canvas 탭 콘텐츠 2회 갱신 (11:44, 10:33)
+  - 나머지 6건은 7/21~7/27 기간 내 갱신
 
 ### 2026-07-27
 - 디자인 파일 2건 등록 (이미지 파일 — AI/PDF 처리 불필요)

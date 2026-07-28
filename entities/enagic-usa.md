@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-07-23
+updated: 2026-07-29
 type: entity
 tags: [partner, export, usa, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
 confidence: medium
 ---
 
@@ -114,6 +114,16 @@ confidence: medium
 - **캐나다 표지 검수:** 동일 변경사항 적용
 - **브랜업-캐나다-후면-고시사항.pdf** 확인: First Light Essence(50mL) 등 4종 제품의 영·불어 성분·규격 표기 확정 ^[raw/articles/kangen-beaute-canada-back-label-202607.md]
 - **지원패키지 카탈로그 감리:** 재단 부분 주요사항 확인
+
+### 포장사양서 업데이트 (2026-07-28)
+- **미국·캐나다 포장사양서 PDF** 업로드 (12MB) — Slack `코스메틱-본부`
+  - 미국: 싸바리 박스 → 카탈로그 → 트레이싱지 / 3종 용기(에센스·크림·앰플크림 각 50ml)
+  - 캐나다: 동일 구조, 트레이싱지만 미국과 동일 (용기 문안·카탈로그 별도)
+  - 파일: raw/articles/branup-packaging-spec-usa-canada-20260728.md
+- **v2 포장사양서 제작 누락 이슈:** 에나직 상반기 v2 포장사양서 미제작 — BOM(Bill of Materials) 관리 체계 도입 필요성 제기
+- **v3 패키지 바코드 도입 검토** 진행
+- **에나지크-칸겐뷰티 브랜드 구조 정리:** 폰트·문안 정리, 키메디(용기) 검사 사전 진행 → 용기 디자인 조기 확정 지시
+^[raw/articles/branup-packaging-spec-usa-canada-20260728.md]
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조

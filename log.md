@@ -444,3 +444,32 @@
 - concepts/브랜업-대시보드-현황.md
 - index.md
 - 프로젝트 9개, 업무 59건 동기화 완료
+
+## [2026-07-29] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 61건 동기화 완료
+
+## [2026-07-29] scan | Slack 채널 스캔 및 Wiki 갱신
+- 채널 활동: 코스메틱-본부(5건 메시지, 포장사양서 PDF), design-backup(Canvas 2회 갱신), 브랜업-전체, 업무에로사항
+- PDF 분석: 브랜업-미국-캐나다-포장사양.pdf (12MB, 2페이지, 텍스트 추출 완료)
+- 업데이트 페이지:
+  - channels/코스메틱-본부.md — 포장사양서, v3 바코드, BOM 관리 활동 추가
+  - channels/업무에로사항.md — 포장사양서 누락 이슈 추가
+  - channels/branup-design-backup.md — Canvas 갱신 상세 추가
+  - channels/branup-전체.md — updated 날짜 갱신
+  - entities/enagic-usa.md — 포장사양서 업데이트, BOM 관리 이슈 추가
+  - projects/에나지크_발주_시뮬레이터.md — 📋 최근 활동 신규 섹션
+  - raw/articles/branup-packaging-spec-usa-canada-20260728.md — 신규
+  - channels/index.md — 퀵뷰 테이블 갱신
+- 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 8건 (design-backup)

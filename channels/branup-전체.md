@@ -2,7 +2,7 @@
 title: "브랜업-전체 (구 branup-전체)"
 type: channel
 created: 2026-07-24
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [channel, department, announcement, hr, design]
 slack_channel_id: C0BFWTY46FK
 status: active
