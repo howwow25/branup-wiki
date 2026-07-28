@@ -429,3 +429,18 @@
 - channels/index.md 갱신 (10개 채널)
 - index.md 갱신 (40페이지, design-backup 링크)
 - 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 8건 (design-backup)
+
+## [2026-07-28] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 59건 동기화 완료

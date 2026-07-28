@@ -30,5 +30,11 @@ https://www.instagram.com/p/DZhhhPJk3g6/?img_index=4
 
 ## 📝 업무 (1건)
 
+### 🔄 진행중 (1건)
+
+- **AI/AX 도입 교육 - AI기초교육 및  SMW2026 전달 교육/계획 발표**
+  - 교육 일정 7/20 월 오후4시 https://www.instagram.com/p/DZhhhPJk3g6/?img_index=4 주요 플러그인, MCP, 스킬 들 중 우리에게 필요한 것 부터  매주 n개 씩 리뷰 하기. 사용법 위주로. https://github.com/coreyhaines31/marketingskills https://github.com/o
+  - 담당: 이향석, 전경표 | 마감: 2026-07-30
+
 ---
 *마지막 동기화: 2026-07-28 | Source: [[concepts/브랜업-대시보드-현황]]*
