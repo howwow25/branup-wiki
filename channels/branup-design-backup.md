@@ -1,31 +1,38 @@
 ---
-title: "branup-design-backup"
+title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
 updated: 2026-07-28
 tags: [channel, department, design, packaging]
-slack_channel_id: (unknown)
+slack_channel_id: C0BFY92PQUF
 status: active
 related_entities: [entities/enagic-usa]
 related_concepts: []
 ---
 
-# #branup-design-backup — 디자인팀 디자인 파일 저장소
+# design-backup — 디자인팀 디자인 파일 저장소
+
+> 2026-07-28 채널명 변경: branup-design-backup → design-backup
 
 > **채널 유형:** 부서 채널 (디자인팀)
 > **목적:** 디자인 원본 파일(AI/PDF/INDD), 인쇄 검수 PDF, 라벨 최종본, 패키징 디자인 파일 보관 및 관리
-> **Slack:** #branup-design-backup
+> **Slack:** #design-backup
 
 ## 채널 개요
 
 | 항목 | 내용 |
 |------|------|
-| **Slack 채널** | #branup-design-backup |
+| **Slack 채널** | #design-backup |
 | **유형** | 부서 채널 |
 | **상태** | active |
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-07-28
+- **채널명 변경:** branup-design-backup → design-backup (간소화)
+- **에나지크-칸겐뷰티 브랜드 구조 정리 지시** — Ashton, 디자인팀에 폰트·문안 정리 및 키메디 검사 사전 진행으로 용기 디자인 조기 확정 지시
+- Canvas 업데이트 8건 (USLACKBOT — 탭 콘텐츠 자동 갱신)
 
 ### 2026-07-27
 - 디자인 파일 2건 등록 (이미지 파일 — AI/PDF 처리 불필요)

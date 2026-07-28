@@ -21,7 +21,7 @@
 
 ### 📌 채널 (Channels) — Slack 채널별 지식 허브
 
-- **[branup-design-backup](channels/branup-design-backup.md)**
+- **[design-backup (구 branup-design-backup)](channels/branup-design-backup.md)**
 - **[브랜업-전체 (구 branup-전체)](channels/branup-전체.md)**
 - **[채널 맵](channels/index.md)** — 전체 채널 목록 + 설명 + 퀵뷰
 - **[#kcl-해외인증실증지원사업-202607](channels/kcl-해외인증실증지원사업-202607.md)**
@@ -47,6 +47,7 @@
 - **[Slack 도입 및 내재화](concepts/slack-adoption.md)**
 - **[브랜업 대시보드 업무 현황](concepts/task-status.md)**
 - **[TSonaX — 실시간 차트 분석 시스템](concepts/tsonax.md)**
+- **[브랜업 대시보드 현황](concepts/브랜업-대시보드-현황.md)**
 
 ### 📌 비교 분석 (Comparisons)
 
@@ -84,4 +85,4 @@
 
 ---
 
-*자동 생성: 2026-07-28 | 총 68페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-07-28 | 총 78페이지 (README.md·SCHEMA.md·log.md 제외)*

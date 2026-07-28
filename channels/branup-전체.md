@@ -3,7 +3,7 @@ title: "브랜업-전체 (구 branup-전체)"
 type: channel
 created: 2026-07-24
 updated: 2026-07-28
-tags: [channel, department, announcement, hr]
+tags: [channel, department, announcement, hr, design]
 slack_channel_id: C0BFWTY46FK
 status: active
 ---
@@ -22,9 +22,13 @@ status: active
 
 ## 최근 활동 요약
 
+### 2026-07-28
+- **에나지크-칸겐뷰티 브랜드 구조·디자인 지시** — Ashton, 폰트·문안 정리, 키메디 검사 사전 진행 → 용기 디자인 조기 확정, 디자인팀(design-backup)에 전달
+- **카탈로그 인쇄감리:** 7/29(화) 오후 3시 30분, UV 인쇄소에서 진행 — 주소 공유 완료
+
 ### 2026-07-27
 - **채널명 변경:** branup-전체 → 브랜업-전체 (한글화)
-- **카탈로그 인쇄감리 일정:** 7/29(월) 오후 3시 30분, UV 인쇄소에서 진행 예정 — 주소 공유
+- **카탈로그 인쇄감리 일정:** 7/29(월→화) 오후 3시 30분, UV 인쇄소에서 진행 예정 — 주소 공유
 - **명함 양식 공유** — 새 명함 템플릿 등록
 - **브랜드 마케터(리드급) 면접 일정:** 지원자 안현수, 7/31(금) 오후 4시 확정 (대표님 확인 완료)
 

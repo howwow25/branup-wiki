@@ -13,7 +13,7 @@
 
 ## 부서/조직 채널
 
-- [[channels/branup-design-backup|branup-design-backup]] — 디자인팀: AI/PDF 패키징 디자인 파일, 인쇄 검수, 라벨 원본
+- [[channels/branup-design-backup|design-backup]] — 디자인팀: AI/PDF 패키징 디자인 파일, 인쇄 검수, 라벨 원본 (7/28 채널명 변경)
 - [[channels/브랜업-공지사항|브랜업-공지사항]] — 전사 공지/회의록/정책 공유
 - [[channels/브랜업-에듀|브랜업-에듀]] — 사내 교육 및 학습 자료 공유 채널
 - [[channels/branup-전체|브랜업-전체]] — 전사 채용 공고, 인사 안내 (7/27 채널명 한글화)
@@ -28,7 +28,7 @@
 | 뷰티-프로젝트 | 프로젝트 | active | 2차 파일럿 오더 9월 중순 목표, 1차 8월 완판 예상 |
 | kcl-해외인증실증지원사업-202607 | 프로젝트 | active | 수정사업계획서·SGS 견적 검토, 대면평가 발표 준비 완료 |
 | 브랜업고문단-1억불만들기 | 프로젝트 | active | 이영진 고문, 8건 전략자료 업로드 (해외방판·FTC·더마뷰티) |
-| branup-design-backup | 부서 | active | 디자인 파일 등록 |
+| design-backup | 부서 | active | 채널명 변경(design-backup), 에나지크-칸겐뷰티 브랜드 구조·용기 디자인 지시 |
 | 업무에로사항 | 부서 | active | R&R 명확화 논의, 에나지크 발주 시뮬레이션 툴 기획 |
 | 브랜업-공지사항 | 부서 | active | Slack 전환, 주간 회의록 공유 |
 | 브랜업-에듀 | 부서 | active | 교육 자료 4개 추가 등록(85MB) |

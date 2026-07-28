@@ -8,7 +8,7 @@
 - [[channels/코스메틱-본부|코스메틱-본부]] — 화장품 본부: 제품 개발·샘플·원부자재·바이어 커뮤니케이션
 - [[channels/아이젤-계약서|아이젤-계약서]] — 아이젤 제조위탁계약 검토 및 협상
 - [[channels/뷰티-프로젝트|뷰티-프로젝트]] — KANGEN BEAUTÉ 제품·패키지·디자인 프로젝트
-- [[channels/branup-design-backup|branup-design-backup]] — 디자인팀: AI/PDF 패키징 파일, 인쇄 검수
+- [[channels/branup-design-backup|design-backup]] — 디자인팀: AI/PDF 패키징 파일, 인쇄 검수 (7/28 채널명 변경)
 - [[channels/업무에로사항|업무에로사항]] — 리스크·병목·이슈 트래킹
 - [[channels/브랜업-공지사항|브랜업-공지사항]] — 전사 공지·회의록·정책 공유
 - [[channels/브랜업-에듀|브랜업-에듀]] — 사내 교육 및 학습 자료 공유 채널

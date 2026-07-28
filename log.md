@@ -416,3 +416,16 @@
 - concepts/브랜업-대시보드-현황.md
 - index.md
 - 프로젝트 9개, 업무 59건 동기화 완료
+
+## [2026-07-28] cron | Daily wiki maintenance
+- Slack 14개 채널 스캔, 3개 활성 (뷰티-프로젝트, 브랜업-전체, design-backup)
+- 신규 파일: 0건
+- 채널명 변경 감지: branup-design-backup → design-backup (7/28, Ashton)
+  - 페이지 제목·링크·채널맵 모두 갱신 (파일명 유지)
+- 채널 페이지 업데이트:
+  - channels/branup-design-backup.md — 채널명 변경 반영, 에나지크-칸겐뷰티 브랜드 구조·용기 디자인 지시, Canvas 8건
+  - channels/branup-전체.md — 7/28 활동: 에나지크-칸겐뷰티 브랜드 구조·키메디 검사, 인쇄감리 7/29 확정
+  - channels/뷰티-프로젝트.md — design-backup 링크 갱신
+- channels/index.md 갱신 (10개 채널)
+- index.md 갱신 (40페이지, design-backup 링크)
+- 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 8건 (design-backup)
