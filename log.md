@@ -502,3 +502,9 @@
   - index.md — 브랜업-계약서 label 갱신
 - 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 9건
 - DB sync: 프로젝트 9개, 업무 67건
+
+## [2026-07-30] ingest | 브랜업 신입직원 온보딩 매뉴얼
+- entities/브랜업-신입직원-온보딩-매뉴얼.md (805줄)
+- channels/브랜업-온보딩.md (신규 채널)
+- channels/index.md, index.md 업데이트
+- Source: Slack #브랜업-온보딩 (C0BKH0CDEET)
