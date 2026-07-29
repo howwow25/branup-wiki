@@ -473,3 +473,32 @@
   - raw/articles/branup-packaging-spec-usa-canada-20260728.md — 신규
   - channels/index.md — 퀵뷰 테이블 갱신
 - 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 8건 (design-backup)
+
+## [2026-07-30] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 67건 동기화 완료
+
+## [2026-07-30] scan | Slack 채널 스캔 및 Wiki 갱신
+- 채널 활동: 코스메틱-본부(6건, BOM XLSX 2종 등록), design-backup(Canvas 2회 갱신), 브랜업-전체(1건), 브랜업-계약서(채널명 변경), 업무에로사항(1건)
+- 채널명 변경: 아이젤-계약서 → 브랜업-계약서 (2026-07-29)
+- Canvas 이벤트: design-backup 2건, 브랜업-계약서 1건
+- 업데이트 페이지:
+  - channels/코스메틱-본부.md — BOM 양식 2종 등록, updated
+  - channels/branup-design-backup.md — Canvas 갱신, updated
+  - channels/아이젤-계약서.md → 브랜업-계약서 (채널명 변경, Canvas 이벤트)
+  - projects/에나지크_발주_시뮬레이터.md — 📋 최근 활동 갱신
+  - channels/index.md — 브랜업-계약서 label 갱신, 퀵뷰 테이블
+  - index.md — 브랜업-계약서 label 갱신
+- 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 9건
+- DB sync: 프로젝트 9개, 업무 67건
