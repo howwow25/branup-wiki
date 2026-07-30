@@ -508,3 +508,35 @@
 - channels/브랜업-온보딩.md (신규 채널)
 - channels/index.md, index.md 업데이트
 - Source: Slack #브랜업-온보딩 (C0BKH0CDEET)
+
+## [2026-07-31] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 64건 동기화 완료
+
+## [2026-07-31] scan | Slack 채널 스캔 및 Wiki 갱신
+- 채널 활동: 코스메틱-본부 (1건 메시지, 2개 PDF 다운로드)
+- 신규 다운로드 파일 (2건):
+  - `slack_코스메틱-본부_F0BLQJCJASZ_칸겐_인스타_새_기획_ (2).pdf` (17.6MB) — 칸겐 인스타 콘텐츠 전략 기획서
+  - `slack_코스메틱-본부_F0BMMUD5Z88_07.30 블리스팩 미팅 — Meeting Notes.pdf` (9.2MB) — BLISSPACK 동결건조 화장품 미팅
+- Canvas 이벤트: design-backup 4건, 브랜업-계약서 1건
+- 업데이트 페이지:
+  - channels/코스메틱-본부.md — 7/30 활동: 인스타 기획서, 블리스팩 미팅
+  - channels/branup-design-backup.md — Canvas 4건 갱신
+  - channels/아이젤-계약서.md — Canvas 1건 갱신
+  - projects/칸겐뷰티_sns_운영.md — 📋 최근 활동 신규: 인스타 전략 기획서
+  - raw/articles/kangen-insta-strategy-20260730.md — 신규
+  - raw/articles/blisspack-meeting-notes-20260730.md — 신규
+  - channels/index.md, projects/index.md, index.md — 날짜 갱신
+- 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 9건
+- DB sync: 프로젝트 9개, 업무 64건
