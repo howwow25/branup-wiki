@@ -540,3 +540,44 @@
   - channels/index.md, projects/index.md, index.md — 날짜 갱신
 - 북마크 스캔: 신규 북마크 0건, Canvas 이벤트 9건
 - DB sync: 프로젝트 9개, 업무 64건
+
+## [2026-07-31] lint | Wiki 전체 건강검진
+- 페이지: 47개 (entity 11, concept 13, channel 11, project 9, summary 1, index 1)
+- Raw 파일: 39개
+- 총 이슈: 83건
+- 🔴 깨진 링크 9건: concept: 접두사 오타 2건, trailing backslash 4건, branup-work-dashboard 미존재, .pdf 확장자 오류 1건
+- 🟡 인덱스 누락 4건: project-status, task-status, 브랜업-대시보드-현황, 브랜업-신입직원-온보딩-매뉴얼
+- 🟡 고립 페이지 7건: task-status, tsonax, project-* 5개
+- 🟠 미등록 태그 28종 (announcement, company, dashboard, department, design, government, legal, product 등)
+- 🟠 Frontmatter 누락 4건: project-status, task-status, 브랜업-대시보드-현황, 브랜업-신입직원-온보딩-매뉴얼
+- 🔵 과대 페이지 1건: 브랜업-신입직원-온보딩-매뉴얼 (806줄)
+- 🔵 로그 로테이션 필요 (542줄 > 500)
+- 보고서: #wiki Slack 채널 전송 완료
+
+## [2026-08-01] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 64건 동기화 완료
+
+## [2026-08-01] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 64건 (branup_db_wiki_sync.py)
+- Slack 스캔: 3개 활성 채널 (브랜업-전체 2건, 코스메틱-본부 1건, wiki 1건), 신규 파일 0건
+- Canvas 이벤트: 9건 (branup-design-backup 8, 아이젤-계약서 1 — 모두 기기록)
+- 채널 페이지 업데이트:
+  - channels/branup-전체.md — 7/31 면접 진행·추가 일정 조율
+  - channels/코스메틱-본부.md — 7/31 거래명세서 최신화
+- 프로젝트 페이지 업데이트:
+  - projects/시니어_마케터_채용_프로젝트.md — 📋 최근 활동: 안현수 면접·평가
+  - projects/뷰티_bm_채용_프로젝트.md — 📋 최근 활동: 면접 진행
+  - projects/에나지크_발주_시뮬레이터.md — 📋 최근 활동: 거래명세서
+- channels/index.md — 날짜·퀵뷰 갱신
