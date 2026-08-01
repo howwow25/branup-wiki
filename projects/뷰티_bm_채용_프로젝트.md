@@ -1,7 +1,7 @@
 ---
 title: 뷰티 BM 채용 프로젝트
 created: 2026-07-23
-updated: 2026-08-01
+updated: 2026-08-02
 type: project
 tags: [project, 진행]
 sources: [branup-dashboard]
@@ -26,7 +26,6 @@ confidence: high
 
 목표: 화장품 상품기획 BM 채용
 
----
 
 ## 📋 최근 활동
 
@@ -35,9 +34,11 @@ confidence: high
 
 ---
 
+---
+
 ## 📝 업무
 
 *(등록된 업무 없음)*
 
 ---
-*마지막 동기화: 2026-08-01 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-08-02 | Source: [[concepts/브랜업-대시보드-현황]]*
