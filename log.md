@@ -605,3 +605,14 @@
 - Wiki 페이지 업데이트: 없음 (신규 활동 없음)
 - 네비게이션 갱신: index.md 날짜 갱신, README.md 재생성
 
+
+- 프로젝트 9개, 업무 61건 동기화 완료
+
+## [2026-08-03] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 61건 (branup_db_wiki_sync.py)
+- Slack 스캔: 13개 채널 스캔, 최근 24시간 내 신규 메시지 0건 (월요일 05:00 KST)
+- Canvas 이벤트: 9건 (branup-design-backup 8, 아이젤-계약서 1 — 모두 기기록, USLACKBOT auto-refresh)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: 없음 (신규 활동 없음)
+- 네비게이션 갱신: README.md 재생성
