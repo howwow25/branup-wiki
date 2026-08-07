@@ -43,5 +43,5 @@ confidence: medium
 
 ## 관련 문서
 - [[government-support-programs|정부지원사업 모니터링]]
-- [[concept:product-liability-insurance|PL보험]] — 수출 시 필수 병행 보험
+- [[product-liability-insurance|PL보험]] — 수출 시 필수 병행 보험
 - [[enagic-usa|Enagic USA]]

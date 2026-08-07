@@ -41,6 +41,6 @@ confidence: medium
 - 🔴 (업데이트 필요: slack-history 검색 요망)
 
 ## 관련 문서
-- [[concept:export-voucher|수출바우처 상세]]
+- [[export-voucher|수출바우처 상세]]
 - [[branup-work-dashboard]] — 지원사업 현황 대시보드
-- [[concept:product-liability-insurance|PL보험]] — 수출 시 필수 보험
+- [[product-liability-insurance|PL보험]] — 수출 시 필수 보험

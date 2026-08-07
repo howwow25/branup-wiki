@@ -1,7 +1,7 @@
 ---
 title: 뷰티 BM 채용 프로젝트
 created: 2026-07-23
-updated: 2026-08-07
+updated: 2026-08-08
 type: project
 tags: [project, 진행]
 sources: [branup-dashboard]
@@ -46,6 +46,8 @@ confidence: high
 
 ---
 
+---
+
 ## 📝 업무 (1건)
 
 ### 🔄 진행중 (1건)
@@ -55,4 +57,4 @@ confidence: high
   - 담당: 전경표 | 마감: 2026-08-10
 
 ---
-*마지막 동기화: 2026-08-07 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-08-08 | Source: [[concepts/브랜업-대시보드-현황]]*
