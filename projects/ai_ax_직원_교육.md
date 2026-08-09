@@ -1,7 +1,7 @@
 ---
 title: AI/AX 직원 교육
 created: 2026-06-16
-updated: 2026-08-09
+updated: 2026-08-10
 type: project
 tags: [project, 계획]
 sources: [branup-dashboard]
@@ -37,4 +37,4 @@ https://www.instagram.com/p/DZhhhPJk3g6/?img_index=4
   - 담당: 이향석, 전경표 | 마감: 2026-08-13
 
 ---
-*마지막 동기화: 2026-08-09 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-08-10 | Source: [[concepts/브랜업-대시보드-현황]]*
