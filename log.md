@@ -147,3 +147,30 @@
 - 신규 파일: 0건
 - Wiki 페이지 업데이트: 없음 (6일 연속 Slack 활동 없음, 월요일)
 - 네비게이션 갱신: index.md 날짜 갱신, README.md 재생성 (85개 페이지)
+
+## [2026-08-11] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 75건 동기화 완료
+
+## [2026-08-11] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 75건 (branup_db_wiki_sync.py, +12건: 63→75)
+- Slack 스캔: 15개 채널 스캔, 2개 채널 활동 감지
+  - 브랜업-전체: 이미지 파일 4건 게시 (other-*.jpg, 텍스트 없음)
+  - design-backup: USLACKBOT canvas auto-refresh 2건
+- Canvas 이벤트: 11건 (design-backup 10, 아이젤-계약서 1 — 모두 USLACKBOT auto-refresh)
+- 북마크: 0건
+- 신규 문서 파일: 0건 (PDF/DOCX/PPTX/XLSX 없음)
+- Wiki 페이지 업데이트: 없음 (신규 Slack 활동 없음)
+- 네비게이션 갱신: channels/branup-전체.md updated date, channels/branup-design-backup.md updated date, README.md 재생성 (85개 페이지)
+- 대시보드 신규 업무 12건 반영 완료 (projects/ 디렉토리 자동 동기화)

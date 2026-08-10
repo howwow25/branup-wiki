@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-08-01
+updated: 2026-08-11
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
