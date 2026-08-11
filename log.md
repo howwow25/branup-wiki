@@ -174,3 +174,34 @@
 - Wiki 페이지 업데이트: 없음 (신규 Slack 활동 없음)
 - 네비게이션 갱신: channels/branup-전체.md updated date, channels/branup-design-backup.md updated date, README.md 재생성 (85개 페이지)
 - 대시보드 신규 업무 12건 반영 완료 (projects/ 디렉토리 자동 동기화)
+
+## [2026-08-12] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 74건 동기화 완료
+
+## [2026-08-12] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 74건 (branup_db_wiki_sync.py, -1건: 75→74)
+- Slack 스캔: 15개 채널 스캔, 3개 채널 활동 감지
+  - 코스메틱-본부: 카톤박스 Ver.2 도면 공유 (JPG 7.6MB, 원단 KLB/3SK/D/W)
+  - kcl-해외인증실증지원사업-202607: KCL 최종협약체결서류 PDF 등록 (11MB, 24페이지 스캔본, 2026-08-10 생성)
+  - design-backup: USLACKBOT canvas auto-refresh 12건 (8/5~8/12, 7일 연속)
+- Canvas 이벤트: 12건 (design-backup 11, 브랜업-계약서 1 — 모두 USLACKBOT auto-refresh)
+- 북마크: 0건
+- 신규 문서 파일: 1건 (KCL최종협약체결서류.pdf, 이미지 전용 PDF — 텍스트 추출 불가)
+- Wiki 페이지 업데이트:
+  - channels/kcl-해외인증실증지원사업-202607.md: KCL 협약서 등록 활동 추가
+  - channels/코스메틱-본부.md: 카톤박스 Ver.2 도면 활동 추가
+  - channels/branup-design-backup.md: Canvas 주간 활동 요약 추가
+  - projects/kcl_sgs_안정성검사_사업_실행_12_31.md: KCL 협약 체결 단계 진입 기록
+- 네비게이션 갱신: index.md, README.md 재생성, log.md

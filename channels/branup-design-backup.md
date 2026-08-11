@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
@@ -28,6 +28,9 @@ related_concepts: []
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-08-05 ~ 2026-08-12
+- Canvas 탭 콘텐츠 12회 자동 갱신 (USLACKBOT — tabbed_canvas_updated). 디자인팀 Canvas 작업 지속 중. 7일 연속 패턴으로 일상적인 디자인 파일 업데이트로 추정
 
 ### 2026-07-30
 - Canvas 탭 콘텐츠 4회 갱신 (USLACKBOT — 22:24, 21:13, 17:57, 17:56 KST)
