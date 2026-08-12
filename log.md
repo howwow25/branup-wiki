@@ -205,3 +205,34 @@
   - channels/branup-design-backup.md: Canvas 주간 활동 요약 추가
   - projects/kcl_sgs_안정성검사_사업_실행_12_31.md: KCL 협약 체결 단계 진입 기록
 - 네비게이션 갱신: index.md, README.md 재생성, log.md
+
+## [2026-08-13] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 75건 동기화 완료
+
+## [2026-08-13] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 75건 (branup_db_wiki_sync.py)
+- Slack 스캔: 15개 채널 스캔, 신규 활동 1개 채널 (브랜업-전체)
+  - 브랜업-전체: 발주서 양식 예시 공유 ([브랜업] 발주서 예시.xlsx, 2026-08-12 17:54 KST)
+  - 나머지(코스메틱-본부 카톤박스, KCL PDF)는 8/12 크론에서 이미 기록 — 중복 스킵
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh)
+- 북마크: 0건
+- 신규 문서 파일: 1건 ([브랜업] 발주서 예시.xlsx — 브랜업 → ㈜조인앤조이 발주 양식, 텍스트 추출 성공)
+- Wiki 페이지 업데이트:
+  - entities/join-n-joy.md 신규 생성 (조인앤조이 포장 부자재 협력사)
+  - raw/articles/join-n-joy-po-form-20260608.md 신규 생성 (발주서 내용)
+  - channels/브랜업-전체.md: 발주서 양식 공유 활동 추가
+  - channels/코스메틱-본부.md: 발주서 양식(전사) 활동 추가
+  - projects/에나지크_발주_시뮬레이터.md: 발주서 양식 활동 추가
+- 네비게이션 갱신: index.md (조인앤조이 엔터티 추가, 총 42페이지), README.md 재생성, log.md

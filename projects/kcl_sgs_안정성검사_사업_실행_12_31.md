@@ -1,7 +1,7 @@
 ---
 title: KCL SGS 안정성검사 사업 실행(12.31)
 created: 2026-07-26
-updated: 2026-08-12
+updated: 2026-08-13
 type: project
 tags: [project, 계획]
 sources: [branup-dashboard]
@@ -38,11 +38,4 @@ KCL 안정성검사, HRIPT, TRA 일정관리
   - 담당: 이향석, 최유미 | 마감: 2026-08-28
 
 ---
-## 📋 최근 활동
-
-### 2026-08-11
-- Slack `kcl-해외인증실증지원사업-202607`에서 **KCL 최종협약체결서류 PDF 등록** — 24페이지 스캔본, 2026-08-10 생성. 협약 체결 단계 진입. Source channels: [[channels/kcl-해외인증실증지원사업-202607]]
-
----
-
-*마지막 동기화: 2026-08-12 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-08-13 | Source: [[concepts/브랜업-대시보드-현황]]*

@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-08-12 | Total pages: 41
+> Last updated: 2026-08-13 | Total pages: 42
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -24,6 +24,7 @@
 - [[branup-org-chart|브랜업 조직도]] — 주요 인물·부서·협력사 구성
 - [[drsante|Dr.SANTE (닥터상떼)]] — 에스테틱 화장품 전문 기업 (23년). 8,000여 거래처 B2B 납품 + D2C 반복매출 구조. 경쟁사 벤치마크 대상
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너 (에나지크). KANGEN BEAUTÉ Timeless Radiance Collection 캐나다 라벨 확정, 패키지 디자인 최종 완료
+- [[join-n-joy|조인앤조이 (JNJ)]] — 포장 부자재 협력사(용기·캡·리드·박지). KANGEN BEAUTÉ 용기 납품, 발주서 표준 양식 공급자
 - [[peachy|Peachy]] — 미국 보톡스 전문 체인점 (벤치마크 분석)
 
 ## Projects (프로젝트)

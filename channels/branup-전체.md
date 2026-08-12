@@ -2,7 +2,7 @@
 title: "브랜업-전체 (구 branup-전체)"
 type: channel
 created: 2026-07-24
-updated: 2026-08-11
+updated: 2026-08-13
 tags: [channel, department, announcement, hr, design]
 slack_channel_id: C0BFWTY46FK
 status: active
@@ -21,6 +21,9 @@ status: active
 - **유형:** 부서/조직 채널
 
 ## 최근 활동 요약
+
+### 2026-08-12
+- **발주서 양식 예시 공유** — `[브랜업] 발주서 예시.xlsx` 전사 공유. 브랜업 → ㈜조인앤조이(포장 부자재 협력사) 발주 표준 양식 (KANGEN 비타 리치 크림 50ml 캐나다용 용기·스파츌러, 합계 17,452,050원). 향후 발주 프로세스 표준화 목적. 상세: [[entities/join-n-joy|조인앤조이 (JNJ)]] · [[raw/articles/join-n-joy-po-form-20260608|발주서 예시]]
 
 ### 2026-07-31
 - **브랜드 마케터(리드급) 면접 당일 안내** — 지원자 안현수, 7/31(금) 오후 4시 면접 예정 재확인 (전경표)

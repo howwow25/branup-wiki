@@ -12,6 +12,7 @@
 - **[브랜업 조직도 (Branup Org Chart)](entities/branup-org-chart.md)**
 - **[Dr.SANTE (닥터상떼)](entities/drsante.md)**
 - **[Enagic USA — 미국 에나지크](entities/enagic-usa.md)**
+- **[조인앤조이 (JNJ)](entities/join-n-joy.md)**
 - **[Peachy — 미국 보톡스 전문 체인점](entities/peachy.md)**
 - **[AI/AX 직원 교육](entities/project-ai_ax_직원_교육.md)**
 - **[브랜업 대시보드 개발](entities/project-브랜업_대시보드_개발.md)**
@@ -87,4 +88,4 @@
 
 ---
 
-*자동 생성: 2026-08-12 | 총 85페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-08-13 | 총 87페이지 (README.md·SCHEMA.md·log.md 제외)*
