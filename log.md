@@ -236,3 +236,35 @@
   - channels/코스메틱-본부.md: 발주서 양식(전사) 활동 추가
   - projects/에나지크_발주_시뮬레이터.md: 발주서 양식 활동 추가
 - 네비게이션 갱신: index.md (조인앤조이 엔터티 추가, 총 42페이지), README.md 재생성, log.md
+
+## [2026-08-14] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 76건 동기화 완료
+
+## [2026-08-14] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 76건 (branup_db_wiki_sync.py, +1건: 75→76)
+  - ai_ax_직원_교육: "AI/AX 도입 교육" 업무 마감일 연장 (8/13 → 8/20, 담당 이향석·전경표)
+  - 신규 업무 1건 (프로젝트 미지정 68→69건)
+- Slack 스캔: 15개 채널 스캔, 신규 활동 1개 채널 (코스메틱-본부)
+  - 코스메틱-본부: 아모레퍼시픽 토탈뷰티북 스캔파일 공유 (토탈뷰티북 1-7.zip, 2026-08-13 18:20 KST)
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 최신 8/11 — 신규 없음)
+- 북마크: 0건
+- 신규 파일(미처리): 토탈뷰티북 1-7.zip (ZIP 스캔본 — PDF/DOCX/PPTX/XLSX 아님, 텍스트 추출 대상 아님, 활동만 기록)
+- Wiki 페이지 업데이트:
+  - channels/코스메틱-본부.md: 토탈뷰티북 공유 활동 추가
+  - channels/index.md: 코스메틱-본부 퀵뷰 갱신, 총 채널 수 11개 정정 (10→11)
+  - index.md: 브랜업-온보딩 채널 누락 보완
+- 네비게이션 갱신: index.md, README.md 재생성, log.md
+- 버그 수정: branup_db_wiki_sync.py `---` 구분자 중복 누적 버그 수정 (정규식이 첫 `---`에서 중단하도록 변경)
+  - projects/뷰티_bm_채용_프로젝트.md·시니어_마케터_채용_프로젝트.md·에나지크_발주_시뮬레이터.md의 누적 `---` 15~17줄 → 단일 구분자로 정리
