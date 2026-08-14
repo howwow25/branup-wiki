@@ -268,3 +268,47 @@
 - 네비게이션 갱신: index.md, README.md 재생성, log.md
 - 버그 수정: branup_db_wiki_sync.py `---` 구분자 중복 누적 버그 수정 (정규식이 첫 `---`에서 중단하도록 변경)
   - projects/뷰티_bm_채용_프로젝트.md·시니어_마케터_채용_프로젝트.md·에나지크_발주_시뮬레이터.md의 누적 `---` 15~17줄 → 단일 구분자로 정리
+
+## [2026-08-14] lint | 위키 전체 린트
+- 콘텐츠 페이지 46개 / raw 원본 40개 대상 린트 실행, 요약 리포트 #wiki 채널 게시 완료
+- P1 깨진 위키링크 4건:
+  1. concepts/government-support-programs.md → [[branup-work-dashboard]] (대상 없음)
+  2. entities/join-n-joy.md → [[channels/브랜업-전체]] (실제 파일명 branup-전체.md 불일치)
+  3. channels/코스메틱-본부.md → [[raw/articles/branup-packaging-spec-usa-canada-20260728.pdf]] (실제 .md)
+  4. raw/articles/weekly-strategy-2026-07-3w.md → [[통합주간전략 자동화]] (원본 불변, 수정 불가)
+- P1 중복 프로젝트 페이지 5건: entities/project-*.md (구버전 스냅샷, projects/ 정식판과 중복) → 아카이브 대상
+- P1 미아 페이지 4건: concepts/task-status.md(완전 무링크), concepts/tsonax.md, channels/브랜업-에듀.md, channels/브랜업-온보딩.md(인덱스에서만 링크)
+- P2 index 누락 4건: entities/브랜업-신입직원-온보딩-매뉴얼.md, concepts/project-status.md, concepts/task-status.md, concepts/브랜업-대시보드-현황.md (헤더 카운트 42≠46)
+- P2 프론트매터 누락 15건 (채널 페이지 12건 sources 누락 + 온보딩매뉴얼/대시보드현황/프로젝트현황/업무현황 created·updated·sources)
+- P3 태그 스프롤: 비수용 태그 28종 30페이지 (dashboard·department·company·legal·government 등 + 한글 상태태그 계획/진행/완료/보류)
+- P3 raw sha256 무결성: 40개 중 1개만 정상 (실제 미스매치 15, placeholder 18, 누락 6)
+- P3 페이지 크기: entities/브랜업-신입직원-온보딩-매뉴얼.md 806줄 (분할 권장)
+- 채널 커버리지: Slack 15개 중 11개 보유, 미보유 4개(헤르메스·브랜업-조직구성·브랜업-휴가·제품-기획-제작)
+
+## [2026-08-15] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 77건 동기화 완료
+
+## [2026-08-15] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 77건 (branup_db_wiki_sync.py, 전일 76 → +1)
+  - 신규 업무(프로젝트 미지정): "태화 위험물 업체로 출고 부킹(캐나다 항공운송 화물)" — 강경철, 마감 8/18, 진행중 (8/14 14:38 등록)
+  - 신규 업무(프로젝트 미지정): "아이젤에 질의서 전달" — 강경철, 마감 8/14, 진행중 (8/14 09:13 등록)
+- Slack 스캔: 15개 채널 스캔, 최근 48시간 내 신규 사용자 메시지 0건
+  - 코스메틱-본부 토탈뷰티북 zip(8/13 18:20) — 8/14 cron에서 이미 반영
+  - wiki 채널: 봇 자체 린트 리포트(8/14 18:07) — 사용자 활동 아님
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: 없음 (신규 Slack 활동 없음, DB 동기화만 반영)
+- 네비게이션 갱신: README.md 재생성, log.md
