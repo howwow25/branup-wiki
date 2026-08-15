@@ -312,3 +312,18 @@
 - 신규 파일: 0건
 - Wiki 페이지 업데이트: 없음 (신규 Slack 활동 없음, DB 동기화만 반영)
 - 네비게이션 갱신: README.md 재생성, log.md
+
+## [2026-08-16] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 77건 동기화 완료
