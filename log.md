@@ -375,3 +375,33 @@
 - 신규 파일: 0건 (가장 최근 파일: 코스메틱-본부 토탈뷰티북 zip, 8/13 — 반영 완료)
 - Wiki 페이지 업데이트: 없음 (신규 Slack 활동 없음, DB 동기화만 반영)
 - 네비게이션 갱신: README.md 재생성, log.md
+
+## [2026-08-19] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 75건 동기화 완료
+
+## [2026-08-19] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 75건 (전일 77건 → 75건, -2건)
+- Slack 스캔: 48h 윈도우, 신규 사용자 메시지 4건 (뷰티-프로젝트 2건, 브랜업-전체 2건 — 모두 8/18)
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트:
+  - channels/뷰티-프로젝트.md — 8월 발주분 사양 픽스 (오버캡 후가공, 스탭1 증정 삭제, 명판 개발, 단상자 9/15 제안)
+  - channels/branup-전체.md — 정육공방 발주 진행 + 브랜드 소개서 일정
+  - projects/에나지크_발주_시뮬레이터.md — 발주 사양 픽스 활동 추가
+  - projects/소라살롱_공구_프로젝트.md — 정육공방 발주 활동 추가
+  - entities/enagic-usa.md — 8월 발주분 사양 픽스 반영
+  - channels/index.md — 퀵뷰 갱신
+- 네비게이션 갱신: README.md 재생성, log.md

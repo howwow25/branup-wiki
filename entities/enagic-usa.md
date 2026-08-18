@@ -1,7 +1,7 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-07-29
+updated: 2026-08-19
 type: entity
 tags: [partner, export, usa, market, contract]
 sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
@@ -124,6 +124,13 @@ confidence: medium
 - **v3 패키지 바코드 도입 검토** 진행
 - **에나지크-칸겐뷰티 브랜드 구조 정리:** 폰트·문안 정리, 키메디(용기) 검사 사전 진행 → 용기 디자인 조기 확정 지시
 ^[raw/articles/branup-packaging-spec-usa-canada-20260728.md]
+
+### 8월 발주분 사양 픽스 (2026-08-18)
+- Slack `뷰티-프로젝트`에서 8월 발주분 사양 픽스 확정:
+  - **오버캡 후가공 추가** — 금형 기반 알루미늄 헤어라인 후가공으로 외형 퍼포먼스 상향
+  - **스탭1 추가 증정 구성 삭제** — 스탭1(퍼스트라이트 에센스 + 단상자) 증정 제외, 발주서 수정 필요(JNJ)
+  - **명판 개발 확정** — 컬러는 줄리어스 대표 8/26~30 방문 시 확정
+  - **단상자 개발 검토** — 마진율 시뮬레이션 후 에나지크에 9/15 내외 제안 예정, 각 품목 개별 가격 산정 필요
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
