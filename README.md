@@ -88,4 +88,4 @@
 
 ---
 
-*자동 생성: 2026-08-19 | 총 87페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-08-20 | 총 87페이지 (README.md·SCHEMA.md·log.md 제외)*
