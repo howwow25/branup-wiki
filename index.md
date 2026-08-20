@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-08-20 | Total pages: 42
+> Last updated: 2026-08-21 | Total pages: 44
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -26,6 +26,7 @@
 - [[drsante|Dr.SANTE (닥터상떼)]] — 에스테틱 화장품 전문 기업 (23년). 8,000여 거래처 B2B 납품 + D2C 반복매출 구조. 경쟁사 벤치마크 대상
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너 (에나지크). KANGEN BEAUTÉ Timeless Radiance Collection 캐나다 라벨 확정, 패키지 디자인 최종 완료
 - [[join-n-joy|조인앤조이 (JNJ)]] — 포장 부자재 협력사(용기·캡·리드·박지). KANGEN BEAUTÉ 용기 납품, 발주서 표준 양식 공급자
+- [[labio|LABIO (라비오)]] — 화장품 원료 공급사. COOLIN stay 쿨링·항열노화 원료 + 브랜업 제안 제형 5종
 - [[peachy|Peachy]] — 미국 보톡스 전문 체인점 (벤치마크 분석)
 
 ## Projects (프로젝트)
@@ -42,6 +43,7 @@
 - [[slack-adoption|Slack 도입 및 내재화]] — 브랜업 Slack 전환 과정, 대표 피드백, 과제
 - [[aizel-meeting-2026-07-14|아이젤 미팅 회의록 (2026-07-14)]] — 부자재 검수, 신규 포트폴리오 5종, 물량 전망
 - [[aizel-proposal-lineup-2026-07-14|아이젤 신규 라인업 제안서]] — 아이젤 제안 10종 신규 제품군 (스킨케어5·베이스3·퍼스널2), 에피탈론 펩타이드 컨셉
+- [[coolin-stay-쿨링원료|COOLIN stay 쿨링 원료]] — 라비오 제안 열노화·쿨링 듀얼 메커니즘 원료 (INCI·시험 데이터)
 - [[government-support-programs|정부지원사업 모니터링]] — 수출바우처·정부지원사업 모니터링 체계
 - [[export-voucher|수출바우처 (Export Voucher)]] — 중진공 수출바우처 제도 상세
 - [[product-liability-insurance|PL보험 (Product Liability Insurance)]] — 미국 수출 대비 PL보험 현황 및 쟁점

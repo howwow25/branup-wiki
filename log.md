@@ -430,3 +430,30 @@
 - Wiki 페이지 업데이트:
   - channels/코스메틱-본부.md — 샘플 구매 요청 2종 (마움 스킨 부스팅 크림 50g, 에스트라 아토베리어 365 캡슐 토너) 벤치마킹용
 - 네비게이션 갱신: README.md 재생성, log.md
+
+## [2026-08-21] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 68건 동기화 완료
+
+## [2026-08-21] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 68건 (전일 68건 → 68건, 변화 없음)
+- Slack 스캔: 48h 윈도우, 신규 비즈니스 메시지 1건 (코스메틱-본부 1건 — 8/20 강경철 라비오 제안서)
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 신규 없음)
+- 북마크: 0건
+- 신규 파일: 2건 (라비오 COOLIN stay 제안서 PDF 23p + 브랜업 제안 제형 5종 ZIP)
+- Wiki 페이지 업데이트:
+  - entities/labio.md — 신규 생성. 화장품 원료 공급사 (주소·연락처·아이젤 3% 원료 공급)
+  - concepts/coolin-stay-쿨링원료.md — 신규 생성. COOLIN stay 쿨링·항열노화 원료 (INCI·듀얼 TRP 메커니즘·시험 데이터)
+  - channels/코스메틱-본부.md — 8/20 라비오 제안서 공유 활동 추가, related_entities/concepts 갱신
+- 네비게이션 갱신: index.md (2페이지 추가, 42→44), README.md 재생성, log.md

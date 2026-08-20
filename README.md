@@ -13,6 +13,7 @@
 - **[Dr.SANTE (닥터상떼)](entities/drsante.md)**
 - **[Enagic USA — 미국 에나지크](entities/enagic-usa.md)**
 - **[조인앤조이 (JNJ)](entities/join-n-joy.md)**
+- **[LABIO (라비오)](entities/labio.md)**
 - **[Peachy — 미국 보톡스 전문 체인점](entities/peachy.md)**
 - **[AI/AX 직원 교육](entities/project-ai_ax_직원_교육.md)**
 - **[브랜업 대시보드 개발](entities/project-브랜업_대시보드_개발.md)**
@@ -41,6 +42,7 @@
 - **[아이젤 미팅 회의록 (2026-07-14) — 상세](concepts/aizel-meeting-2026-07-14.md)**
 - **[아이젤 신규 라인업 제안서 (2026-07-14) — 상세](concepts/aizel-proposal-lineup-2026-07-14.md)**
 - **[브랜업 재무현황](concepts/branup-finance.md)**
+- **[COOLIN stay 쿨링 원료 (LABIO 제안)](concepts/coolin-stay-쿨링원료.md)**
 - **[수출바우처 (Export Voucher)](concepts/export-voucher.md)**
 - **[정부지원사업 모니터링](concepts/government-support-programs.md)**
 - **[통합주간전략 (7월 3주차, 2026-07-14)](concepts/integrated-weekly-strategy.md)**
@@ -88,4 +90,4 @@
 
 ---
 
-*자동 생성: 2026-08-20 | 총 87페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-08-21 | 총 89페이지 (README.md·SCHEMA.md·log.md 제외)*
