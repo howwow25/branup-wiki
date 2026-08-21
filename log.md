@@ -457,3 +457,39 @@
   - concepts/coolin-stay-쿨링원료.md — 신규 생성. COOLIN stay 쿨링·항열노화 원료 (INCI·듀얼 TRP 메커니즘·시험 데이터)
   - channels/코스메틱-본부.md — 8/20 라비오 제안서 공유 활동 추가, related_entities/concepts 갱신
 - 네비게이션 갱신: index.md (2페이지 추가, 42→44), README.md 재생성, log.md
+
+## [2026-08-21] lint | Wiki 상태 점검
+- 콘텐츠 페이지 48개, 전체 .md 95개
+- 깨진 위키링크 3건: 코스메틱-본부(.pdf 확장자), government-support-programs(branup-work-dashboard), join-n-joy(channels/브랜업-전체 → 실제 branup-전체)
+- 고아 페이지 9건: entities/project-* 5개(프로젝트 중복 오배치), 브랜업-에듀·브랜업-온보딩·task-status·tsonax
+- 인덱스 누락 4건: project-status, task-status, 브랜업-대시보드-현황, 브랜업-신입직원-온보딩-매뉴얼
+- 유령 링크 0건, stale 0건
+- 미분류 태그 27개 (프로젝트 상태 계획/진행/보류/완료, company/people/org, dashboard/rnd/legal 등) → SCHEMA.md taxonomy 갱신 필요
+- 프론트매터 누락 4건 (created 등)
+- 과대 페이지 1건: entities/브랜업-신입직원-온보딩-매뉴얼 (806줄)
+- raw sha256 33건 불일치 (16자리 절단·placeholder) — drift 감지 불능
+- 결과 #wiki 채널에 리포트 게시 완료
+
+## [2026-08-22] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 67건 동기화 완료
+
+## [2026-08-22] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 67건 (전일 68건 → 67건, -1건)
+- Slack 스캔: 72h 윈도우, 신규 비즈니스 메시지 0건 (8/19 샘플 구매 요청·8/20 라비오 제안서는 전일 처리 완료)
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: 신규 콘텐츠 없음 (DB 날짜 갱신만)
+- 네비게이션 갱신: README.md 재생성, log.md
