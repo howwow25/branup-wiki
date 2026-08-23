@@ -1,10 +1,10 @@
 ---
 title: TSonaX — 실시간 차트 분석 시스템
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-24
 type: concept
 tags: [tech, developer, project, system, code, automation]
-sources: []
+sources: [branup-dashboard]
 confidence: medium
 ---
 
@@ -30,6 +30,10 @@ confidence: medium
 4. PL/IP 보험
 5. 브랜업 재무 관리
 6. 다우오피스 워크플로
+
+## 최근 작업 (대시보드 등록 업무)
+- **2026-08-23** — `[TSonaX] 체결 틱 유실 로그 분석 및 해결` (마감 8/28, 담당 이향석)
+- **2026-08-23** — `[TSonaX] 키움 [1413] xray 화면 + 지표 컬럼` (마감 8/28, 담당 이향석)
 
 ## 관련 문서
 - [[branup-org-chart|브랜업 조직도]] — Ashton 역할

@@ -1,7 +1,7 @@
 # 채널 맵 (Slack Channel Map)
 
 > 브랜업 Slack 채널별 지식 허브. 각 채널은 프로젝트 단위 또는 사내 조직 단위.
-|Last updated: 2026-08-19 | Total channels: 11
+|Last updated: 2026-08-24 | Total channels: 11
 
 ## 프로젝트 채널
 

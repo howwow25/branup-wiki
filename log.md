@@ -517,3 +517,28 @@
 - 신규 파일: 0건
 - Wiki 페이지 업데이트: 신규 콘텐츠 없음 (DB 날짜 갱신 + 업무 1건 증가 반영)
 - 네비게이션 갱신: README.md 재생성, log.md
+
+## [2026-08-24] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 71건 동기화 완료
+
+## [2026-08-24] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 71건 (전일 68건 → 71건, +3건)
+- 신규 업무(8/23): TSonaX 체결 틱 유실 로그 분석·키움 xray 화면, 법인세 시뮬레이션 절세, 세무현명 자문계약, 아이젤 계약서 조영길이사 사전조율(지연), 미국 고객 만족도 조사, AI/AX 교육
+- Slack 스캔: 15개 채널 스캔, 최근 72h 내 신규 비즈니스 메시지 0건 (wiki 채널 8/21 lint 리포트는 전일 처리 완료)
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: concepts/tsonax.md 최근 작업 추가 (TSonaX 마일스톤#2 신규 업무 2건)
+- 네비게이션 갱신: channels/index.md 날짜 갱신, README.md 재생성, log.md
