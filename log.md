@@ -542,3 +542,31 @@
 - 신규 파일: 0건
 - Wiki 페이지 업데이트: concepts/tsonax.md 최근 작업 추가 (TSonaX 마일스톤#2 신규 업무 2건)
 - 네비게이션 갱신: channels/index.md 날짜 갱신, README.md 재생성, log.md
+
+## [2026-08-25] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 9개, 업무 73건 동기화 완료
+
+## [2026-08-25] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 9개, 업무 73건 (전일 71건 → 73건, +2건)
+- 신규 업무(8/24): [에나지크] 샘플/비매품 용기 문안 및 패키지 주의사항 리서치(강경철), 수축필름 업체 입고 일정 전달(강경철), 수민님 제품 받아서 바로 퀵(강경철)
+- Slack 스캔: 15개 채널 스캔, 신규 비즈니스 메시지 1건 — 코스메틱-본부(노수민, 8/24) 에나지크 샘플·비매품 미팅 결과
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 최신 8/10-11 — 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트:
+  - channels/코스메틱-본부.md — 최근 활동 + 주요 의사결정 추가 (에나지크 샘플·비매품)
+  - projects/에나지크_발주_시뮬레이터.md — 최근 활동 추가
+  - entities/enagic-usa.md — 샘플·비매품 미팅 섹션 추가
+- 네비게이션 갱신: index.md 날짜 갱신, README.md 재생성, log.md

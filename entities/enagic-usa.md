@@ -1,7 +1,7 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-08-19
+updated: 2026-08-25
 type: entity
 tags: [partner, export, usa, market, contract]
 sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
@@ -131,6 +131,13 @@ confidence: medium
   - **스탭1 추가 증정 구성 삭제** — 스탭1(퍼스트라이트 에센스 + 단상자) 증정 제외, 발주서 수정 필요(JNJ)
   - **명판 개발 확정** — 컬러는 줄리어스 대표 8/26~30 방문 시 확정
   - **단상자 개발 검토** — 마진율 시뮬레이션 후 에나지크에 9/15 내외 제안 예정, 각 품목 개별 가격 산정 필요
+
+### 샘플·비매품 미팅 (2026-08-24)
+- 코스메틱-본부 채널에서 노수민(SueminNoh)이 미팅 결과 공유:
+  - **샘플 진행 확정** — 비주얼 3안 우선 제작, 12월 수령 희망
+  - **비매품(증정품) 성격 확인** — 판매용이 아닌 증정·홍보용 제품
+- 연계 업무(대시보드, 강경철): "[에나지크] 샘플/비매품 용기 문안 및 패키지 주의사항 리서치", 수축필름 입고 일정 전달, 수민님 제품 퀵 발송
+^[channels/코스메틱-본부.md]
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
