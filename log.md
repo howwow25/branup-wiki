@@ -570,3 +570,30 @@
   - projects/에나지크_발주_시뮬레이터.md — 최근 활동 추가
   - entities/enagic-usa.md — 샘플·비매품 미팅 섹션 추가
 - 네비게이션 갱신: index.md 날짜 갱신, README.md 재생성, log.md
+
+## [2026-08-26] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 10개, 업무 78건 동기화 완료
+
+## [2026-08-26] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 10개 (+1), 업무 78건 (+5) — branup_db_wiki_sync.py
+- 신규 프로젝트: 홈페이지 Hero 페이지 에셋 기획 및 제작 (담당 미지정, 종료 2026-09-02)
+- 신규 업무(8/25): 소라살롱 협업 판매 raw 데이터시트 제작(김봉재), 미국 부자재·벌크 입고 위치 확인(강경철), svc 입주 방법 탐색 및 기획(김봉재), 정육공방 스스 셋팅 및 디자인 에셋 기획(김봉재), 칸겐 인스타 2차 브랜드 필름 기획·제작 총괄(김봉재), 보드 부착 고급 바퀴 찾기(강경철)
+- Slack 스캔: 15개 채널 스캔, 신규 비즈니스 메시지 0건 (코스메틱-본부 8/24 메시지는 전일 처리 완료)
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 최신 8/10-11 — 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: index.md 프로젝트 섹션 정비 — 10개 프로젝트를 정확한 `projects/` slug로 교체 + 신규 홈페이지 Hero 프로젝트 추가 (기존 `project-` 접두사 깨진 링크 5건 수정)
+- 네비게이션 갱신: index.md, README.md 재생성, log.md
