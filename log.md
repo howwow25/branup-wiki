@@ -597,3 +597,33 @@
 - 신규 파일: 0건
 - Wiki 페이지 업데이트: index.md 프로젝트 섹션 정비 — 10개 프로젝트를 정확한 `projects/` slug로 교체 + 신규 홈페이지 Hero 프로젝트 추가 (기존 `project-` 접두사 깨진 링크 5건 수정)
 - 네비게이션 갱신: index.md, README.md 재생성, log.md
+
+## [2026-08-27] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 81건 동기화 완료
+
+## [2026-08-27] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개 (+3), 업무 81건 (+3) — branup_db_wiki_sync.py
+- 신규 프로젝트(3): 마케팅팀 노션 시범운영 & 협업플로우 셋팅(김봉재, ~9/30), 마케팅팀 노션 협업 스페이스 구축(미지정, ~9/4), 노션 워크스페이스 셋팅 & 마케팅팀 시범운영(미지정, ~10/21)
+- 신규 업무(8/26): SVC 확장형 모집공고참여(김봉재,이향석), 검수하러 갈 때 준비물(강경철), 캐나다 해상운송 PACKING LIST·SHIPPING MARK 전달(강경철), 포장사양서 수정요청서 전달(강경철)
+- Slack 스캔: 15개 채널 스캔, 신규 비즈니스 메시지 0건
+- Canvas 이벤트: 12건 (모두 USLACKBOT auto-refresh, 최신 8/10-11 — 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: index.md 프로젝트 섹션에 신규 노션 프로젝트 3건 추가 (sync 스크립트 regex가 "## Projects (프로젝트)" 헤더를 매치 못해 누락된 것 수동 보완), Total pages 45→48
+- 네비게이션 갱신: index.md, README.md 재생성, log.md

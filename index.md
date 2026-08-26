@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-08-26 | Total pages: 45
+> Last updated: 2026-08-27 | Total pages: 48
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -41,6 +41,9 @@
 - [[projects/브랜업_대시보드_개발|브랜업 대시보드 개발]] — 대시보드 프로젝트 — 완료
 - [[projects/소라살롱_공구_프로젝트|소라살롱 공구 프로젝트]] — 대시보드 프로젝트 — 진행
 - [[projects/ai_ax_직원_교육|AI/AX 직원 교육]] — 대시보드 프로젝트 — 계획
+- [[projects/마케팅팀_노션_시범운영___협업플로우_셋팅|마케팅팀 노션 시범운영 & 협업플로우 셋팅]] — 대시보드 프로젝트 — 계획
+- [[projects/마케팅팀_노션_협업_스페이스_구축|마케팅팀 노션 협업 스페이스 구축]] — 대시보드 프로젝트 — 계획
+- [[projects/노션_워크스페이스_셋팅___마케팅팀_시범운영|노션 워크스페이스 셋팅 & 마케팅팀 시범운영]] — 대시보드 프로젝트 — 계획
 
 ## Concepts (개념·주제)
 
