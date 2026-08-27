@@ -627,3 +627,32 @@
 - 신규 파일: 0건
 - Wiki 페이지 업데이트: index.md 프로젝트 섹션에 신규 노션 프로젝트 3건 추가 (sync 스크립트 regex가 "## Projects (프로젝트)" 헤더를 매치 못해 누락된 것 수동 보완), Total pages 45→48
 - 네비게이션 갱신: index.md, README.md 재생성, log.md
+
+## [2026-08-28] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 82건 동기화 완료
+
+## [2026-08-28] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개, 업무 82건 (+1) — branup_db_wiki_sync.py
+- 신규 업무(8/27): 브랜업 재무상태 실시간 관리 방안 연구(이상원·이향석, 높음), 셀러루트 보관+운송비 결제(강경철), 카톤박스 견적 요청(강경철), 충진처 카톤박스 포장 예정일 파악(강경철), 네이버스토어 위임장 재작성(강경철), 완제품 시험성적서 아이젤 문의(강경철)
+- Slack 스캔: 15개 채널 스캔, 신규 비즈니스 메시지 0건
+- Canvas 이벤트: 13건 (design-backup 12, 아이젤-계약서 1 — 모두 USLACKBOT auto-refresh, 신규 1건 8/27)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: concepts/branup-finance.md — 재무상태 실시간 관리 방안 연구 업무 등록 반영
+- 네비게이션 갱신: README.md 재생성, log.md

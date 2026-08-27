@@ -1,7 +1,7 @@
 ---
 title: 홈페이지 Hero 페이지 에셋 기획 및 제작
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-08-28
 type: project
 tags: [project, 계획]
 sources: [branup-dashboard]
@@ -31,4 +31,4 @@ Hero 페이지의 요소 - 동영상 혹은
 *(등록된 업무 없음)*
 
 ---
-*마지막 동기화: 2026-08-27 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-08-28 | Source: [[concepts/브랜업-대시보드-현황]]*
