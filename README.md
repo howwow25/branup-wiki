@@ -21,6 +21,7 @@
 - **[시니어 마케터 채용 프로젝트](entities/project-시니어_마케터_채용_프로젝트.md)**
 - **[에나지크 발주 시뮬레이터](entities/project-에나지크_발주_시뮬레이터.md)**
 - **[브랜업 신입직원 온보딩 및 공통업무 매뉴얼](entities/브랜업-신입직원-온보딩-매뉴얼.md)**
+- **[한국콜마 (Kolmar Korea)](entities/한국콜마.md)**
 
 ### 📌 채널 (Channels) — Slack 채널별 지식 허브
 
@@ -90,4 +91,4 @@
 
 ---
 
-*자동 생성: 2026-08-30 | 총 93페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-08-31 | 총 94페이지 (README.md·SCHEMA.md·log.md 제외)*

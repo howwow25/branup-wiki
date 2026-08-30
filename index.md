@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-08-30 | Total pages: 48
+> Last updated: 2026-08-31 | Total pages: 49
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -27,6 +27,7 @@
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너 (에나지크). KANGEN BEAUTÉ Timeless Radiance Collection 캐나다 라벨 확정, 패키지 디자인 최종 완료
 - [[join-n-joy|조인앤조이 (JNJ)]] — 포장 부자재 협력사(용기·캡·리드·박지). KANGEN BEAUTÉ 용기 납품, 발주서 표준 양식 공급자
 - [[labio|LABIO (라비오)]] — 화장품 원료 공급사. COOLIN stay 쿨링·항열노화 원료 + 브랜업 제안 제형 5종
+- [[한국콜마|한국콜마 (Kolmar Korea)]] — 국내 대표 화장품 ODM·OEM 제조사. 브랜업 신규 제품 샘플 개발 의뢰처 (콜마 샘플 사양 변경: 15ml·판매제품 확정)
 - [[peachy|Peachy]] — 미국 보톡스 전문 체인점 (벤치마크 분석)
 
 ## Projects (프로젝트)
