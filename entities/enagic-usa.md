@@ -1,7 +1,7 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-08-25
+updated: 2026-09-01
 type: entity
 tags: [partner, export, usa, market, contract]
 sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
@@ -137,6 +137,12 @@ confidence: medium
   - **샘플 진행 확정** — 비주얼 3안 우선 제작, 12월 수령 희망
   - **비매품(증정품) 성격 확인** — 판매용이 아닌 증정·홍보용 제품
 - 연계 업무(대시보드, 강경철): "[에나지크] 샘플/비매품 용기 문안 및 패키지 주의사항 리서치", 수축필름 입고 일정 전달, 수민님 제품 퀵 발송
+^[channels/코스메틱-본부.md]
+
+### 발주 프로세스 점검 — QC 일정 누락 (2026-08-31)
+- 코스메틱-본부 채널에서 노수민(SueminNoh) 공유: 에나직 측 납기 일정을 당기면서 **QC 일정이 빠진 채 충진일을 선(先)확정**하는 스케줄 감행
+- 결과: 약 **5% 내외 품질 이슈** 발생 — 리드타임 중 한 과정(협의 QC) 삭제가 원인
+- 대응: 이번 납품 클레임 대비 에나직 측에 기준 공유 + 보충·보상 등 협의 지점 마련 필요
 ^[channels/코스메틱-본부.md]
 
 ## 관련 문서

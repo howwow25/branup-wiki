@@ -742,3 +742,31 @@
 - 신규 파일: 0건
 - Wiki 페이지 업데이트: channels/코스메틱-본부.md (최근 활동 + 주요 의사결정), entities/한국콜마.md 신규 생성
 - 네비게이션 갱신: index.md (+1 엔터티, 49페이지), channels/index.md (퀵뷰 갱신), README.md 재생성
+
+## [2026-09-01] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 80건 동기화 완료
+
+## [2026-09-01] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개, 업무 80건 (+2) — branup_db_wiki_sync.py
+- Slack 스캔: 15개 채널 스캔, 신규 비즈니스 메시지 2건 (코스메틱-본부: 에나직 발주 QC 프로세스 점검 + 지원 패키지 불량/디자인 변경, 노수민)
+- Canvas 이벤트: 13건 (모두 USLACKBOT auto-refresh, 신규 없음)
+- 북마크: 0건
+- 신규 파일: 0건
+- Wiki 페이지 업데이트: channels/코스메틱-본부.md (최근 활동 + 주요 의사결정), projects/에나지크_발주_시뮬레이터.md (최근 활동), entities/enagic-usa.md (QC 일정 누락)
+- 네비게이션 갱신: index.md (날짜 갱신), README.md 재생성
