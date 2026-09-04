@@ -1,7 +1,7 @@
 ---
 title: 칸겐뷰티 SNS 운영
 created: 2026-07-28
-updated: 2026-09-04
+updated: 2026-09-05
 type: project
 tags: [project, 계획]
 sources: [branup-dashboard]
@@ -39,4 +39,4 @@ confidence: high
   - 담당: 김봉재 | 마감: 2026-07-30
 
 ---
-*마지막 동기화: 2026-09-04 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-09-05 | Source: [[concepts/브랜업-대시보드-현황]]*
