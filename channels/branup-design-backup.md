@@ -2,11 +2,11 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-08-12
+updated: 2026-09-09
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
-related_entities: [entities/enagic-usa]
+related_entities: [entities/enagic-usa, entities/한국콜마]
 related_concepts: []
 ---
 
@@ -28,6 +28,9 @@ related_concepts: []
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-09-08
+- **15ml 샘플 용기 디자인 이미지 등록** — 노수민(SueminNoh). 콜마(Kolmar) 신규 제품 15ml 샘플 용기 디자인 이미지(`image.png`) 공유. 코스메틱-본부의 콜마 샘플 사양 변경(15ml 우대·판매제품 확정) 후속 디자인 작업. 관련: [[한국콜마]] · [[channels/코스메틱-본부|코스메틱-본부]]
 
 ### 2026-08-05 ~ 2026-08-12
 - Canvas 탭 콘텐츠 12회 자동 갱신 (USLACKBOT — tabbed_canvas_updated). 디자인팀 Canvas 작업 지속 중. 7일 연속 패턴으로 일상적인 디자인 파일 업데이트로 추정
