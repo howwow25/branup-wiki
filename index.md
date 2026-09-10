@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-10 | Total pages: 49
+> Last updated: 2026-09-11 | Total pages: 50
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -50,6 +50,7 @@
 - [[integrated-weekly-strategy|통합주간전략 자동화]] — AI 기반 주간 업무 자동 취합·대시보드화 구상
 - [[slack-adoption|Slack 도입 및 내재화]] — 브랜업 Slack 전환 과정, 대표 피드백, 과제
 - [[aizel-meeting-2026-07-14|아이젤 미팅 회의록 (2026-07-14)]] — 부자재 검수, 신규 포트폴리오 5종, 물량 전망
+- [[줄리어스-대표-미팅-20260910|줄리어스 대표 미팅 (2026-09-10)]] — 에나지크 글로벌 확장 로드맵, 가격·마진·프로그램 구조, 생산·물류 협업 요청
 - [[aizel-proposal-lineup-2026-07-14|아이젤 신규 라인업 제안서]] — 아이젤 제안 10종 신규 제품군 (스킨케어5·베이스3·퍼스널2), 에피탈론 펩타이드 컨셉
 - [[coolin-stay-쿨링원료|COOLIN stay 쿨링 원료]] — 라비오 제안 열노화·쿨링 듀얼 메커니즘 원료 (INCI·시험 데이터)
 - [[government-support-programs|정부지원사업 모니터링]] — 수출바우처·정부지원사업 모니터링 체계

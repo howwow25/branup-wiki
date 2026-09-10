@@ -1,7 +1,7 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-09-01
+updated: 2026-09-11
 type: entity
 tags: [partner, export, usa, market, contract]
 sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
@@ -145,9 +145,26 @@ confidence: medium
 - 대응: 이번 납품 클레임 대비 에나직 측에 기준 공유 + 보충·보상 등 협의 지점 마련 필요
 ^[channels/코스메틱-본부.md]
 
+### 줄리어스 대표 미팅 — 글로벌 확장 전략 (2026-09-10)
+- Slack `뷰티-프로젝트`에서 에나지크 줄리어스 대표와의 전략 미팅 정리 공유. 상세: [[concepts/줄리어스-대표-미팅-20260910|줄리어스 대표 미팅]]
+- **본게임 물량 일정:** 보라색 패키지 약 20,000세트 **12월 초 현지 Warehouse 입고 필수** (11월 초~중순 코러스 측 인계). FOB → FOC 전환 검토.
+- **시장 확장 로드맵:** 미국(6/20 출시)·캐나다(9/20 출시) → 2027년 EU(독일 허브)·UK/AU/NZ·HK/SG/PH/MY → 2028년 India·Thailand → 2029년 글로벌 확대.
+- **차기 발주:** 다음 US/CA 20,000세트는 2026년 11월경, 차기 US 물량 2027년 2월 미국 입고 목표.
+- **가격·마진:** Timeless Radiance Collection Hero Line 고마진 (2세트 $900, 커미션 40%, 실질 마진 약 $180).
+- **프로그램 구조:** DD $910/2세트(커미션 $320)·Sigma $2,000/6세트(커미션 $1,000). SP 보유자만 커미션 지급.
+- **협업 요청:** Shared Excel 기반 생산·물류 일정 관리 시스템 구축, 국가별 Regulation 정리, 대금 지급 구조 재설계(입고 후 지급 심리), 리드타임 단축.
+- **제품 확장:** 마스크·클렌저·Peel-off Mask(2026년 말), 마사지 스톤/괄사(2027년 초).
+^[channels/뷰티-프로젝트.md]
+
+### 미국 2~3차 파일럿 물량 정리 (2026-09-10)
+- Slack `코스메틱-본부`에서 미국 수출 확정 물량 **13,417세트(9/19 부산)** 정리 — 에나지크 기준 1,583세트 부족, 해상/항공운송 추후 결정.
+- 세트박스 불량 총 **1,874ea (12.25%)**: 용기 체결 시 찢어짐 881ea(5.76%), 속지 체결 불량 875ea(5.72%), 외관 오염 74ea, 체결 방향 불량 22ea, 속지 구겨짐 20ea, 속지 비어있음 2ea.
+^[channels/코스메틱-본부.md]
+
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
 - [[aizel-meeting-2026-07-14|아이젤 미팅 회의록]] — 물량 전망 및 시장 확대 논의
+- [[concepts/줄리어스-대표-미팅-20260910|줄리어스 대표 미팅 (2026-09-10)]] — 글로벌 확장 전략·가격 마진·프로그램 구조
 - [[product-liability-insurance|PL보험]] — 미국 시장 PL보험 요건
 
 ---
