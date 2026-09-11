@@ -1063,3 +1063,37 @@
 - index 누락 9건, 태그 이탈 61건, 프론트매터 누락 6건, 초대형 페이지 4건, sha256 잘림(16자) 33건
 - ghost 0 · stale 0 · 로그 78건(정상)
 - 요약 보고: Slack #wiki 채널 게시 완료
+
+## [2026-09-12] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 88건 동기화 완료
+
+## [2026-09-12] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개, 업무 88건 (전일 90건 → -2건) — branup_db_wiki_sync.py
+- Slack 스캔: 15개 채널 스캔, 최근 24시간 내 신규 비즈니스 메시지 1건
+- 신규 메시지:
+  - 코스메틱-본부 — SueminNoh "[줄리어스 대표님 9월 10 미팅] 표지 리뷰" (캐나다 카탈로그 표지 문안 Enagic.CAN → ENAGIC.CA 변경 요청)
+- Canvas 이벤트: 14건 (모두 USLACKBOT tabbed_canvas_updated, 신규 없음)
+- 북마크: 0건
+- 신규 문서 파일: 0건 (PDF/DOCX/PPTX/XLSX 없음)
+- Wiki 페이지 갱신:
+  - channels/코스메틱-본부.md (표지 문안 변경 요청 + updated 09-12)
+  - projects/에나지크_발주_시뮬레이터.md (📋 최근 활동 추가)
+  - entities/enagic-usa.md (캐나다 표지 문안 변경 요청 + updated 09-12)
+  - concepts/줄리어스-대표-미팅-20260910.md (후속 조치 + updated 09-12)
+- 네비게이션 갱신: README.md 재생성

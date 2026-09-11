@@ -1,7 +1,7 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-09-11
+updated: 2026-09-12
 type: entity
 tags: [partner, export, usa, market, contract]
 sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
@@ -159,6 +159,10 @@ confidence: medium
 ### 미국 2~3차 파일럿 물량 정리 (2026-09-10)
 - Slack `코스메틱-본부`에서 미국 수출 확정 물량 **13,417세트(9/19 부산)** 정리 — 에나지크 기준 1,583세트 부족, 해상/항공운송 추후 결정.
 - 세트박스 불량 총 **1,874ea (12.25%)**: 용기 체결 시 찢어짐 881ea(5.76%), 속지 체결 불량 875ea(5.72%), 외관 오염 74ea, 체결 방향 불량 22ea, 속지 구겨짐 20ea, 속지 비어있음 2ea.
+^[channels/코스메틱-본부.md]
+
+### 캐나다 표지 문안 변경 요청 (2026-09-11)
+- Slack `코스메틱-본부`에서 줄리어스 대표 9/10 미팅 후속 "표지 리뷰"로 캐나다 카탈로그 표지 문구 `Enagic.CAN` → `ENAGIC.CA` 변경 요청 (SueminNoh).
 ^[channels/코스메틱-본부.md]
 
 ## 관련 문서
