@@ -1056,3 +1056,10 @@
   - 신규: raw/transcripts/줄리어스-대표-미팅-20260910.md, concepts/줄리어스-대표-미팅-20260910.md
   - 갱신: channels/뷰티-프로젝트.md, channels/코스메틱-본부.md, channels/branup-design-backup.md, entities/enagic-usa.md, projects/에나지크_발주_시뮬레이터.md, index.md (총 50페이지)
 - 네비게이션 갱신: README.md 재생성
+
+## [2026-09-11] lint | Wiki health-check (Slack #wiki 보고)
+- 깨진 링크 4건 (콘텐츠 페이지) — branup-work-dashboard 미생성, 통합주간전략 제목링크, 채널명 변경(브랜업-전체), PDF 링크
+- 고립 페이지 6건 — concepts/task-status + entities/project-* 5건 (projects/로 대체된 구 미러)
+- index 누락 9건, 태그 이탈 61건, 프론트매터 누락 6건, 초대형 페이지 4건, sha256 잘림(16자) 33건
+- ghost 0 · stale 0 · 로그 78건(정상)
+- 요약 보고: Slack #wiki 채널 게시 완료
