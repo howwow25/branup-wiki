@@ -1181,3 +1181,37 @@
 - 신규 문서 파일: 0건 (PDF/DOCX/PPTX/XLSX 없음)
 - Wiki 페이지 갱신: 없음 (신규 활동 없음)
 - 네비게이션 갱신: README.md 재생성 (날짜만 갱신)
+
+## [2026-09-16] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 88건 동기화 완료
+
+## [2026-09-16] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개, 업무 88건 (branup_db_wiki_sync.py)
+- Slack 스캔: 15개 채널 스캔, 신규 메시지 1건 (뷰티-프로젝트, 줄리어스 대표 9/16 회의 안건 09-15 23:00)
+- 이전 크론(09-15)이 누락한 09-14 22:11·22:33 줄리어스 대표 메시지 2건(파손 168개 상세·7개 사항 정리)도 함께 수집
+- Canvas 이벤트: 14건 (모두 USLACKBOT tabbed_canvas_updated, 신규 없음)
+- 북마크: 0건
+- 신규 문서 파일: 0건 (PDF/DOCX/PPTX/XLSX 없음)
+- 신규 raw: raw/transcripts/줄리어스-9월16일-회의안건-20260916.md
+- Wiki 페이지 갱신:
+  - channels/뷰티-프로젝트.md — 최근 활동(9/16 회의 안건·파손 168개·7개 사항), 주요 의사결정(FOC→FCA 정정)
+  - entities/enagic-usa.md — 계약 조건 정정(FCA)·사전 논의·9/16 회의 안건 섹션 추가
+  - concepts/줄리어스-대표-미팅-20260910.md — 후속 조치(2026-09-16) 추가
+  - projects/에나지크_발주_시뮬레이터.md — 최근 활동(2026-09-15) 2건 추가
+- 네비게이션 갱신: README.md 재생성
