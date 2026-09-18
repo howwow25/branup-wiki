@@ -1,7 +1,7 @@
 ---
 title: "조인앤조이 (JNJ)"
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-09-18
 type: entity
 tags: [partner, packaging, cosmetics]
 sources: [raw/articles/join-n-joy-po-form-20260608.md, channels/코스메틱-본부.md]
@@ -36,4 +36,4 @@ confidence: high
 - **샘플 딜레이 양해** — 후가공 업체 여름 휴가 물량 밀림, 원재현 이사 양해 연락 (2026-07-16)
 - 발주서 입고 시 미국 물량과 혼입 금지 주의 (캐나다 vs 미국 구분)
 
-*Source channels: [[channels/코스메틱-본부]], [[channels/브랜업-전체]]*
+*Source channels: [[channels/코스메틱-본부]], [[channels/branup-전체|브랜업-전체]]*

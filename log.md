@@ -1254,6 +1254,22 @@
 - index.md
 - 프로젝트 13개, 업무 88건 동기화 완료
 
+## [2026-09-18] lint | Wiki 정기 린트 (주간 헬스체크)
+- 스캔: 콘텐츠 페이지 54개 (entities 15·concepts 15·channels 11·projects 13 + index 2), raw 소스 42개
+- 깨진 위키링크 2건 → **수정 완료** (7월부터 반복 보고 항목)
+  - `entities/join-n-joy`: `[[channels/브랜업-전체]]` → `[[channels/branup-전체|브랜업-전체]]` (파일명은 branup-전체)
+  - `concepts/government-support-programs`: `[[branup-work-dashboard]]`(미존재) → `[[concepts/브랜업-대시보드-현황]]`
+  - 두 페이지 `updated:` 2026-09-18로 갱신
+- 고아 페이지 6건: `concepts/task-status`, `concepts/project-status`, `entities/project-*` 5건 (구 자동생성 미러, `projects/`가 대체) → `_archive/` 이동 권장
+- index.md 미등록 9건 (고아 7건 + `entities/브랜업-신입직원-온보딩-매뉴얼` + `concepts/브랜업-대시보드-현황`), ghost 0건
+  - 헤더 `Total pages: 50` vs 실제 콘텐츠 54개(등재 46건) — 정리 후 재계산 필요
+- 태그 이탈 28종: 계획(9)·dashboard(8)·legal(4)·government(4)·rnd(4)·진행·완료·보류 등 → SCHEMA.md taxonomy 등재 또는 frontmatter `status:` 분리 권장
+- 프론트매터 누락 9건: created 5건, updated/tags 1건, frontmatter 없음 1건(`channels/index`)
+- 과대 페이지 2건: `entities/브랜업-신입직원-온보딩-매뉴얼` 777줄(분할 권장), `channels/코스메틱-본부` 221줄
+- raw sha256 무결성: 64자 해시 보유 18건 중 3건 일치, 18건은 placeholder(`slack-advisory`·`<computed_on_ingest>`·`encrypted`) → 실제 드리프트가 아닌 해시 산출 규칙 불일치로 판단
+- 정상: stale 0건(>90일), contested 0건, confidence low 1건(`concepts/branup-finance`), log 92건/1267줄(임계 미달)
+- 리포트 #wiki 채널 게시 완료 (ts 1789722270.972339)
+
 ## [2026-09-18] cron | 일일 Slack + 대시보드 동기화
 - DB sync: 프로젝트 13개, 업무 88건 (전일과 동일) — branup_db_wiki_sync.py
 - Slack 스캔: 15개 채널 스캔, 최근 72시간 내 신규 비즈니스 메시지 0건

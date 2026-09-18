@@ -1,7 +1,7 @@
 ---
 title: 정부지원사업 모니터링
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-09-18
 type: concept
 tags: [government, support-program, export-voucher, subsidy, monitoring]
 sources: []
@@ -42,5 +42,5 @@ confidence: medium
 
 ## 관련 문서
 - [[export-voucher|수출바우처 상세]]
-- [[branup-work-dashboard]] — 지원사업 현황 대시보드
+- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 지원사업 현황 대시보드
 - [[product-liability-insurance|PL보험]] — 수출 시 필수 보험
