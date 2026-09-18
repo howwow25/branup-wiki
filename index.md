@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-18 | Total pages: 50
+> Last updated: 2026-09-19 | Total pages: 47
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -29,6 +29,7 @@
 - [[labio|LABIO (라비오)]] — 화장품 원료 공급사. COOLIN stay 쿨링·항열노화 원료 + 브랜업 제안 제형 5종
 - [[한국콜마|한국콜마 (Kolmar Korea)]] — 국내 대표 화장품 ODM·OEM 제조사. 브랜업 신규 제품 샘플 개발 의뢰처 (콜마 샘플 사양 변경: 15ml·판매제품 확정)
 - [[peachy|Peachy]] — 미국 보톡스 전문 체인점 (벤치마크 분석)
+- [[브랜업-신입직원-온보딩-매뉴얼|브랜업 신입직원 온보딩·공통업무 매뉴얼]] — 전사 온보딩 매뉴얼 v1.2 (조직·업무 프로세스·공통 규정). 805줄 — 분할 검토 대상
 
 ## Projects (프로젝트)
 - [[projects/마케팅팀_노션_시범운영___협업플로우_셋팅|마케팅팀 노션 시범운영 & 협업플로우 셋팅]] — 대시보드 프로젝트 — 계획
@@ -59,6 +60,7 @@
 - [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
 - [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발)
 - [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미 수출 실증. SGS 시험 패키지(69백만원), 대면평가 발표·Q&A, 수정사업계획서
+- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 85건 (매일 갱신)
 
 ## Comparisons (비교 분석)
 
@@ -67,3 +69,8 @@
 ## Queries (저장 질의)
 
 *(비어 있음)*
+
+## 미등재 (아카이브 대기)
+
+> 2026-09-18 린트 권장 — 구 자동생성 미러 페이지, `projects/`가 대체. `_archive/` 이동 검토 중.
+> `entities/project-ai_ax_직원_교육`, `entities/project-브랜업_대시보드_개발`, `entities/project-소라살롱_공구_프로젝트`, `entities/project-시니어_마케터_채용_프로젝트`, `entities/project-에나지크_발주_시뮬레이터`, `concepts/task-status`, `concepts/project-status`

@@ -1,7 +1,7 @@
 # 채널 맵 (Slack Channel Map)
 
 > 브랜업 Slack 채널별 지식 허브. 각 채널은 프로젝트 단위 또는 사내 조직 단위.
-|Last updated: 2026-09-09 | Total channels: 11
+> Last updated: 2026-09-19 | Total channels: 11 (페이지 등재 기준 / Slack 활성 채널 15개)
 
 ## 프로젝트 채널
 
@@ -32,5 +32,5 @@
 | 업무에로사항 | 부서 | active | 에나직 v2 포장사양서 누락, BOM 관리 체계 도입 필요 |
 | 브랜업-공지사항 | 부서 | active | Slack 전환, 주간 회의록 공유 |
 | 브랜업-에듀 | 부서 | active | 교육 자료 4개 추가 등록(85MB) |
-| [[channels/브랜업-온보딩]] | 신입직원 온보딩 및 매뉴얼 | C0BKH0CDEET | active |
+| [[channels/브랜업-온보딩|브랜업-온보딩]] | 부서 | active | 신입직원 온보딩·공통업무 매뉴얼 관리 (C0BKH0CDEET) |
 | 브랜업-전체 | 부서 | active | 정육공방 슬리브·카탈로그 발주 완료, 브랜드 소개서 9월 1~2주 보완 일정 |
