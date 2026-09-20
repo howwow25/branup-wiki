@@ -1358,3 +1358,52 @@
 - Wiki 페이지 갱신: projects/ 13건 · projects/index.md · concepts/브랜업-대시보드-현황.md · index.md (updated 날짜 및 업무 요약, DB sync 자동)
 - 네비게이션 갱신: README.md 재생성
 - 미조치(사용자 판단 필요): 린트 권장 고아 페이지 7건 `_archive/` 이동 — 사용자 승인 대기 (4주차)
+
+## [2026-09-21] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 85건 동기화 완료
+
+## [2026-09-21] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개, 업무 85건 (전일과 동일) — branup_db_wiki_sync.py
+  - 상태: 진행중 84건 · 지연 1건 ("아이젤 계약서 조영길이사와 사전 조율", 담당 강경철·이상원·이향석, 마감 2026-08-27)
+  - 마감 임박(09-21~09-28) 4건 — 전부 09-25 마감: 브랜업캠퍼스 신규 법인설립(긴급, 강경철·이향석), 멕시코 수출 가능여부 정리(강경철), [Web] cosmetic-review 서비스 추가(이향석), 보드 부착용 바퀴 찾기(강경철)
+  - 마감일 경과 74건 (전일과 동일) — 7~8월 마감일 미갱신 항목 다수, 대시보드 마감일 정비 필요
+- Slack 스캔: 15개 채널 (아카이브 0건) — 최근 168시간(7일) 신규 비즈니스 메시지 0건
+  - 뷰티-프로젝트: 최신 09-15 23:00 (줄리어스 9/16 미팅 안건) — 09-16 크론에서 기수집
+  - 코스메틱-본부: 최신 09-11 09:21 / design-backup: 최신 09-10 09:12 — 신규 없음
+  - 헤르메스: 09-17 게이트웨이 재시작 안내 3건 (비업무), wiki: 09-18 18:04 주간 린트 리포트 (자체 발행분)
+  - 대용량 응답(뷰티-프로젝트·코스메틱-본부·design-backup·wiki)은 urllib IncompleteRead/JSON 절단 → curl 재조회로 검증 (아래 '수집 파이프라인 개선' 참조)
+  - 제품-기획-제작(C0BL3S0BHV3): bot `not_in_channel` — 채널 초대 필요 (반복 항목)
+- Canvas/북마크 스캐너 결함 수정: `~/.hermes/scripts/slack_bookmark_scanner.py`
+  - 원인: urllib 대용량 응답 IncompleteRead → 실패를 조용히 삼켜 실행마다 결과가 달랐음(13건/1건/2건). 재시도 없음
+  - 수정: curl 기반 호출 + 재시도(3회, 지수 백오프) + 실패 시 `errors` 필드·stderr 출력으로 표면화, `ALL_CHANNELS` 채널명 현행화(branup-전체→브랜업-전체, branup-design-backup→design-backup)
+  - 검증: 3회 연속 실행 모두 canvas 14건 (design-backup 12 · 아이젤-계약서 1 · 뷰티-프로젝트 1), bookmarks 0건, errors 2건(제품-기획-제작 not_in_channel)로 동일
+- Canvas 이벤트: 총 14건 — 최신 09-11 12:03 (뷰티-프로젝트 `tabbed_canvas_updated`). **직전 크론까지 13건으로 집계**되던 뷰티-프로젝트 Canvas 1건이 이번 정밀 스캔에서 확인됨 (스캐너 결함으로 누락). 09-20 05:00 이후 신규 이벤트 없음
+- 북마크: 0건 (15개 채널 전부)
+- 신규 문서 파일: 0건 (PDF/DOCX/PPTX/XLSX 없음)
+- Wiki 페이지 갱신:
+  - channels/뷰티-프로젝트.md — `slack_channel_id: C0BFE9KR23Z` 기입, 09-11 Canvas 갱신 항목 추가, updated 갱신
+  - channels/코스메틱-본부.md — `slack_channel_id: C0BFSBWTNQM` 기입
+  - channels/업무에로사항.md — `slack_channel_id: C0BH9QK226Q` 기입
+  - channels/브랜업고문단-1억불만들기.md — `slack_channel_id: C0BXXXXXXXX` → `C0BLWN54UC8`
+  - channels/브랜업-공지사항.md — ⚠️ Slack 활성 채널 목록에 미존재 경고 추가 (이름 변경/아카이브/비공개 여부 확인 필요)
+  - channels/index.md — Slack 채널 ID 매핑표 신설(15개 채널 ↔ 위키 페이지), 퀵뷰 갱신, 날짜 갱신
+  - projects/ 13건 · projects/index.md · concepts/브랜업-대시보드-현황.md · index.md — DB sync 자동 갱신
+- 네비게이션 갱신: README.md 재생성
+- 미조치(사용자 판단 필요, 5주차): 린트 권장 고아 페이지 7건 `_archive/` 이동 승인 대기 (concepts/task-status·project-status·entities/project-* 5건)
+- 미조치(신규): `channels/브랜업-공지사항.md` 의 Slack 채널 실체 확인 — 채널명 변경 추정, 대응 채널 확인 후 `status: archived` 또는 대상 갱신

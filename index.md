@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-20 | Total pages: 47
+> Last updated: 2026-09-21 | Total pages: 47
 
 ## Channels (Slack 채널별 지식 허브)
 
