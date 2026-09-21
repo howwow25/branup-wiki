@@ -1407,3 +1407,48 @@
 - 네비게이션 갱신: README.md 재생성
 - 미조치(사용자 판단 필요, 5주차): 린트 권장 고아 페이지 7건 `_archive/` 이동 승인 대기 (concepts/task-status·project-status·entities/project-* 5건)
 - 미조치(신규): `channels/브랜업-공지사항.md` 의 Slack 채널 실체 확인 — 채널명 변경 추정, 대응 채널 확인 후 `status: archived` 또는 대상 갱신
+
+## [2026-09-22] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 88건 동기화 완료
+
+## [2026-09-22] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개, 업무 88건 (전일 85건 → +3) — branup_db_wiki_sync.py
+  - 활성 업무 86건 (진행중 85 · 지연 1) — 지연: "아이젤 계약서 조영길이사와 사전 조율"(강경철·이상원·이향석, 마감 2026-08-27)
+  - 마감일 경과 80건 (`due_at` < 2026-09-22, 활성 86건 기준) — 7~8월 마감일 미갱신 항목 다수, 대시보드 마감일 정비 필요
+  - 마감 임박(09-22~09-29) 1건 — 09-25 "시간될 때 보드에 부착할 고급스러운 바퀴 찾기"(강경철)
+  - 신규 등록(`created` ≥ 09-18) 0건
+- Slack 스캔: 15개 채널 (아카이브 0, 봇 미참여 1) — 최근 168시간 신규 비즈니스 메시지 2건
+  - 코스메틱-본부: 09-21 13:50 강경철 — **항공운송 단가 예상치** (캐나다-벤쿠버 50mL 11,000원·15mL 6,500원 / 미국-LA 50mL 14,000원·15mL 6,900원 per 세트)
+  - design-backup: 09-21 21:39 노수민 — Photoshop 원본(PSD) 366MB 등록 (`exec-e7d57e4a….psd`, 문서 아님 → raw 수집 제외)
+  - 뷰티-프로젝트: 최신 09-15 23:00(9/16 회의 안건, 기수집) / 헤르메스·wiki: 09-17~09-18 봇 알림·자체 린트 리포트(비업무)
+  - 제품-기획-제작(C0BL3S0BHV3): bot `not_in_channel` — 채널 초대 필요 (반복)
+  - 채널명 변경 이벤트 3건(7/27~7/29) 외 신규 없음
+- Canvas 이벤트: 14건 (design-backup 12 · 브랜업-계약서 1 · 뷰티-프로젝트 1), 최신 09-11 12:03 — 신규 없음 / 북마크 0건
+- Wiki 페이지 갱신:
+  - channels/코스메틱-본부.md — 09-21 항공운송 단가 예상치 항목 추가, updated 갱신
+  - channels/branup-design-backup.md — 09-21 PSD 등록 항목 추가, updated 갱신
+  - channels/index.md — 퀵뷰 2건 갱신(코스메틱-본부·design-backup), 브랜업-공지사항 경고 재확인(09-22), 날짜 갱신
+  - projects/에나지크_발주_시뮬레이터.md — 09-21 활동(항공운송 단가·선적 비용 기초자료) 추가
+  - entities/enagic-usa.md — "항공운송 단가 예상치 (2026-09-21)" 섹션 추가(CA/US 단가 비교, FCA 부산 전제)
+  - index.md — 총 페이지 47 → 54 정정(channels 11·entities 15·concepts 15·projects 13), 업무 88건 반영
+  - projects/ 13건 · projects/index.md · concepts/브랜업-대시보드-현황.md (DB sync 자동 갱신)
+- 스크립트 정비: `~/.hermes/scripts/slack_bookmark_scanner.py` ALL_CHANNELS 채널명 현행화 (`아이젤-계약서` → `브랜업-계약서`, C0BFZEZ360L)
+- 네비게이션 갱신: README.md 재생성
+- 미조치(사용자 판단 필요, 6주차): 린트 권장 고아 페이지 7건 `_archive/` 이동 승인 대기
+- 미조치(2주차): `channels/브랜업-공지사항.md` Slack 채널 실체 미확인 (09-22 재확인 — 활성 채널 목록에 없음)

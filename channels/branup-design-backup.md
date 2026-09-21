@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-09-11
+updated: 2026-09-22
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
@@ -28,6 +28,9 @@ related_concepts: []
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-09-21
+- **Photoshop 원본(PSD) 등록** — 노수민(SueminNoh). `exec-e7d57e4a-4fb8-4681-8b3d-e56467bf86eb (1).psd` (**366MB**, 21:39 KST) 업로드. 텍스트·설명 없음, 자동 생성 파일명(시스템 export 추정)으로 대상 제품 특정 불가 — 문서(PDF/DOCX/PPTX/XLSX)가 아니므로 위키 raw 수집 대상에서는 제외하고 등록 사실만 기록. 관련: [[channels/코스메틱-본부|코스메틱-본부]] · [[channels/뷰티-프로젝트|뷰티-프로젝트]]
 
 ### 2026-09-10
 - **괄사(Gua Sha) 목업 파일 등록** — 디자인팀. 3D 목업 파일 `KANGEN01.obj`·`KANGEN02.obj` + 목업 이미지(`image.png`) 공유. KANGEN BEAUTÉ 제품 확장 전략(2027년 초 마사지 스톤/괄사 제품 준비)의 디자인 선행 작업. 관련: [[concepts/줄리어스-대표-미팅-20260910|줄리어스 대표 미팅]] (제품 확장 전략)

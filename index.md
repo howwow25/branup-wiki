@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-21 | Total pages: 47
+> Last updated: 2026-09-22 | Total pages: 54 (channels 11 · entities 15 · concepts 15 · projects 13)
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -60,7 +60,7 @@
 - [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
 - [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발)
 - [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미 수출 실증. SGS 시험 패키지(69백만원), 대면평가 발표·Q&A, 수정사업계획서
-- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 85건 (매일 갱신)
+- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 88건 (매일 갱신)
 
 ## Comparisons (비교 분석)
 

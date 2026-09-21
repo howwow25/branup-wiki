@@ -1,7 +1,7 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-09-16
+updated: 2026-09-22
 type: entity
 tags: [partner, export, usa, market, contract]
 sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
@@ -183,6 +183,12 @@ confidence: medium
   4. **부족·교체 물량 생산·배송 계획** — 2·3차 주문 부족 1,573개, 캐나다 미출고 206개, 미국 파손 교체용 168개. 별도 항공 vs 다음 해상 합배송 vs 한국지사·샘플 활용을 비용·납기 기준 결정.
 - 2만 개 주문부터 오류 없이 안정 진행 강조 — 2·3차 수량 부족은 신뢰도 영향 사안, 본계약 첫 생산 정확 관리 필요.
 ^[channels/뷰티-프로젝트.md]
+
+### 항공운송 단가 예상치 (2026-09-21)
+- Slack `코스메틱-본부`에서 강경철이 세트당 항공운송 예상 단가 공유 — **캐나다-벤쿠버 50mL 11,000원 / 15mL 6,500원**, **미국-LA 50mL 14,000원 / 15mL 6,900원**.
+- 미국-LA가 캐나다-벤쿠버보다 50mL 기준 세트당 약 3,000원(+27%) 높음 → 부족물량(2·3차 1,573개)·파손 교체(168개)의 별도 항공 발송 여부 판단 근거.
+- 선적 조건: FCA 부산(운송인 인도) 기준 검토 중 — 항공/해상 선택은 비용·납기 협의 사항.
+^[channels/코스메틱-본부.md]
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
