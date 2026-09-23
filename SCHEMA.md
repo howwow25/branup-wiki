@@ -71,7 +71,7 @@ wiki/
 - **People:** team, role, contact, ceo, director
 - **Process:** workflow, approval, reporting, meeting, decision
 - **Tech:** developer, infra, project, system, code, automation
-- **Market:** usa, canada, mexico, china, export-market
+- **Market:** usa, canada, mexico, china, eu, export-market
 - **Meta:** comparison, timeline, decision, guideline, strategy
 
 ## Page Thresholds

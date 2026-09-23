@@ -1494,3 +1494,55 @@
 - 미조치(사용자 판단 필요, 7주차): 린트 권장 고아 페이지 7건 `_archive/` 이동 승인 대기
 - 미조치(3주차): `channels/브랜업-공지사항.md` Slack 채널 실체 미확인 (09-23 재확인 — 활성 15개 목록에 없음)
 - 미조치(2주차): #제품-기획-제작(C0BL3S0BHV3) 봇 미참여 — 채널 초대 필요
+
+## [2026-09-24] sync | 브랜업 대시보드 동기화
+- projects/브랜업_대시보드_개발.md
+- projects/시니어_마케터_채용_프로젝트.md
+- projects/소라살롱_공구_프로젝트.md
+- projects/브랜업_홈페이지_기획안_작성.md
+- projects/ai_ax_직원_교육.md
+- projects/에나지크_발주_시뮬레이터.md
+- projects/뷰티_bm_채용_프로젝트.md
+- projects/kcl_sgs_안정성검사_사업_실행_12_31.md
+- projects/칸겐뷰티_sns_운영.md
+- projects/마케팅팀_노션_협업_스페이스_구축.md
+- projects/노션_워크스페이스_셋팅___마케팅팀_시범운영.md
+- projects/홈페이지_hero_페이지_에셋_기획_및_제작.md
+- projects/마케팅팀_노션_시범운영___협업플로우_셋팅.md
+- projects/index.md
+- concepts/브랜업-대시보드-현황.md
+- index.md
+- 프로젝트 13개, 업무 88건 동기화 완료
+
+## [2026-09-24] cron | 일일 Slack + 대시보드 동기화
+- DB sync: 프로젝트 13개, 업무 88건 (전일 89건 → −1, API 목록에서 1건 소멸) — branup_db_wiki_sync.py
+  - 상태 분포: 진행중 87 · 지연 1 (완료 0 — `closed_at` 보유 업무 없음)
+  - 지연 1건: "아이젤 계약서 조영길이사와 사전 조율"(강경철·이상원·이향석, 마감 2026-08-27, 28일 경과)
+  - 마감 경과 75건 (전일 73건 → +2) — `due_at` ≤ 09-22 71건 + 09-23 마감 4건(공용정보 리스트업·`[TSonaX] 1차 배포`·`[Toffer] 익절/손절 시나리오 개선`·회계 현명 미지급금 출처 보완)이 경과로 편입. 전일 대비 2건은 마감일 재조정 반영
+  - 마감 임박(09-25~09-30) 8건 — 09-25 5건(멕시코 수출 가능여부 정리·브랜업캠퍼스 신규 법인설립·바퀴 찾기·IR자료 디벨롭·`[Web] cosmetic-review`), 09-29 1건(윈도우 오피스365 라이센스), 09-30 2건(BOM 정리·카톤 개선)
+  - 신규 등록: 09-23 "회계 현명 미지급금 출처 보완"(이향석) 1건
+  - ⚠️ TSonaX 최우선 항목 `[TSonaX] 1차 배포`(마감 09-23)가 마감 경과 상태로 '진행중' — 완료/재조정 확인 필요
+- Slack 스캔: 15개 채널(아카이브 0, 봇 미참여 1 — 제품-기획-제작 `not_in_channel`) — **신규 메시지 4건, 전량 `코스메틱-본부`**(09-23 13:36~13:43, 노수민)
+  - 09-23 13:36 `image.png`(2.6MB, image/png) — KANGEN BEAUTÉ 3-Step 세트(STEP I Luminous Peptide Elixir·STEP II Vital Rich Cream·STEP III Precision Ceramide Deep Concentrate) 네이비 트레이 삽입 상태 사진. 문서 아님 → raw 수집 제외, 비전 분석으로 내용 확인
+  - 09-23 13:37 **세트 포장 세로 보관·충격 시 제품 중량 지지 불가**(2026-09-21 확인) — 정문갑 회장님 보강 작업 실행, 점검 물건 택배 발송
+  - 09-23 13:43 **EU 수출 퀵 리서치 9개 항목** — 포장재 중금속 합계 100mg/kg·REACH SVHC 정보 전달 의무·PPWR 2030-01-01 등급제(A/B/C)·최소 포장·PE 계열 우선·투명 PET 본체+분리 PE·PP 캡·PETG 별도 취급·라벨/접착제 선별 방해 금지·종이상자 코팅 비추천
+  - `conversations.replies`로 스레드 답글 확인 — 신규 0건 (4건이 전량)
+  - 168h 창 내 나머지 6건은 기수집: 코스메틱-본부 항공운송 단가(09-21), design-backup PSD 366MB(09-21), 헤르메스 봇 알림(09-17), wiki 린트 리포트(09-18)
+  - 신규 문서 파일 0건 / 채널명 변경 이벤트 신규 0건(7/27~7/29 기존 3건)
+- Canvas 이벤트: 14건(design-backup 12 · 브랜업-계약서 1 · 뷰티-프로젝트 1), 최신 09-11 12:03 — 신규 없음 / 북마크 0건 (`slack_bookmark_scanner.py --all`)
+- Wiki 페이지 갱신:
+  - `concepts/eu-packaging-regulation.md` — **신규 생성**(EU 포장·재활용 규제, PPWR·REACH): 9개 항목 상세 + 브랜업 세트 구성별 적용 검토표 + 미해결/확인 필요 4건, provenance `^[channels/코스메틱-본부.md]`
+  - `channels/코스메틱-본부.md` — 2026-09-23 활동 2건(트레이 보강·EU 리서치) 추가, 주요 의사결정 2건 추가, related_concepts에 신규 개념 연결, updated 09-22 → 09-24
+  - `entities/enagic-usa.md` — "세트 포장 트레이 보강 및 EU 포장 규제 리서치 (2026-09-23)" 섹션 추가, tags에 `eu` 추가, updated 09-22 → 09-24
+  - `concepts/줄리어스-대표-미팅-20260910.md` — "후속 조치 (2026-09-23)" 섹션 추가(국가별 규제 정리 과제의 첫 산출물), tags `eu`·sources에 채널 추가, updated 09-16 → 09-24
+  - `projects/에나지크_발주_시뮬레이터.md` — 2026-09-23 활동 2건 추가(보강 작업·EU 규제 리서치)
+  - `concepts/tsonax.md` — 09-24 기준 갱신, `[TSonaX] 1차 배포`·`[Toffer] 익절/손절 시나리오 개선` 마감 09-23 경과 리스크 명시
+  - `SCHEMA.md` — Tag Taxonomy Market에 `eu` 추가(사용 전 등록 원칙)
+  - `channels/index.md` — 퀵뷰 코스메틱-본부(트레이 보강·EU 리서치) 갱신, 채널 ID 매핑표 09-24 재확인(Slack 활성 15개 전부 매핑 일치), 공지사항 경고 8주차 갱신
+  - `channels/브랜업-공지사항.md` — 채널 실체 미확인 경고 8주차 갱신, updated 09-23 → 09-24
+  - `index.md` — 총 페이지 54 → 55(concepts 16), `concepts/eu-packaging-regulation` 등재, TSonaX 요약(1차 배포 마감 경과)·업무 88건 갱신
+  - `projects/` 13건 · `projects/index.md` · `concepts/브랜업-대시보드-현황.md` (DB sync 자동 갱신)
+- 네비게이션 갱신: README.md 재생성
+- 미조치(사용자 판단 필요, 8주차): 린트 권장 고아 페이지 7건 `_archive/` 이동 승인 대기
+- 미조치(4주차): `channels/브랜업-공지사항.md` Slack 채널 실체 미확인 (09-24 재확인 — 활성 15개 목록에 없음)
+- 미조치(2주차): #제품-기획-제작(C0BL3S0BHV3) 봇 미참여 — 채널 초대 필요

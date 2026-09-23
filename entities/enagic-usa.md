@@ -1,9 +1,9 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-09-22
+updated: 2026-09-24
 type: entity
-tags: [partner, export, usa, market, contract]
+tags: [partner, export, usa, eu, market, contract]
 sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
 confidence: medium
 ---
@@ -188,6 +188,12 @@ confidence: medium
 - Slack `코스메틱-본부`에서 강경철이 세트당 항공운송 예상 단가 공유 — **캐나다-벤쿠버 50mL 11,000원 / 15mL 6,500원**, **미국-LA 50mL 14,000원 / 15mL 6,900원**.
 - 미국-LA가 캐나다-벤쿠버보다 50mL 기준 세트당 약 3,000원(+27%) 높음 → 부족물량(2·3차 1,573개)·파손 교체(168개)의 별도 항공 발송 여부 판단 근거.
 - 선적 조건: FCA 부산(운송인 인도) 기준 검토 중 — 항공/해상 선택은 비용·납기 협의 사항.
+^[channels/코스메틱-본부.md]
+
+### 세트 포장 트레이 보강 및 EU 포장 규제 리서치 (2026-09-23)
+- **세트 포장 세로 보관·충격 시 제품 중량 지지 불가** — 노수민(SueminNoh). 세트를 세로 보관한 상태에서 충격이 가해지면 제품 중량을 트레이가 버티지 못하는 문제 확인(2026-09-21). **정문갑 회장님이 보강 작업을 진행**하기로 결정, 점검용 물건 택배 발송. 3-Step 세트(STEP I Luminous Peptide Elixir · STEP II Vital Rich Cream · STEP III Precision Ceramide Deep Concentrate) 트레이 삽입 상태 사진 공유.
+- **EU 수출 포장·재활용 규제 퀵 리서치** — 노수민(SueminNoh). 유럽 확장(3년 내 약 4만 세트, 독일 허브) 대비 포장 규제 9개 항목 정리: 중금속 합계 100 mg/kg 이하, REACH SVHC 정보 전달 의무, PPWR 2030-01-01 등급제(A/B/C), 최소 포장·재활용성 평가, PE 계열 우선(알루미늄 차단층·다층구조 불리), 투명 PET 본체 + 분리 가능 PE·PP 캡, PETG 별도 취급, 라벨·접착제 선별 방해 금지, 종이상자 코팅 비추천. 상세: [[concepts/eu-packaging-regulation|EU 포장·재활용 규제 (PPWR·REACH)]]
+- 2026-09-10 미팅 협업 과제 "국가별 규제 정리 후 별도 논의"의 첫 산출물.
 ^[channels/코스메틱-본부.md]
 
 ## 관련 문서
