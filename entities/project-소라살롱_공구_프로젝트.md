@@ -1,7 +1,7 @@
 ---
 title: 소라살롱 공구 프로젝트
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-09-25
 type: entity
 tags: [project, dashboard]
 sources: []
@@ -9,6 +9,8 @@ confidence: medium
 ---
 
 # 소라살롱 공구 프로젝트
+
+> ⚠️ **구(舊) 자동생성 미러 페이지** — 현행 관리 페이지는 [[projects/소라살롱_공구_프로젝트]] 입니다. 이 페이지는 2026-07-15 이후 갱신되지 않았으며 `_archive/` 이동이 권장됩니다(승인 대기).
 
 - **상태:** 보류
 - **담당자:** 전경표,이향석

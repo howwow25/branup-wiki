@@ -1590,3 +1590,20 @@
 - 미조치(사용자 판단 필요, 9주차): 린트 권장 고아 페이지 7건 `_archive/` 이동 승인 대기
 - 미조치(5주차): `channels/브랜업-공지사항.md` Slack 채널 실체 미확인 (09-25 재확인 — 활성 15개 목록에 없음)
 - 미조치(2주차): #제품-기획-제작(C0BL3S0BHV3) 봇 미참여 — 채널 초대 필요
+
+## [2026-09-25] lint | 주간 위키 린트 (W39, #wiki 게시)
+- 스캔 범위: **콘텐츠 페이지 55개**(channels 11 · entities 15 · concepts 16 · projects 13) + raw 소스 42개 + nav 6개 (총 .md 103개). 링크 해석은 NFC 정규화 + raw/ 포함 slug 사전으로 수행(이전 크론의 "깨진 링크 9건"은 NFD/NFC 불일치 false positive였음).
+- 깨진 위키링크 **1건 → 0건 수정 완료**
+  - `channels/코스메틱-본부`: `[[raw/articles/branup-packaging-spec-usa-canada-20260728.pdf]]` → 백틱 경로 표기(PDF는 wikilink 대상 아님), `updated` 갱신
+- 프론트매터 오류 **5건 → 0건 수정**
+  - `concepts/task-status`·`concepts/project-status`·`concepts/브랜업-대시보드-현황`: 누락 `created:` 추가 (07-16 / 07-16 / 07-28)
+  - `entities/브랜업-신입직원-온보딩-매뉴얼`: `created`·`updated`·`sources` 추가, `tags`를 taxonomy 태그로 정규화 + 한글 키워드는 `keywords:`로 이동
+  - 지속성 확보: `branup_db_wiki_sync.py`가 `concepts/브랜업-대시보드-현황.md` 생성 시 `created: 2026-07-28`을 함께 기록하도록 생성기 수정
+- 태그 이탈 **33종 → 0종 수정**: `SCHEMA.md` Tag Taxonomy에 실제 사용 태그 등재(legal·rnd·government·dashboard·market·product·competitor·b2b·korea·oem-odm·org·people·hr·risk·issue-tracking·onboarding·education·design·process·management·tech + 프로젝트 상태 자동 태그 계획·진행·보류·완료·취소)
+- 고아 페이지 6건 / index 미등재 7건 — **10주차 미조치** (`_archive/` 이동 승인 대기). 각 페이지 상단에 대체 페이지 안내 배너 추가(비파괴). 대상: `concepts/task-status`, `concepts/project-status`, `entities/project-{ai_ax_직원_교육,브랜업_대시보드_개발,소라살롱_공구_프로젝트,시니어_마케터_채용_프로젝트,에나지크_발주_시뮬레이터}`
+- 과대 페이지 3건: `entities/브랜업-신입직원-온보딩-매뉴얼` 805줄(분할 권장), `channels/코스메틱-본부` 237줄, `entities/enagic-usa` 206줄
+- raw sha256 무결성: 64자 해시 18건 중 **3건 일치 / 15건 해시 산출 규칙 불일치**(placeholder 18건은 검증 불가). 15건 전부 단일 ingest 커밋만 존재(`git log` 확인) → **실제 소스 드리프트 아님**. 표준 규칙 = frontmatter 이후 본문에서 선행 개행 제거 후 sha256.
+- 정상: stale(>90일) 0건 · ghost index 링크 0건 · contested 0건 · log 108건(임계 500 미달) · confidence low 1건(`concepts/branup-finance`)
+- 참고(조치 불필요): `log.md` 내 과거 항목의 미해석 링크 6건(historical record)
+- 네비게이션 갱신: `index.md` 미등재 섹션에 10주차 에스컬레이션 명시
+- 리포트 #wiki 채널 게시 완료

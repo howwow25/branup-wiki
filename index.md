@@ -75,3 +75,6 @@
 
 > 2026-09-18 린트 권장 — 구 자동생성 미러 페이지, `projects/`가 대체. `_archive/` 이동 검토 중.
 > `entities/project-ai_ax_직원_교육`, `entities/project-브랜업_대시보드_개발`, `entities/project-소라살롱_공구_프로젝트`, `entities/project-시니어_마케터_채용_프로젝트`, `entities/project-에나지크_발주_시뮬레이터`, `concepts/task-status`, `concepts/project-status`
+>
+> 2026-09-25 린트(**10주차 미조치**) — 7건 모두 고아 상태 유지. 각 페이지 상단에 **대체 페이지 안내 배너**를 추가해 탐색 혼선을 차단함(비파괴 조치).
+> `_archive/` 이동은 사용자 승인 1건만 있으면 즉시 실행 가능: `git mv <파일> _archive/<디렉터리>/` + 본 index 섹션 정리 + inbound 링크 평문 전환.

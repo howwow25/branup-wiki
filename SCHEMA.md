@@ -65,14 +65,17 @@ wiki/
   ```
 
 ## Tag Taxonomy
-- **Business:** contract, export, partner, customer, finance, insurance, pl-insurance
-- **Government:** support-program, export-voucher, subsidy, monitoring, certification
-- **Product:** cosmetics, formulation, certification, packaging, regulation, fda, mocra
-- **People:** team, role, contact, ceo, director
-- **Process:** workflow, approval, reporting, meeting, decision
-- **Tech:** developer, infra, project, system, code, automation
+- **Business:** contract, export, partner, customer, finance, insurance, pl-insurance, legal, market, competitor, b2b, korea
+- **Government:** support-program, export-voucher, subsidy, monitoring, certification, government
+- **Product:** cosmetics, formulation, certification, packaging, regulation, fda, mocra, rnd, oem-odm, product
+- **People:** team, role, contact, ceo, director, org, people, hr
+- **Process:** workflow, approval, reporting, meeting, decision, process, management, risk, issue-tracking, onboarding, education, design
+- **Tech:** developer, infra, project, system, code, automation, tech, dashboard
 - **Market:** usa, canada, mexico, china, eu, export-market
 - **Meta:** comparison, timeline, decision, guideline, strategy
+- **Status (자동 태그):** 계획, 진행, 보류, 완료, 취소 — `projects/*.md`가 대시보드 상태값에서 자동 생성하는 태그. 수동 작성 페이지에는 `tags:` 대신 `status:` 프론트매터 사용 권장.
+
+> 2026-09-25 린트: 실제 사용 중이던 태그 33종 중 taxonomy 미등재분을 위 라인에 등재(legal·rnd·government·dashboard 등). 신규 태그는 반드시 본 taxonomy에 먼저 추가할 것.
 
 ## Page Thresholds
 - **Create page** when an entity/concept appears in 2+ sources OR is central to one source

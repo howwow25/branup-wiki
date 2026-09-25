@@ -1,5 +1,6 @@
 ---
 title: 브랜업 대시보드 업무 현황
+created: 2026-07-16
 updated: 2026-07-28
 type: concept
 tags: [workflow, task, reporting, dashboard]
@@ -8,6 +9,8 @@ confidence: medium
 ---
 
 # 브랜업 대시보드 업무 현황
+
+> ⚠️ **구(舊) 자동생성 페이지** — 2026-07-28 이후 갱신 중단. 현행 현황은 [[concepts/브랜업-대시보드-현황]] · [[projects/index]] 참조. `_archive/` 이동 권장(승인 대기).
 
 > 브랜업 대시보드 DB에서 자동 수집. 총 61개 업무.
 > 출처: [브랜업 대시보드](http://toffer.co.kr/branup/branup-watcher/)
