@@ -124,6 +124,10 @@ related_concepts: [concepts/주제명]
 - **크론 실행 시:** 채널의 최근 메시지를 스캔하여 "최근 활동 요약" 갱신
 - **새 의사결정 발생 시:** 수동 또는 자동으로 "주요 의사결정"에 추가
 - **entities/·concepts/ 페이지 생성 시:** provenance에 `^[channels/채널명.md]` 추가
+- **`sources:` 예외:** 채널 페이지는 `sources:` 대신 `slack_channel_id:`(+ `status:`)를 출처 필드로 사용한다.
+  린트에서 채널 페이지의 `sources:` 누락은 오류가 아니다(자동 검사 대상에서 제외).
+- **주차(週次) 카운터:** 로그·경고의 "N주차"는 **일일 크론 재확인 횟수** 기준으로 통일한다
+  (주간 린트 리포트의 주차 카운터와 혼용 금지 — 혼용 시 09-25 사례처럼 값이 어긋난다).
 
 ## Entity Pages
 One page per notable entity (회사/인물/브랜드). Include:

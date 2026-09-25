@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-25 | Total pages: 55 (channels 11 · entities 15 · concepts 16 · projects 13)
+> Last updated: 2026-09-26 | Total pages: 55 (channels 11 · entities 15 · concepts 16 · projects 13)
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -58,7 +58,7 @@
 - [[export-voucher|수출바우처 (Export Voucher)]] — 중진공 수출바우처 제도 상세
 - [[product-liability-insurance|PL보험 (Product Liability Insurance)]] — 미국 수출 대비 PL보험 현황 및 쟁점
 - [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
-- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). 1차 배포 마감 2026-09-23 **2일 경과**(진행중, 09-25 기준), TSonaX/Toffer 활성 업무 5건 전건 마감 경과
+- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). 1차 배포 마감 2026-09-23 **3일 경과**(진행중, 09-26 기준), TSonaX/Toffer 활성 업무 5건 전건 마감 경과
 - [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미 수출 실증. SGS 시험 패키지(69백만원), 대면평가 발표·Q&A, 수정사업계획서
 - [[concepts/eu-packaging-regulation|EU 포장·재활용 규제 (PPWR·REACH)]] — 유럽 수출 대비 포장 규제 리서치(2026-09-23): 중금속 100mg/kg·SVHC 정보 전달·PPWR 등급제·재활용 친화 설계 기준
 - [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 88건 (매일 갱신)
@@ -78,3 +78,5 @@
 >
 > 2026-09-25 린트(**10주차 미조치**) — 7건 모두 고아 상태 유지. 각 페이지 상단에 **대체 페이지 안내 배너**를 추가해 탐색 혼선을 차단함(비파괴 조치).
 > `_archive/` 이동은 사용자 승인 1건만 있으면 즉시 실행 가능: `git mv <파일> _archive/<디렉터리>/` + 본 index 섹션 정리 + inbound 링크 평문 전환.
+>
+> 2026-09-26 일일 크론(10주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기.
