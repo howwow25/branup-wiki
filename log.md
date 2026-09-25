@@ -1594,7 +1594,7 @@
 ## [2026-09-25] lint | 주간 위키 린트 (W39, #wiki 게시)
 - 스캔 범위: **콘텐츠 페이지 55개**(channels 11 · entities 15 · concepts 16 · projects 13) + raw 소스 42개 + nav 6개 (총 .md 103개). 링크 해석은 NFC 정규화 + raw/ 포함 slug 사전으로 수행(이전 크론의 "깨진 링크 9건"은 NFD/NFC 불일치 false positive였음).
 - 깨진 위키링크 **1건 → 0건 수정 완료**
-  - `channels/코스메틱-본부`: `[[raw/articles/branup-packaging-spec-usa-canada-20260728.pdf]]` → 백틱 경로 표기(PDF는 wikilink 대상 아님), `updated` 갱신
+  - `channels/코스메틱-본부`: PDF를 가리키는 wikilink 1건 → 백틱 경로 표기(`raw/articles/branup-packaging-spec-usa-canada-20260728.pdf`)로 교체(PDF는 wikilink 대상 아님), `updated` 갱신
 - 프론트매터 오류 **5건 → 0건 수정**
   - `concepts/task-status`·`concepts/project-status`·`concepts/브랜업-대시보드-현황`: 누락 `created:` 추가 (07-16 / 07-16 / 07-28)
   - `entities/브랜업-신입직원-온보딩-매뉴얼`: `created`·`updated`·`sources` 추가, `tags`를 taxonomy 태그로 정규화 + 한글 키워드는 `keywords:`로 이동
