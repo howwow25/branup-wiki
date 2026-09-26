@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-09-24
+updated: 2026-09-27
 type: entity
 tags: [partner, export, usa, eu, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md]
 confidence: medium
 ---
 
@@ -196,10 +196,21 @@ confidence: medium
 - 2026-09-10 미팅 협업 과제 "국가별 규제 정리 후 별도 논의"의 첫 산출물.
 ^[channels/코스메틱-본부.md]
 
+### 글로벌 물류·패키징 전략 5대 안건 (2026-09-27)
+- Slack `뷰티-프로젝트`에서 줄리어스 대표가 추석 후 논의용 안건 5건 공유 (03:33). 상세: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · [[raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927|안건 원문]]
+- **① 현지어 스티커 MOQ** — 태국어·스페인어(서반어)·포르투갈어 라벨 스티커의 최소 주문 수량 및 제작 조건 우선 파악 요청.
+- **② 12월 미주 물량 듀얼 언어 패키징** — 미국행 단상자를 '영어+스페인어' 듀얼 표기로 인쇄 가능한지 검토. 미국 내 '영어+스페인어'·'영어+프랑스어' 모두 유통 가능 → 멕시코·남미(브라질은 포르투갈어) 진출 연계. 물류 혼선 차단을 위해 선적 박스(Shipping Box) 외부 라벨링 구분 철저 관리.
+- **③ 10월 물량 아시아 우회 수출** — 10월 물량(캐나다 206개·미국 1,573개)을 싱가포르·홍콩·말레이시아·필리핀(영문 패키지 허용국)으로 분산 수출 검토. 태국은 2026년 연내 진출 목표로 태국어 스티커 병행. 아시아 국가별 인허가·진출 절차 조사는 경표 님 요청(SG·HK는 약 1개월 소요 예상).
+- **④ 미국 불량·잔여 물량 한국 역수출** — 168개 중 일부를 한국 반입 판매 검토. 한국어 스티커 부착 필수, 역수출 통관·행정 절차 사전 확인 및 정식 절차 완료 전 한국 사무실 선제 판매 가부 문의.
+- **⑤ 일본 시장 역수출 확정** — 회장님의 일본 판매 의사 표명에 따라 미국 → 일본 직접 역수출 **최종 승인(Approve) 완료**. 행정 후속·스티커 조치 필요.
+- 09-14~15 안건(언어 사양·MOQ / 부족·잔여 물량 1,573·206·168개 / 한국 판매)과 09-10 로드맵의 실행 단계 전환으로, 잔여 물량의 처리 경로가 ①아시아 우회 수출 ②한국 반입 ③일본 역수출 3갈래로 구체화됨.
+^[channels/뷰티-프로젝트.md]
+
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
 - [[aizel-meeting-2026-07-14|아이젤 미팅 회의록]] — 물량 전망 및 시장 확대 논의
 - [[concepts/줄리어스-대표-미팅-20260910|줄리어스 대표 미팅 (2026-09-10)]] — 글로벌 확장 전략·가격 마진·프로그램 구조
+- [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] — 국가별 스티커·듀얼 패키징·우회 수출·역수출
 - [[product-liability-insurance|PL보험]] — 미국 시장 PL보험 요건
 
 ---
