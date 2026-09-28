@@ -1,7 +1,7 @@
 ---
 title: "KCL 해외인증실증지원사업 (2026)"
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-09-29
 type: concept
 tags: [government, support-program, certification, export, cosmetics]
 sources:
@@ -10,6 +10,10 @@ sources:
   - raw/articles/kcl-sgs-scenario-20260722.md
   - raw/articles/kcl-presentation-202607.md
   - raw/articles/kcl-qa-script-202607.md
+  - raw/articles/kcl-sgs-quote-2026-09-04.md
+  - raw/articles/kcl-plan-change-letter-20260830.md
+  - raw/articles/kangen-3-products-ingredient-statement-20260928.md
+  - raw/articles/sgs-test-contract-signed-20260922.md
 confidence: high
 ---
 
@@ -23,7 +27,7 @@ confidence: high
 
 | 항목 | 내용 |
 |------|------|
-| 실증사업명 | 스킨케어 기초화장품 북미 수출 |
+| 실증사업명 | 스킨케어 기초화장품 북미/캐나다 수출 실증 (2026-08-30 변경 공문 기준 — 종전 "북미 수출") |
 | 실증기간 | 2026.06.01 ~ 2026.12.31 (7개월) |
 | 제품 | KANGEN BEAUTÉ 3-Step Facial Skincare Set |
 | 총사업비 | 70,000,000원 |
@@ -49,6 +53,19 @@ FDA Product Listing 및 캐나다 CNF는 행정 등록 절차일 뿐, 실제 유
 
 산출물: **영문 시험성적서** (바이어 즉시 제출 가능)
 
+## 진행 현황 (2026-09-28 기준)
+
+| 단계 | 상태 | 근거 |
+|------|------|------|
+| 서류·대면평가 | ✅ 완료 | 2026-07 대면발표·Q&A |
+| 협약 체결 | ✅ 완료 | KCL 최종협약체결서류 (2026-08-10 생성, 08-11 공유) |
+| 사업계획 변경 | ✅ 완료 | 브랜업 → KCL **대표이사 명의 공문** 제출 (시행 2026-08-30) |
+| 시험 의뢰 전제자료 | ✅ 확보 | KANGEN 3종 전성분표 (제조사 EYESEL 발급, 09-28 공유) |
+| SGS 위탁계약 | ✅ 서명 완료 | `위탁계약서_20260922_signed` (09-28 공유, 8페이지 스캔본) |
+| 시료 발송·시험 착수 | ⏳ 미확인 | 견적 소요기간 18 / 50 / 80 working days |
+
+공문·계약·전성분표 3종이 2026-09-28 동시에 공유되면서 **'준비' 단계에서 '시험 수행' 단계로 전환**된 것이 확인됐다. ^[raw/articles/kcl-plan-change-letter-20260830.md] ^[raw/articles/sgs-test-contract-signed-20260922.md]
+
 ## SGS 견적 (2026-07-22 기준)
 
 | 패키지 | 내용 | 금액 (VAT 포함) |
@@ -60,6 +77,28 @@ FDA Product Listing 및 캐나다 CNF는 행정 등록 절차일 뿐, 실제 유
 | **총계** | | **69,052,500원** |
 
 ^[raw/articles/kcl-sgs-scenario-20260722.md]
+
+## SGS 최종 견적 및 계약 (2026-09)
+
+2026-09-04자 최종 견적서(발행 2026-09-21)를 기준으로 **3개 제품** 시험 패키지가 확정됐고, 2026-09-22자로 위탁계약 서명이 완료됐다.
+
+| 분석 항목 | 수량 | 금액 (원) |
+|-----------|:----:|----------:|
+| 중금속 5종 (Pb·Hg·As·Cd·Sb, ICP) | 3 | 1,626,000 |
+| Mercury (단독) | 3 | 3,018,000 |
+| USP Ch.61&62 Full List (미생물) | 3 | 4,380,000 |
+| Modified USP Ch.51 (B. cepacia) | 3 | 4,860,000 |
+| 가속 안정성·호환성 3개월 (40℃/75% RH) | 3 | 9,060,000 |
+| Microbial exam per timepoint (FDA BAM) | 9 | 792,000 |
+| **RIPT** (100명 인체적용) | 3 | 18,120,000 |
+| **TRA** (US & Canada) | 3 | 9,060,000 |
+| DHL #1 (Fairfield, NJ) / #2 (Union, NJ) | — | 340,000 |
+| **소계 (VAT 별도)** | | **51,256,000** |
+| **총계 (VAT 포함)** | | **56,381,600** |
+
+- 07-22 시나리오(69,052,500원 · 4개 패키지)와의 차이: **소비자 체험 설문조사 항목 제외**, 3개 제품 기준으로 재산정
+- 소요기간 약 **18 / 50 / 80 working days**, 견적 유효기간 발행일로부터 1개월, 환율 1,381.44원/USD(09-21) 적용
+- 의뢰 전제: 전성분·함량·목적·사용법 제공 → [[raw/articles/kangen-3-products-ingredient-statement-20260928|KANGEN 3종 전성분표]]로 충족 ^[raw/articles/kcl-sgs-quote-2026-09-04.md]
 
 ## KPI 성과지표
 
@@ -77,11 +116,22 @@ FDA Product Listing 및 캐나다 CNF는 행정 등록 절차일 뿐, 실제 유
 
 ```
 6월: 계획 확정
-7월: 시료 준비 + 시험기관 협의 (← 현재)
-8~10월: 시험 수행
-11월: 성적서 정리
+7월: 시료 준비 + 시험기관 협의
+8월: 최종협약 체결(8/10) + 사업계획 변경 공문 제출(8/30)
+9월: SGS 최종 견적(9/4)·위탁계약 서명(9/22) + 전성분표 제출  ← 현재
+10~11월: 시험 수행 (약 18~80 working days) → 성적서 정리
 12월: 바이어 제출 + 최종보고
 ```
+
+## 시험 대상 제품 (제조사 전성분표 기준)
+
+| 제품 (STEP) | 성분 수 | 제조사 | 원문 성분표 |
+|-------------|:------:|--------|------------|
+| KANGEN Vital Rich Cream (II) | 104 | EYESEL Co., Ltd. | 2026-07-07 |
+| KANGEN Crystal Ampoule Cream (III) | 63 | EYESEL Co., Ltd. | 2026-07-07 |
+| KANGEN First Light Essence (I) | 93 | EYESEL Co., Ltd. | 2025-11-18 |
+
+3종 모두 Milk/Salmon Exosome + 식물 베지클 + Callus extract 4종 + 펩타이드 13종+ 를 공유하는 동일 원료 플랫폼. 상세: [[raw/articles/kangen-3-products-ingredient-statement-20260928|KANGEN 3종 전성분표]]
 
 ## 외부 자문
 
@@ -105,8 +155,11 @@ FDA Product Listing 및 캐나다 CNF는 행정 등록 절차일 뿐, 실제 유
 ## 관련 페이지
 
 - [[enagic-usa|Enagic USA]] — KANGEN BEAUTÉ 유통 파트너
+- [[entities/eyesel|EYESEL (에이셀)]] — KANGEN BEAUTÉ 3종 제조사 (전성분표 발급)
 - [[export-voucher|수출바우처]] — 유사 정부지원사업
 - [[government-support-programs|정부지원사업 모니터링]] — 전체 지원사업 체계
 - [[branup-org-chart|브랜업 조직도]] — 실증 수행 인력
+- [[channels/kcl-해외인증실증지원사업-202607|kcl-해외인증실증지원사업-202607]] — 채널 활동 원장
+- [[projects/kcl_sgs_안정성검사_사업_실행_12_31|KCL SGS 안정성검사 사업 실행]] — 대시보드 연계 프로젝트
 
 *Source channels: [[channels/kcl-해외인증실증지원사업-202607]]*

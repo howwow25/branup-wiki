@@ -12,6 +12,7 @@
 - **[브랜업 조직도 (Branup Org Chart)](entities/branup-org-chart.md)**
 - **[Dr.SANTE (닥터상떼)](entities/drsante.md)**
 - **[Enagic USA — 미국 에나지크](entities/enagic-usa.md)**
+- **[EYESEL (에이셀) — KANGEN BEAUTÉ 제조사](entities/eyesel.md)**
 - **[조인앤조이 (JNJ)](entities/join-n-joy.md)**
 - **[LABIO (라비오)](entities/labio.md)**
 - **[Peachy — 미국 보톡스 전문 체인점](entities/peachy.md)**
@@ -94,4 +95,4 @@
 
 ---
 
-*자동 생성: 2026-09-28 | 총 100페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-09-29 | 총 105페이지 (README.md·SCHEMA.md·log.md 제외)*

@@ -2,12 +2,12 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-09-22
+updated: 2026-09-29
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
-related_entities: [entities/enagic-usa, entities/한국콜마]
-related_concepts: []
+related_entities: [entities/enagic-usa, entities/eyesel, entities/한국콜마]
+related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략]
 ---
 
 # design-backup — 디자인팀 디자인 파일 저장소
@@ -28,6 +28,12 @@ related_concepts: []
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-09-28
+- **KANGEN BEAUTÉ 샘플 용기 인쇄영역 데이터 (STEP 2) 등록** — 노수민(SueminNoh). 메시지 "스탭2"와 함께 **`인쇄영역 데이터-타이름리런스 크림 15ml (STEP 2).pdf`** 업로드 (10:31 KST, 1페이지 10.7KB, 이미지 PDF — 텍스트 레이어 없음). STEP II(타임리스 래디언스 크림) 15ml 샘플 용기의 인쇄 가능 영역 데이터. 원본: `raw/articles/slack_design-backup_F0C4UQGS5V0.pdf`
+- **목업용 스티커 일러스트 원본(.ai) 등록** — 노수민(SueminNoh). `목업용스티커.ai` (09:34 KST, 1.75MB). 목업 시안 제작용 스티커 일러스트레이터 원본.
+- **샘플 용기 정면 면적 확정 공유** — 노수민(SueminNoh). 크림 정면 면적 **20×50**, 에센스 용기 정면 면적 **25×63** (11:34 KST). 스티커·라벨 인쇄 면적 산정과 목업 제작의 기준 치수.
+- **맥락:** 현지어 라벨 스티커 MOQ 검토(09-27 줄리어스 안건)와 콜마 15ml 샘플 진행(09-08)의 연장 작업. 관련: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · [[한국콜마]] · [[channels/뷰티-프로젝트|뷰티-프로젝트]]
 
 ### 2026-09-21
 - **Photoshop 원본(PSD) 등록** — 노수민(SueminNoh). `exec-e7d57e4a-4fb8-4681-8b3d-e56467bf86eb (1).psd` (**366MB**, 21:39 KST) 업로드. 텍스트·설명 없음, 자동 생성 파일명(시스템 export 추정)으로 대상 제품 특정 불가 — 문서(PDF/DOCX/PPTX/XLSX)가 아니므로 위키 raw 수집 대상에서는 제외하고 등록 사실만 기록. 관련: [[channels/코스메틱-본부|코스메틱-본부]] · [[channels/뷰티-프로젝트|뷰티-프로젝트]]

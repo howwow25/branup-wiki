@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-28 | Total pages: 56 (channels 11 · entities 15 · concepts 17 · projects 13)
+> Last updated: 2026-09-29 | Total pages: 57 (channels 11 · entities 16 · concepts 17 · projects 13)
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -15,7 +15,7 @@
 - [[channels/브랜업-온보딩|브랜업-온보딩]] — 신입직원 온보딩·업무 매뉴얼 관리 채널
 - [[channels/branup-전체|브랜업-전체]] — 전사 채용 공고·인사 안내 (7/27 채널명 변경)
 - [[channels/브랜업고문단-1억불만들기|브랜업고문단-1억불만들기]] — 1억불 수출 목표 고문단 자문 채널. 이영진 고문 전략자료
-- [[channels/kcl-해외인증실증지원사업-202607|kcl-해외인증실증지원사업-202607]] — KCL 해외인증실증지원사업: 대면평가·컨설팅·SGS 시험 시나리오
+- [[channels/kcl-해외인증실증지원사업-202607|kcl-해외인증실증지원사업-202607]] — KCL 해외인증실증지원사업: SGS 계약·시험 의뢰 (9/28 전성분표·최종 견적·계약서 공유)
 - 전체 채널 맵: [[channels/index|채널 맵 바로가기]]
 
 ## Entities (회사·인물·브랜드)
@@ -25,6 +25,7 @@
 - [[branup-org-chart|브랜업 조직도]] — 주요 인물·부서·협력사 구성
 - [[drsante|Dr.SANTE (닥터상떼)]] — 에스테틱 화장품 전문 기업 (23년). 8,000여 거래처 B2B 납품 + D2C 반복매출 구조. 경쟁사 벤치마크 대상
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너 (에나지크). KANGEN BEAUTÉ Timeless Radiance Collection 캐나다 라벨 확정, 패키지 디자인 최종 완료
+- [[entities/eyesel|EYESEL (에이셀)]] — KANGEN BEAUTÉ 3종 제조사(OEM). 2026-09-28 전성분표 발급 (Vital Rich Cream 104·Crystal Ampoule Cream 63·First Light Essence 93성분)
 - [[join-n-joy|조인앤조이 (JNJ)]] — 포장 부자재 협력사(용기·캡·리드·박지). KANGEN BEAUTÉ 용기 납품, 발주서 표준 양식 공급자
 - [[labio|LABIO (라비오)]] — 화장품 원료 공급사. COOLIN stay 쿨링·항열노화 원료 + 브랜업 제안 제형 5종
 - [[한국콜마|한국콜마 (Kolmar Korea)]] — 국내 대표 화장품 ODM·OEM 제조사. 브랜업 신규 제품 샘플 개발 의뢰처 (콜마 샘플 사양 변경: 15ml·판매제품 확정)
@@ -58,11 +59,11 @@
 - [[export-voucher|수출바우처 (Export Voucher)]] — 중진공 수출바우처 제도 상세
 - [[product-liability-insurance|PL보험 (Product Liability Insurance)]] — 미국 수출 대비 PL보험 현황 및 쟁점
 - [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
-- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). 1차 배포 마감 **2026-09-28(오늘 D-0)** — 09-23에서 09-27 재조정. TSonaX/Toffer 활성 5건 중 2건 유효 마감(D-0·D-2), 3건 마감 경과(+24~+38일)
-- [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미 수출 실증. SGS 시험 패키지(69백만원), 대면평가 발표·Q&A, 수정사업계획서
+- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). ⚠️ `[TSonaX] 1차 배포` 마감 **2026-09-28 경과(+1일, 완료 미처리)** · `[Toffer] 익절/손절` D-1 · 나머지 3건 +25~+39일 경과
+- [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미/캐나다 수출 실증. **SGS 위탁계약 서명(9/22)·최종 견적 56,381,600원(VAT 포함)** → 시험 수행 단계. 사업계획 변경 공문(8/30)·3종 전성분표 확보
 - [[concepts/eu-packaging-regulation|EU 포장·재활용 규제 (PPWR·REACH)]] — 유럽 수출 대비 포장 규제 리서치(2026-09-23): 중금속 100mg/kg·SVHC 정보 전달·PPWR 등급제·재활용 친화 설계 기준
-- [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] — 2026-09-27 줄리어스 대표 5대 안건: 현지어 스티커 MOQ·영+서 듀얼 패키징·10월 물량 아시아 우회 수출·미국 168개 한국 역수출·일본 역수출 승인
-- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 88건 (매일 갱신)
+- [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] — 2026-09-27 줄리어스 대표 5대 안건 + **09-28 사내 실행 리서치 착수**(멕시코·남미 09-28 / 아시아 5개국·한국 역수출·일본 수입 09-29 기한)
+- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 92건 (매일 갱신)
 
 ## Comparisons (비교 분석)
 
@@ -83,3 +84,5 @@
 > 2026-09-27 일일 크론(11주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기.
 >
 > 2026-09-28 일일 크론(12주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기.
+>
+> 2026-09-29 일일 크론(13주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기. (본 회차 신규 페이지 `entities/eyesel`은 index 등재 완료 — 미등재 아님)
