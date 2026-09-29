@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-09-27
+updated: 2026-09-30
 type: entity
 tags: [partner, export, usa, eu, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png]
 confidence: medium
 ---
 
@@ -204,6 +204,13 @@ confidence: medium
 - **④ 미국 불량·잔여 물량 한국 역수출** — 168개 중 일부를 한국 반입 판매 검토. 한국어 스티커 부착 필수, 역수출 통관·행정 절차 사전 확인 및 정식 절차 완료 전 한국 사무실 선제 판매 가부 문의.
 - **⑤ 일본 시장 역수출 확정** — 회장님의 일본 판매 의사 표명에 따라 미국 → 일본 직접 역수출 **최종 승인(Approve) 완료**. 행정 후속·스티커 조치 필요.
 - 09-14~15 안건(언어 사양·MOQ / 부족·잔여 물량 1,573·206·168개 / 한국 판매)과 09-10 로드맵의 실행 단계 전환으로, 잔여 물량의 처리 경로가 ①아시아 우회 수출 ②한국 반입 ③일본 역수출 3갈래로 구체화됨.
+^[channels/뷰티-프로젝트.md]
+
+### 패키지 디자인 최종 승인 및 리콜 추적성 요건 (2026-09-29~30)
+- **2026-09-29 07:22 — 패키지 디자인 최종 승인 (줄리어스 대표):** "Enagic Cosme 및 당사 법무팀의 최종 승인이 완료되었습니다. 본 디자인에 따라 다음 단계로 진행해 주시기 바랍니다" → **12월 크리스마스 이전 납품** 일정이 최우선, 일정상 가능한 최선의 방안 검토·신속 공유 요청. **싸바리 박스 색상과 전체 패키지 디자인**을 제품·브랜드 이미지와 조화시키고 **샘플도 동일 색상**으로 요청. 첨부 이미지 = 캡 컬러 2안 비교(**좌: 암보라 + 기존 캡 컬러 / 우: 암보라 + 진한 토퍼 캡컬러**)
+  - ![[raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png]]
+- **2026-09-30 03:23 — 리콜 대응·제품 추적성 요건:** ① 각 **order batch는 고유 시리얼 번호**로 식별·추적, 시리얼은 통상 **각 스킨케어 세트 하단에 표시** ② 각 제품의 시리얼 번호를 **출하 서류에 정확히 기록** ③ 미국 법규·규제 요건상 **Enagic Cosme의 제품 리콜 절차(Recall Procedure) 수립·유지 필요** ④ EYESEL 또는 브랜업이 사용 중인 **리콜 절차·SOP 사본 공유** 요청
+- 상세 전략 맥락: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · 제조사 [[entities/eyesel|EYESEL]] · 채널 [[channels/뷰티-프로젝트|뷰티-프로젝트]]
 ^[channels/뷰티-프로젝트.md]
 
 ## 관련 문서

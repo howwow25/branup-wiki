@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-09-29 | Total pages: 57 (channels 11 · entities 16 · concepts 17 · projects 13)
+> Last updated: 2026-09-30 | Total pages: 57 (channels 11 · entities 16 · concepts 17 · projects 13)
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -59,7 +59,7 @@
 - [[export-voucher|수출바우처 (Export Voucher)]] — 중진공 수출바우처 제도 상세
 - [[product-liability-insurance|PL보험 (Product Liability Insurance)]] — 미국 수출 대비 PL보험 현황 및 쟁점
 - [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
-- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). ⚠️ `[TSonaX] 1차 배포` 마감 **2026-09-28 경과(+1일, 완료 미처리)** · `[Toffer] 익절/손절` D-1 · 나머지 3건 +25~+39일 경과
+- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). ✅ `[TSonaX] 1차 배포`(마감 09-28) **09-29 대시보드 목록에서 제거 — 완료 추정, 확인 필요** · `[Toffer] 익절/손절` **D-0(09-30)** · 나머지 3건 +26~+40일 경과
 - [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미/캐나다 수출 실증. **SGS 위탁계약 서명(9/22)·최종 견적 56,381,600원(VAT 포함)** → 시험 수행 단계. 사업계획 변경 공문(8/30)·3종 전성분표 확보
 - [[concepts/eu-packaging-regulation|EU 포장·재활용 규제 (PPWR·REACH)]] — 유럽 수출 대비 포장 규제 리서치(2026-09-23): 중금속 100mg/kg·SVHC 정보 전달·PPWR 등급제·재활용 친화 설계 기준
 - [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] — 2026-09-27 줄리어스 대표 5대 안건 + **09-28 사내 실행 리서치 착수**(멕시코·남미 09-28 / 아시아 5개국·한국 역수출·일본 수입 09-29 기한)
@@ -86,3 +86,5 @@
 > 2026-09-28 일일 크론(12주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기.
 >
 > 2026-09-29 일일 크론(13주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기. (본 회차 신규 페이지 `entities/eyesel`은 index 등재 완료 — 미등재 아님)
+>
+> 2026-09-30 일일 크론(14주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기. (본 회차 신규 페이지 없음 — 기존 페이지 갱신만 수행)
