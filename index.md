@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-10-02 | Total pages: 57 (channels 11 · entities 16 · concepts 17 · projects 13)
+> Last updated: 2026-10-03 | Total pages: 57 (channels 11 · entities 16 · concepts 17 · projects 13)
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -59,11 +59,11 @@
 - [[export-voucher|수출바우처 (Export Voucher)]] — 중진공 수출바우처 제도 상세
 - [[product-liability-insurance|PL보험 (Product Liability Insurance)]] — 미국 수출 대비 PL보험 현황 및 쟁점
 - [[branup-finance|브랜업 재무현황]] — 재무 상태 및 리스크 요인
-- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). ✅ `[TSonaX] 1차 배포`(마감 09-28) **09-29 목록 제거 후 09-30·10-01 2회 연속 부재 — 완료 추정, 확인 필요** · `[Toffer] 익절/손절` **+1일 경과(마감 09-30)** · 나머지 3건 +27~+41일 경과 · 전사 마감 경과 71→**77건**, D-0 2건
+- [[tsonax|TSonaX]] — 실시간 차트 분석 시스템 (Ashton 개발). `[TSonaX] 1차 배포`(마감 09-28) **09-29 목록 제거 후 09-30·10-01·10-03 3회 연속 부재 — 완료 추정, 확인 필요** · `[Toffer] 익절/손절` **마감 10-02로 연기 후 +1일 경과** · 나머지 3건 +29~+43일 경과 · 전사 마감 경과 77→**80건**, D-0 0건
 - [[kcl-overseas-certification-2026|KCL 해외인증실증지원사업 (2026)]] — KANGEN BEAUTÉ 3-Step 북미/캐나다 수출 실증. **SGS 위탁계약 서명(9/22)·최종 견적 56,381,600원(VAT 포함)** → 시험 수행 단계. 사업계획 변경 공문(8/30)·3종 전성분표 확보
 - [[concepts/eu-packaging-regulation|EU 포장·재활용 규제 (PPWR·REACH)]] — 유럽 수출 대비 포장 규제 리서치(2026-09-23): 중금속 100mg/kg·SVHC 정보 전달·PPWR 등급제·재활용 친화 설계 기준
-- [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] — 2026-09-27 줄리어스 대표 5대 안건 + **09-28 사내 실행 리서치 착수**(멕시코·남미 09-28 / 아시아 5개국·한국 역수출·일본 수입 09-29 기한)
-- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 92건 (매일 갱신)
+- [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] — 2026-09-27 줄리어스 대표 5대 안건 + 09-28 사내 실행 리서치 + **10-01 오버레이 방식 확정**(국가별 언어버전 5,000 MOQ 별도 제작 불가 → 스티커/오버레이, 25개국 요건표)
+- [[concepts/브랜업-대시보드-현황|브랜업 대시보드 현황]] — 대시보드 API(toffer.co.kr:8800) 자동 수집 현황: 프로젝트 13개·업무 99건 (매일 갱신)
 
 ## Comparisons (비교 분석)
 
@@ -92,3 +92,5 @@
 > 2026-10-01 일일 크론(15주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기. (본 회차 신규 페이지 없음 — 기존 페이지 갱신만 수행. Slack 신규 메시지 0건으로 채널 페이지 신규 섹션 없음, DB 신규 업무 5건은 미지정 업무로 페이지 신설 기준 미달)
 >
 > 2026-10-02 주간 린트(16주차) — **변동 없음**. index 미등재 7건 그대로이나, inbound 링크 기준 고아는 **6건**(`concepts/project-status`는 타 페이지에서 유입 링크가 있어 고아 아님). broken wikilink **0건**·ghost page 0건·frontmatter 결손 0건. 태그 위반 5종 중 4종(channel·department·company·announcement)은 SCHEMA taxonomy에 등재 처리, `task` 1종은 본 목록의 `concepts/task-status` 전용이라 미등재 유지. **특이사항:** 2026-10-02 05:00 일일 크론(provider 무응답) 실패로 당일 DB/Slack 동기화 미실행 — 페이지 내용 변동 없음.
+>
+> 2026-10-03 일일 크론(17주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기. (본 회차 신규 페이지 없음 — `raw/articles/enagic-market-expansion-plan-20261001.md` 원본요약 1건 추가, 콘텐츠 페이지 수 57 유지. 10-02 크론 실패분까지 포함해 10-01~10-03 약 48시간 구간을 일괄 반영)

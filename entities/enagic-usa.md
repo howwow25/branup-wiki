@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-09-30
+updated: 2026-10-03
 type: entity
 tags: [partner, export, usa, eu, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png, raw/articles/enagic-market-expansion-plan-20261001.md]
 confidence: medium
 ---
 
@@ -204,6 +204,15 @@ confidence: medium
 - **④ 미국 불량·잔여 물량 한국 역수출** — 168개 중 일부를 한국 반입 판매 검토. 한국어 스티커 부착 필수, 역수출 통관·행정 절차 사전 확인 및 정식 절차 완료 전 한국 사무실 선제 판매 가부 문의.
 - **⑤ 일본 시장 역수출 확정** — 회장님의 일본 판매 의사 표명에 따라 미국 → 일본 직접 역수출 **최종 승인(Approve) 완료**. 행정 후속·스티커 조치 필요.
 - 09-14~15 안건(언어 사양·MOQ / 부족·잔여 물량 1,573·206·168개 / 한국 판매)과 09-10 로드맵의 실행 단계 전환으로, 잔여 물량의 처리 경로가 ①아시아 우회 수출 ②한국 반입 ③일본 역수출 3갈래로 구체화됨.
+^[channels/뷰티-프로젝트.md]
+
+### 시장 확대 계획 및 오버레이 요건 (2026-10-01)
+- Slack `뷰티-프로젝트`에서 줄리어스 대표가 **`Market Expansion Plan 2026.10.01.xlsx`** 공유 (16:47) — 시장 확대 일정·예상 주문 시기 공개. 상세: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · 원본요약 [[raw/articles/enagic-market-expansion-plan-20261001|Market Expansion Plan 2026.10.01]]
+- **핵심 결정:** "각 국가별 언어 버전을 **5,000개 MOQ로 별도 제작하는 것은 현실적으로 어려워, 부득이하게 스티커 또는 오버레이 방식을 적용**해야 할 것으로 보입니다" — 09-27 안건 ①(현지어 스티커 MOQ)에 대한 에나지크 측 공식 결론. 법무팀 협의안은 파일 마지막 시트(`Overlay Requirement`)에 정리, **국가별 문제 여부 재확인 요청**.
+- **물량 계획:** Total Annual Demand **111,900세트**, Planned Order **20,000세트 × 8회**(SEP 26~NOV 27). 국가별 수요 추정 합계 **256,846세트**(미국 110,534 / 캐나다 48,678 / 독일 36,850 / 호주 11,254).
+- **오버레이 제약:** 사전 인쇄 가능(MX·HK·SG·MY·KR·GB·AU·NZ) vs **사전 인쇄 불가 9개국**(TH·PH·TW·KH·ID·TR·AE·IN·BR — 규제 번호 발급 후에만 인쇄). EU 6개국은 RP 1인 주소로 공통 커버.
+- **영향:** 본게임 20,000세트(12월 입고)는 US/CA 라벨 그대로 양산, 시장별 오버레이는 사후 부착으로 분리 → 발주·선적 계획에서 **국가별 라벨 버전 SKU 관리 부담이 사라지는 대신 오버레이 스티커 부착 공정·일정 관리**가 새로운 변수.
+- 연계 대시보드 업무: `[에나지크] 오더별 공유용 타임라인 및 폴더`(#458, 강경철, 마감 10-02 — 경과).
 ^[channels/뷰티-프로젝트.md]
 
 ### 패키지 디자인 최종 승인 및 리콜 추적성 요건 (2026-09-29~30)
