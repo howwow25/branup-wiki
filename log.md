@@ -1920,6 +1920,6 @@
   - `index.md` — Last updated 10-02, 미등재 섹션 16주차 린트 노트
   - `log.md` — 본 항목
   - `README.md` — 재생성 (페이지 수 57 유지)
-- log.md 항목 수: **120** (로테이션 임계 500 미만 — 유지)
+- log.md 항목 수: **120 → 121** (본 항목 추가 전/후 · 로테이션 임계 500 미만 — 유지)
 - 미조치(사용자 판단 필요, 16주차): 고아·미등재 **7건** `_archive/` 이동 승인 대기 (`git mv` + index 정리 + inbound 링크 평문 전환, 승인 1건이면 즉시 실행)
 - **특이사항(신규):** 2026-10-02 05:00 `daily-slack-wiki-summary`(790aed499b47) 크론 **실패** — `last_status=error`, 사유 `Provider has been unresponsive (no response received) for 5 consecutive stale attempts`. 부수적으로 전달 실패 `platform 'telegram' not configured/enabled`. → **당일 DB/Slack 동기화 미실행**(최신 커밋 10-01 05:09 기준 `477175c`). 재실행 또는 모델/세션 교체 확인 필요.
