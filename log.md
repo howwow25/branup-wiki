@@ -1903,3 +1903,23 @@
 - 미조치(신규): `김봉재님 퇴사 처리`(#456) — 담당 프로젝트 `칸겐뷰티 SNS 운영`·`마케팅팀 노션 시범운영 & 협업플로우 셋팅` 담당 재배정 필요
 - 미조치(기존): `projects/kcl_sgs_안정성검사_사업_실행_12_31` 대시보드 상태값(`계획`)이 실제 진행 단계와 불일치 — 상태 갱신 필요
 - 비고: 09-29·09-30 각 5건·4건 연속 신규 등록(2일 +9건)으로 대시보드 활성도 상승. 마감 10-02 업무 8건 집중 → **10-02 회차 우선 확인 대상**
+
+## [2026-10-02] lint | 주간 위키 린트 (weekly-wiki-lint)
+- 검사 범위: 콘텐츠 페이지 **57** (channels 11 · entities 16 · concepts 17 · projects 13) + 네비게이션 2 (`channels/index`, `projects/index`) + raw 소스 47
+- 무결성:
+  - broken wikilink **0건** (비-md 자산 `raw/assets/*.png` 링크까지 해석 — 0건 확인 후 자산 슬러그를 해석 사전에 포함)
+  - ghost page(index 링크가 파일로 해석되지 않음) **0건**
+  - frontmatter 결손 **0건** / 알 수 없는 `type` **0건**
+  - inbound 링크 기준 **고아 6건** — `concepts/task-status`, `entities/project-ai_ax_직원_교육`, `entities/project-브랜업_대시보드_개발`, `entities/project-소라살롱_공구_프로젝트`, `entities/project-시니어_마케터_채용_프로젝트`, `entities/project-에나지크_발주_시뮬레이터`
+  - index 미등재 **7건** — 위 6건 + `concepts/project-status`(타 페이지 유입 링크 有, index 미등재) → **09-18 린트 권장 목록과 동일, 변동 없음**
+- 태그 감사: taxonomy 70종 / 사용 61종. 위반 **5종** — `channel`·`department`·`company`·`announcement`는 SCHEMA.md taxonomy에 **Structure 라인 신설 등재**, `task`는 `concepts/task-status`(아카이브 대기) 전용이라 미등재 유지
+- stale(updated 90일 초과) **0건** / 과대 페이지(200줄 초과) **3건** — `entities/브랜업-신입직원-온보딩-매뉴얼` 802줄 · `channels/코스메틱-본부` 257줄 · `entities/enagic-usa` 225줄
+- raw sha256 불일치 **19건** — `git log` 확인 결과 **전건 해당 ingest 커밋 1건뿐** → 소스 변경이 아니라 **해시 산출 규칙(본문 슬라이스/개행 처리) 불일치**. 드리프트 판정 불가 placeholder **18건**
+- 파일 갱신:
+  - `SCHEMA.md` — Tag Taxonomy에 Structure 4종 등재 + 2026-10-02 린트 노트
+  - `index.md` — Last updated 10-02, 미등재 섹션 16주차 린트 노트
+  - `log.md` — 본 항목
+  - `README.md` — 재생성 (페이지 수 57 유지)
+- log.md 항목 수: **120** (로테이션 임계 500 미만 — 유지)
+- 미조치(사용자 판단 필요, 16주차): 고아·미등재 **7건** `_archive/` 이동 승인 대기 (`git mv` + index 정리 + inbound 링크 평문 전환, 승인 1건이면 즉시 실행)
+- **특이사항(신규):** 2026-10-02 05:00 `daily-slack-wiki-summary`(790aed499b47) 크론 **실패** — `last_status=error`, 사유 `Provider has been unresponsive (no response received) for 5 consecutive stale attempts`. 부수적으로 전달 실패 `platform 'telegram' not configured/enabled`. → **당일 DB/Slack 동기화 미실행**(최신 커밋 10-01 05:09 기준 `477175c`). 재실행 또는 모델/세션 교체 확인 필요.

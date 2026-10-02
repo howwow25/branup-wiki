@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-10-01 | Total pages: 57 (channels 11 · entities 16 · concepts 17 · projects 13)
+> Last updated: 2026-10-02 | Total pages: 57 (channels 11 · entities 16 · concepts 17 · projects 13)
 
 ## Channels (Slack 채널별 지식 허브)
 
@@ -90,3 +90,5 @@
 > 2026-09-30 일일 크론(14주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기. (본 회차 신규 페이지 없음 — 기존 페이지 갱신만 수행)
 >
 > 2026-10-01 일일 크론(15주차, 일일 카운터 기준) — **변동 없음**. 7건 고아·미등재 상태 유지, `_archive/` 이동 사용자 승인 대기. (본 회차 신규 페이지 없음 — 기존 페이지 갱신만 수행. Slack 신규 메시지 0건으로 채널 페이지 신규 섹션 없음, DB 신규 업무 5건은 미지정 업무로 페이지 신설 기준 미달)
+>
+> 2026-10-02 주간 린트(16주차) — **변동 없음**. index 미등재 7건 그대로이나, inbound 링크 기준 고아는 **6건**(`concepts/project-status`는 타 페이지에서 유입 링크가 있어 고아 아님). broken wikilink **0건**·ghost page 0건·frontmatter 결손 0건. 태그 위반 5종 중 4종(channel·department·company·announcement)은 SCHEMA taxonomy에 등재 처리, `task` 1종은 본 목록의 `concepts/task-status` 전용이라 미등재 유지. **특이사항:** 2026-10-02 05:00 일일 크론(provider 무응답) 실패로 당일 DB/Slack 동기화 미실행 — 페이지 내용 변동 없음.

@@ -73,9 +73,11 @@ wiki/
 - **Tech:** developer, infra, project, system, code, automation, tech, dashboard
 - **Market:** usa, canada, mexico, china, eu, export-market
 - **Meta:** comparison, timeline, decision, guideline, strategy
+- **Structure:** channel, department, company, announcement — 채널 페이지 구조 태그(채널 유형·조직 유형) 및 기업 엔터티 태그. 2026-10-02 린트에서 등재.
 - **Status (자동 태그):** 계획, 진행, 보류, 완료, 취소 — `projects/*.md`가 대시보드 상태값에서 자동 생성하는 태그. 수동 작성 페이지에는 `tags:` 대신 `status:` 프론트매터 사용 권장.
 
 > 2026-09-25 린트: 실제 사용 중이던 태그 33종 중 taxonomy 미등재분을 위 라인에 등재(legal·rnd·government·dashboard 등). 신규 태그는 반드시 본 taxonomy에 먼저 추가할 것.
+> 2026-10-02 린트: Structure 4종(channel·department·company·announcement) 등재. `task`는 아카이브 대기 페이지(`concepts/task-status`) 전용이라 미등재 유지 — 해당 페이지 `_archive/` 이동 시 자동 해소.
 
 ## Page Thresholds
 - **Create page** when an entity/concept appears in 2+ sources OR is central to one source
