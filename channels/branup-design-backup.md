@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-09-29
+updated: 2026-10-08
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
@@ -28,6 +28,9 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략]
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-10-07 (21:34 KST)
+- **IR 자료 일러스트레이터 원본(`ir.ai`) 등록** — U0BFDSSR9PZ(디자인팀). 메시지 텍스트 없이 **`ir.ai`** 업로드 (20,726,326 bytes / 약 20.7MB, `application/illustrator`). 대시보드에 등록된 업무 `IR자료 디벨롭`(강경철, 마감 10-02 — 경과·미착수)과 연결되는 IR(투자자 관계) 자료 디자인 작업물로 추정. `.ai` 파일은 텍스트 추출 불가 → **파일명·등록 사실만 기록**(다운로드 원본 미보관, 대용량). 관련: [[channels/코스메틱-본부|코스메틱-본부]] · [[channels/뷰티-프로젝트|뷰티-프로젝트]] · [[concepts/tsonax|TSonaX]] (경과 업무 목록)
 
 ### 2026-09-28
 - **KANGEN BEAUTÉ 샘플 용기 인쇄영역 데이터 (STEP 2) 등록** — 노수민(SueminNoh). 메시지 "스탭2"와 함께 **`인쇄영역 데이터-타이름리런스 크림 15ml (STEP 2).pdf`** 업로드 (10:31 KST, 1페이지 10.7KB, 이미지 PDF — 텍스트 레이어 없음). STEP II(타임리스 래디언스 크림) 15ml 샘플 용기의 인쇄 가능 영역 데이터. 원본: `raw/articles/slack_design-backup_F0C4UQGS5V0.pdf`
