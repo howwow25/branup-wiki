@@ -2322,3 +2322,13 @@
 - 미조치(신규): 대시보드 `test_escalate_probe_20261006`(#a8f06ae2) — 보안 테스트 레코드가 집계(100건)에 잔존 → **삭제 필요**(실질 업무 99건)
 - 미조치(계속): `projects/kcl_sgs_안정성검사_사업_실행_12_31` 대시보드 상태값(`계획`)이 실제 진행 단계(시험 수행)와 불일치
 - 비고: 10-02 마감 6건 정리 — 재조정 4건(`IR자료 디벨롭`→10-08 · `Plaud 미팅 노션 연동`→10-13 · `협력업체 가격 시나리오 기록 정리`·`[에나지크] 오더별 공유용 타임라인`→10-14) · 완료 1건(`글로벌 화장품 인증·규제 가이드 정리`, 10-05) · 잔여 경과 1건(`브이엘-아이젤-브랜업 계약서 여부`, +7일). 10-06 마감 `교수님이 준 엑셀 자료 검토`는 10-08 완료. 에나지크 국가별 오버레이 회신 병목 변동 없음.
+
+## [2026-10-09] lint | 2026-10-09 위키 린트 — broken 1 · orphan 6 · 미등재 7 · tag 위반 1(task 예외)
+- 대상: ~/wiki · 콘텐츠 페이지 58 · 전체 .md 115 · raw .md 50 · taxonomy 태그 74종
+- Broken wikilink 1건: raw/articles/weekly-strategy-2026-07-3w.md 본문의 "통합주간전략 자동화" 제목-링크(슬러그 concepts/integrated-weekly-strategy 아님) — raw 불변이므로 조치 보류
+- 고아 6건 / index 미등재 7건 — 변동 없음(23주차, 일일 카운터 기준), _archive/ 이동 사용자 승인 대기. concepts/project-status는 inbound 링크 있어 고아 아님
+- Ghost page 0 · frontmatter 결손 0 · stale(90일+) 0 · 태그 위반 1종(`task` — concepts/task-status 전용, 아카이브 이동 시 자동 해소)
+- Oversized(200줄+) 3건: entities/브랜업-신입직원-온보딩-매뉴얼(802줄) · channels/코스메틱-본부(267줄) · entities/enagic-usa(234줄)
+- log.md 135 entries (<500, 로테이션 불필요)
+- raw sha256 불일치 19건 — 전량 "해시 산출 규칙 불일치"(소스 변경 아님): 4건 소스 바이너리(PDF/XLSX) 해시 규칙 · 15건 레거시 ingest 규칙(전건 단일 ingest 커밋 확인). 비-hex placeholder 18건(drift 감지 불가)
+- Slack #wiki(C0BGCQS22BF) 리포트 게시 + GitHub push
