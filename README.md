@@ -56,6 +56,7 @@
 - **[Slack 도입 및 내재화](concepts/slack-adoption.md)**
 - **[브랜업 대시보드 업무 현황](concepts/task-status.md)**
 - **[TSonaX — 실시간 차트 분석 시스템](concepts/tsonax.md)**
+- **[브랜업 IR 자료 (2026.10)](concepts/브랜업-ir-202610.md)**
 - **[브랜업 대시보드 현황](concepts/브랜업-대시보드-현황.md)**
 - **[에나지크 글로벌 물류·패키징 전략](concepts/에나지크-글로벌-물류-패키징-전략.md)**
 - **[줄리어스 대표 미팅 (2026-09-10)](concepts/줄리어스-대표-미팅-20260910.md)**
@@ -96,4 +97,4 @@
 
 ---
 
-*자동 생성: 2026-10-12 | 총 109페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-10-13 | 총 111페이지 (README.md·SCHEMA.md·log.md 제외)*

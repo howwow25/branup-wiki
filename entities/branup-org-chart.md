@@ -1,10 +1,10 @@
 ---
 title: 브랜업 조직도 (Branup Org Chart)
 created: 2026-07-15
-updated: 2026-10-01
+updated: 2026-10-13
 type: entity
 tags: [team, role, org, people]
-sources: []
+sources: [raw/articles/branup-ir-deck-20261012.md]
 confidence: medium
 ---
 
@@ -16,8 +16,13 @@ confidence: medium
 
 | 이름 | 직책 | 주요 역할 |
 |------|------|---------|
-| **이상원** | 대표 (CEO) | 회사 총괄, 전략 의사결정, Slack 도입 추진 |
+| **이상원** | 대표 (CEO) | 회사 총괄, 전략 의사결정, Slack 도입 추진. 前 LS증권 주식운용본부 이사, Series A·B·C 투자 네트워크 확보 ^[raw/articles/branup-ir-deck-20261012.md] |
+| **최유미** | CSO (브랜드·마케팅 기획) | 서울대학교 의과대학 약리학 석사, 前 스킨푸드·셀퓨전씨·제닉 마케팅 상무, 前 아모레퍼시픽 에스트라 BM 팀장 ^[raw/articles/branup-ir-deck-20261012.md] |
+| **이영진** 박사 | 이사 (신사업·기술 사업화) | KAIST 화학공학 박사, 前 아모레퍼시픽 신사업개발 상무, IR52 장영실상 기술혁신상. *고문단 채널([[channels/브랜업고문단-1억불만들기]]) 활동과 동일 인물 여부 확인 필요* |
+| **한상훈** 박사 | 이사 (화장품 연구·개발) | 서울대 화학공학 학사·성균관대 공학 박사, 現 아주대 글로벌 제약 임상 대학원 겸임교수, 前 아모레퍼시픽 화장품연구 소장·기술연구원장 ^[raw/articles/branup-ir-deck-20261012.md] |
 | **이향석 (Ashton)** | 감사 개발팀 이사 | 개발 총괄, Hermes 에이전트 운영, 계약 검토, TSonaX 개발 |
+
+> 위 표의 직책은 브랜업 IR 덱(2026.10) p3 기준. 출처: [[concepts/브랜업-ir-202610|브랜업 IR 자료 (2026.10)]]
 
 ## 부서
 
@@ -52,6 +57,7 @@ confidence: medium
 | **태평양** | 외부 법률자문 | 아이젤 계약 2차 검토 (예정) |
 
 ## 관련 문서
+- [[concepts/브랜업-ir-202610|브랜업 IR 자료 (2026.10)]] — IR 덱 기준 팀·기업개요 구성
 - [[aizel-contract|아이젤 제조위탁계약]] — 주요 협력사 계약
 - [[enagic-usa|Enagic USA]] — 북미 유통 파트너
 - [[slack-adoption|Slack 도입 및 내재화]] — 조직 커뮤니케이션 전환

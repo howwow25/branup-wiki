@@ -65,7 +65,7 @@ wiki/
   ```
 
 ## Tag Taxonomy
-- **Business:** contract, export, partner, customer, finance, insurance, pl-insurance, legal, market, competitor, b2b, korea
+- **Business:** contract, export, partner, customer, finance, insurance, pl-insurance, legal, market, competitor, b2b, korea, ir
 - **Government:** support-program, export-voucher, subsidy, monitoring, certification, government
 - **Product:** cosmetics, formulation, certification, packaging, regulation, fda, mocra, rnd, oem-odm, product
 - **People:** team, role, contact, ceo, director, org, people, hr

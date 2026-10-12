@@ -1,10 +1,10 @@
 ---
 title: "조인앤조이 (JNJ)"
 created: 2026-08-13
-updated: 2026-09-18
+updated: 2026-10-13
 type: entity
 tags: [partner, packaging, cosmetics]
-sources: [raw/articles/join-n-joy-po-form-20260608.md, channels/코스메틱-본부.md]
+sources: [raw/articles/join-n-joy-po-form-20260608.md, channels/코스메틱-본부.md, channels/branup-design-backup.md]
 confidence: high
 ---
 
@@ -32,6 +32,7 @@ confidence: high
 
 ## 참고
 
+- **자석&명판 2차 샘플 수령 (2026-10-12)** — Slack `design-backup` 디자인팀 메시지: `[JNJ] [명판 2차] 수령일 10월 12일 (2026.10.12)`. 2026-07-15 이후 **샘플 지연**으로 표기돼 있던 JNJ 자석&명판 타입 후가공이 **2차 샘플 수령 단계**로 진입(1차 샘플 이력은 위키에 미기록). 양산 적용 전 색상·증착 검증 단계로 추정. 출처: [[channels/branup-design-backup|design-backup]]
 - **박지(인쇄 라벨) 품질 이슈** — 두코와 JNJ 간 박 압력 차이 발생, 두코가 JNJ 컬러에 맞춰 조정 (2026-07-22)
 - **샘플 딜레이 양해** — 후가공 업체 여름 휴가 물량 밀림, 원재현 이사 양해 연락 (2026-07-16)
 - 발주서 입고 시 미국 물량과 혼입 금지 주의 (캐나다 vs 미국 구분)

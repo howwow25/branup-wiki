@@ -2,12 +2,12 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-10-09
+updated: 2026-10-13
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
-related_entities: [entities/enagic-usa, entities/eyesel, entities/한국콜마]
-related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략]
+related_entities: [entities/enagic-usa, entities/eyesel, entities/한국콜마, entities/join-n-joy]
+related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략, concepts/브랜업-ir-202610]
 ---
 
 # design-backup — 디자인팀 디자인 파일 저장소
@@ -28,6 +28,12 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략]
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-10-12 — 4일 정지 후 재개 (신규 메시지 3건 · 파일 2건)
+- **IR 덱 원본 `ir-백업.ai` 등록 (11:39 KST)** — 디자인팀(`U0BFDSSR9PZ`), **20,582,638 bytes**, MIME `application/illustrator`(실체 **PDF 1.6 / 9페이지 / 960×540pt(16:9)**), 파일 ID `F0C807BTSJK`. **텍스트 레이어가 정상 추출**되어 내용 판독 성공 — 브랜업 IR 덱 `Investor Relations 2026.10`: 팀(p3)·기업개요·연혁·누적 재무(p4)·시장기회 차트 4종(p6)·포지셔닝(p7)까지 작성, **`03 BUSINESS MODEL` 섹션은 디바이더만 있고 본문 미작성**, p9 공백 → **작업 중 버전**. 대시보드 업무 `IR자료 디벨롭`(강경철, 10-12 재조정 마감)의 진행 산출물로 판단. 상세: [[concepts/브랜업-ir-202610|브랜업 IR 자료 (2026.10)]] · 원본요약 [[raw/articles/branup-ir-deck-20261012|IR 덱 판독 노트]]
+  - ※ 10-08 17:11 등록된 `ir.ai`(20,885,762 bytes, `F0C7J8GNA9K`)와 **별개 파일**(용량·파일 ID 상이, `ir-백업` 백업본으로 추정)
+- **KANGEN BEAUTÉ 3-Step 제품 비주얼 등록 (10:16 KST)** — `0720-2.jpg`, **2717×2339 px / 300 dpi / 5,465,873 bytes**, 파일 ID `F0C8F4DDWF4`, 메시지 텍스트 없음. 판독 내용(이미지 판독): **수중 물보라 배경 + 코발트 블루 용기 + 로즈골드 캡** 3종 제품 컷 — `First Light Essence`(STEP I, Luminous Peptide Elixir / Ultimate Hydration / Barrier Prep, 50 ml · 1.69 fl. oz., 펌프형) · `Vital Rich Cream`(STEP II, 50 ml) · `Crystal Ampoule Cream`(STEP III, Precious Ceramide Seal / Deep Moisture Lock / Barrier Support, 50 ml). 라벨에 **STEP I/II/III + 제품 설명문이 확정 표기**된 공식 제품 이미지 — 마케팅·IR·카탈로그용 소재로 추정.
+- **JNJ 자석&명판 2차 샘플 수령 (11:27 KST)** — 디자인팀 메시지: `*[JNJ] [명판 2차]* 수령일 10월 12일 (2026.10.12)`. 7월부터 이슈였던 **JNJ 자석&명판 타입 후가공**(2026-07-15 기준 샘플 지연)의 **2차 샘플이 실제 수령 단계**로 진입. 관련: [[entities/join-n-joy|조인앤조이 (JNJ)]] · [[projects/에나지크_발주_시뮬레이터|에나지크 발주 시뮬레이터]]
 
 ### 2026-10-08
 - **에나지크 로고 인서트 PET 트레이 샘플 도면 3종 등록** — 디자인팀(U0BFDSSR9PZ). `브랜업 [26-0140][샘플도면 3종]-게또바시.pdf` (09:33 KST, 1페이지 1.36MB, Illustrator 25.0(Windows) 벡터 도면, 파일 ID `F0C7LLNG058`). 판독 사양: 외형 **165.60 × 144.50 mm**, 높이 **40 · 65 · 53 mm** 3종, 재질 **PET 0.5 T**, 경사 92°, 도면 작성일 **2026-10-07**. 좌·우 포켓 2개 + 중앙 **Enagic 로고** 포켓 + 하단 `Enagic`·`PET` 인서트 구조 — 발주·연출용 트레이로 보이나 **대상 제품·프로젝트는 미확정**(도면에 제품명·수량 표기 없음). 상세·원본: [[raw/articles/branup-enagic-pet-tray-drawings-20261007|샘플도면 3종 판독 노트]] · 관련: [[entities/enagic-usa]] · [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · [[projects/에나지크_발주_시뮬레이터|에나지크 발주 시뮬레이터]]
@@ -183,6 +189,8 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략]
 ## 관련 위키 페이지
 
 - [[entities/enagic-usa|Enagic USA]] — 북미 유통 파트너, 패키지 디자인 현황 총괄
+- [[entities/join-n-joy|조인앤조이 (JNJ)]] — 용기·캡·후가공(자석&명판) 협력사
+- [[concepts/브랜업-ir-202610|브랜업 IR 자료 (2026.10)]] — 10-12 업로드 IR 덱 판독 결과
 - [[raw/articles/branup-design-label-inspection-summary.md|미국/캐나다 표지 검수 PDF 요약]]
 - [[raw/articles/kangen-beaute-canada-label-notice.md|캐나다 KANGEN BEAUTÉ 라벨 고시사항]]
 
