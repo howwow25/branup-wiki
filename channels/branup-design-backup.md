@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-10-13
+updated: 2026-10-16
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
@@ -28,6 +28,9 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략, conc
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-10-15 — 3일 정지 후 재개 (신규 메시지 1건 · 파일 1건)
+- **`인쇄문안 변경의 건.pdf` 등록 (22:32 KST)** — 디자인팀(`U0BFDSSR9PZ`), **857,907 bytes**, MIME `application/pdf`, 파일 ID `F0C9BFTMMMH`, 메시지 텍스트 없음. 실체 **PDF 1.6 · 4페이지 · A4 가로(842×595 pt)**, `Adobe Illustrator 30.8 (Macintosh)` 제작, 문서 생성 10-15 20:35 · 수정 21:29. 내용(텍스트 레이어 **910자 전량 추출** + 130 dpi 렌더 육안 확인): **KANGEN BEAUTÉ TIMELESS RADIANCE 3-Step 용기 라벨 인쇄문안 검수본** — p1 미국(라벨 평면) · p2 캐나다(라벨 평면) · p3 미국(용기 입체 인쇄문안) · p4 캐나다(용기 입체). 문안: STEP I `First Light Essence / pH-Balanced Hydration / Essence Éclat Premier · Hydratation au pH équilibré` · STEP II `Vital Rich Cream`(캐나다판 `Crème Riche Vitale`) · STEP III `Crystal Ampoule Cream / Precious Barrier Seal / Crème Ampoule Cristalline · Précieux voile protecteur`. **캐나다판은 스텝 표기에 `ÉTAPE I·II·III` 병기**, 미국판에도 STEP I·III 불어 제품명이 병기됨. ⚠️ **직전 인쇄문안 본이 채널 이력(200건 키워드 검색)·위키 `raw/` 어디에도 없어 변경 전/후 diff 확정 불가** — 미국판 불어 병기가 이번 변경분인지 확인 필요. 상세: [[raw/articles/branup-enagic-print-copy-change-20261015|인쇄문안 변경의 건 판독 노트]] · 관련: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · [[entities/enagic-usa|Enagic USA]] · [[projects/에나지크_발주_시뮬레이터|에나지크 발주 시뮬레이터]]
 
 ### 2026-10-12 — 4일 정지 후 재개 (신규 메시지 3건 · 파일 2건)
 - **IR 덱 원본 `ir-백업.ai` 등록 (11:39 KST)** — 디자인팀(`U0BFDSSR9PZ`), **20,582,638 bytes**, MIME `application/illustrator`(실체 **PDF 1.6 / 9페이지 / 960×540pt(16:9)**), 파일 ID `F0C807BTSJK`. **텍스트 레이어가 정상 추출**되어 내용 판독 성공 — 브랜업 IR 덱 `Investor Relations 2026.10`: 팀(p3)·기업개요·연혁·누적 재무(p4)·시장기회 차트 4종(p6)·포지셔닝(p7)까지 작성, **`03 BUSINESS MODEL` 섹션은 디바이더만 있고 본문 미작성**, p9 공백 → **작업 중 버전**. 대시보드 업무 `IR자료 디벨롭`(강경철, 10-12 재조정 마감)의 진행 산출물로 판단. 상세: [[concepts/브랜업-ir-202610|브랜업 IR 자료 (2026.10)]] · 원본요약 [[raw/articles/branup-ir-deck-20261012|IR 덱 판독 노트]]
@@ -188,6 +191,7 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략, conc
 
 ## 관련 위키 페이지
 
+- [[raw/articles/branup-enagic-print-copy-change-20261015|KANGEN BEAUTÉ 인쇄문안 변경의 건 (2026-10-15) — 판독 노트]] — 미국/캐나다 용기 라벨 문안 검수본(4p)
 - [[entities/enagic-usa|Enagic USA]] — 북미 유통 파트너, 패키지 디자인 현황 총괄
 - [[entities/join-n-joy|조인앤조이 (JNJ)]] — 용기·캡·후가공(자석&명판) 협력사
 - [[concepts/브랜업-ir-202610|브랜업 IR 자료 (2026.10)]] — 10-12 업로드 IR 덱 판독 결과

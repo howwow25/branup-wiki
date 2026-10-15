@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-10-03
+updated: 2026-10-16
 type: entity
 tags: [partner, export, usa, eu, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png, raw/articles/enagic-market-expansion-plan-20261001.md]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png, raw/articles/enagic-market-expansion-plan-20261001.md, raw/articles/branup-enagic-print-copy-change-20261015.md]
 confidence: medium
 ---
 
@@ -73,6 +73,12 @@ confidence: medium
 - **유통:** Enagic Canada Corp. (Burnaby, BC) — 불어·영어 이중 라벨
 - **사용기한:** 제조 후 2년, 개봉 후 1년
 - 자세한 성분 정보: `raw/articles/kangen-beaute-canada-label-notice.md` ^[raw/articles/kangen-beaute-canada-label-notice.md]
+
+### 용기 인쇄문안 변경 검수본 (2026-10-15)
+- 디자인팀이 `#design-backup`에 **`인쇄문안 변경의 건.pdf`** 등록 (22:32 KST, 4p · PDF 1.6 · A4 가로 · `Adobe Illustrator 30.8` · 857,907 bytes · 파일 ID `F0C9BFTMMMH`) — 미국/캐나다 × (라벨 평면 / 용기 입체 인쇄문안) 4장.
+- **미국:** `STEP I·II·III` 표기. STEP I `First Light Essence / pH-Balanced Hydration / Essence Éclat Premier · Hydratation au pH équilibré`, STEP III `Crystal Ampoule Cream / Precious Barrier Seal / Crème Ampoule Cristalline · Précieux voile protecteur` — **불어 제품명 병기**. STEP II는 `Vital Rich Cream` 영문만.
+- **캐나다:** `STEP` + **`ÉTAPE`** 병기, STEP II까지 불어 병기(`Crème Riche Vitale`) — 불어·영어 이중 라벨 요건 반영.
+- **확인 필요:** 직전 인쇄문안 본이 이력에 없어 **미국판 불어 병기가 이번 변경분인지 단정 불가**(09-27 듀얼 패키징 안건 ②와 방향 일치). 상세: [[raw/articles/branup-enagic-print-copy-change-20261015|판독 노트]] · 관련: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]]
 
 ### KANGEN BEAUTÉ 카탈로그 카피 (2026-07-19 수집)
 - Slack #branup-design-backup 채널에서 영문·불어 카탈로그 카피 DOCX(2.6MB) 수집
