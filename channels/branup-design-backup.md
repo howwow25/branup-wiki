@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-10-16
+updated: 2026-10-17
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
@@ -28,6 +28,9 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략, conc
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-10-16 — Canvas 갱신 (신규 메시지 1건 · 파일 0건)
+- **Canvas 탭 콘텐츠 갱신 (09:38 KST, `USLACKBOT` — `tabbed_canvas_updated`)** — 메시지 텍스트·파일 없음. 채널 내 직전 Canvas 갱신은 **2026-08-27 15:59**(약 50일 전)이며, 7월 말~8월 중순 대량 갱신(07-10~08-11 12건) 이후 **10월 재개**다. 채널 Canvas 이벤트 누적 **13건**(전체 16건), 최신 = 10-16 09:38. 파일·문안 산출물이 아니므로 **인쇄 검수 이력에는 영향 없음** — 디자인팀이 탭 문서를 계속 관리 중이라는 신호로만 기록.
 
 ### 2026-10-15 — 3일 정지 후 재개 (신규 메시지 1건 · 파일 1건)
 - **`인쇄문안 변경의 건.pdf` 등록 (22:32 KST)** — 디자인팀(`U0BFDSSR9PZ`), **857,907 bytes**, MIME `application/pdf`, 파일 ID `F0C9BFTMMMH`, 메시지 텍스트 없음. 실체 **PDF 1.6 · 4페이지 · A4 가로(842×595 pt)**, `Adobe Illustrator 30.8 (Macintosh)` 제작, 문서 생성 10-15 20:35 · 수정 21:29. 내용(텍스트 레이어 **910자 전량 추출** + 130 dpi 렌더 육안 확인): **KANGEN BEAUTÉ TIMELESS RADIANCE 3-Step 용기 라벨 인쇄문안 검수본** — p1 미국(라벨 평면) · p2 캐나다(라벨 평면) · p3 미국(용기 입체 인쇄문안) · p4 캐나다(용기 입체). 문안: STEP I `First Light Essence / pH-Balanced Hydration / Essence Éclat Premier · Hydratation au pH équilibré` · STEP II `Vital Rich Cream`(캐나다판 `Crème Riche Vitale`) · STEP III `Crystal Ampoule Cream / Precious Barrier Seal / Crème Ampoule Cristalline · Précieux voile protecteur`. **캐나다판은 스텝 표기에 `ÉTAPE I·II·III` 병기**, 미국판에도 STEP I·III 불어 제품명이 병기됨. ⚠️ **직전 인쇄문안 본이 채널 이력(200건 키워드 검색)·위키 `raw/` 어디에도 없어 변경 전/후 diff 확정 불가** — 미국판 불어 병기가 이번 변경분인지 확인 필요. 상세: [[raw/articles/branup-enagic-print-copy-change-20261015|인쇄문안 변경의 건 판독 노트]] · 관련: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · [[entities/enagic-usa|Enagic USA]] · [[projects/에나지크_발주_시뮬레이터|에나지크 발주 시뮬레이터]]
