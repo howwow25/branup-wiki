@@ -2823,3 +2823,17 @@
 - 미조치: 재무 관련 업무 2건(`투권인 카드 비용`·`투권인 급여`) — 제목 외 내용 확인 불가, 처리 방향 확인 필요
 - 미조치: `0720-2.jpg` KANGEN BEAUTÉ 3-Step 제품 비주얼 — 대상 프로젝트(SNS·홈페이지·IR) 확인 필요
 - 비고: 10-15는 **Slack(파일 1건) + DB(재조정 3·담당자 정리 5)** 양쪽에 활동이 있었고, **10-16 DB는 신규 등록 0건으로 전환**됐다. 경과 84건·60일 이상 경과 43건 적체가 지속되며, TSonaX 개발은 10-14 재개(`c6041cd`) 후 2일째 신규 커밋이 없다.
+
+## [2026-10-16] lint | 2026-10-16 위키 린트 (주간 헬스체크, #wiki 게시)
+- 대상: ~/wiki · 콘텐츠 페이지 **59** · 전체 .md **118**(raw 52) · taxonomy 태그 74종
+- Broken wikilink: 콘텐츠/인덱스 범위 **0건**. raw/ 1건(`raw/articles/weekly-strategy-2026-07-3w` → 「통합주간전략 자동화」, 슬러그 아님 · raw 불변 → 조치 보류, 10-09분과 동일) · log.md 이력 서술 3건은 실제 링크 아님(backtick 표기 권장)
+- 고아 **6건** / index 미등재 **7건** — 변동 없음(**30주차**, 일일 카운터 기준), `_archive/` 이동 사용자 승인 대기. `concepts/project-status`는 inbound 링크 있어 고아 아님
+- Ghost page 0 · frontmatter 결손 0(채널 페이지 `sources` 예외 규칙 적용) · 태그 위반 1종(`task` — `concepts/task-status` 전용, 아카이브 시 자동 해소)
+- **stale(90일+) 7건 신규 발생**(10-09 0건): `concepts/slack-adoption`(7/14, 94일) · `concepts/product-liability-insurance`·`concepts/export-voucher`·`entities/aizel-contract`·`entities/aizel-contract-review-request`(7/15, 93일) · `concepts/integrated-weekly-strategy`·`entities/peachy`(7/16, 92일)
+- Oversized(200줄+) **4건**(10-09 3건 → +1): 브랜업-신입직원-온보딩-매뉴얼 802줄 · 코스메틱-본부 267줄 · enagic-usa 240줄 · **branup-design-backup 205줄(신규** — 10-15 인쇄문안 활동 추가분)
+- log.md 150 entries / 2,826줄 (<500, 로테이션 불필요)
+- raw sha256: 소스 바이너리(PDF/XLSX) 해시 규칙 4건(정상) · 레거시 ingest 규칙 15건(`git log` 실측 **전건 단일 ingest 커밋** 확인 → 소스 변경 아님, 해시 산출 규칙 불일치) · 비-hex placeholder 18건(drift 감지 불가)
+- type 감사: entity 16 · concept 18 · channel 11 · project 13 · summary 1 — `entities/aizel-contract-review-request`가 `type: summary`(entities/ 배치 재검토 권장)
+- index.md 「Total pages: 59」 = 실제 59 일치 · 채널맵 11개 페이지 / Slack 활성 15개 · 채널 ID 매핑 15/15
+- 자동 수정 0건 · 사용자 판단 대기 3건(고아·미등재 아카이브 승인 · raw 레거시 해시 규칙 · 7월 페이지 stale 재확인)
+- Slack #wiki(C0BGCQS22BF) 리포트 게시 + GitHub push
