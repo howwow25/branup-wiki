@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-10-16
+updated: 2026-10-22
 type: entity
 tags: [partner, export, usa, eu, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png, raw/articles/enagic-market-expansion-plan-20261001.md, raw/articles/branup-enagic-print-copy-change-20261015.md]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png, raw/articles/enagic-market-expansion-plan-20261001.md, raw/articles/branup-enagic-print-copy-change-20261015.md, raw/articles/branup-hongkong-sticker-copy-20261021.md, raw/articles/branup-upc-barcodes-usa-canada-20261021.md]
 confidence: medium
 ---
 
@@ -227,6 +227,14 @@ confidence: medium
 - **2026-09-30 03:23 — 리콜 대응·제품 추적성 요건:** ① 각 **order batch는 고유 시리얼 번호**로 식별·추적, 시리얼은 통상 **각 스킨케어 세트 하단에 표시** ② 각 제품의 시리얼 번호를 **출하 서류에 정확히 기록** ③ 미국 법규·규제 요건상 **Enagic Cosme의 제품 리콜 절차(Recall Procedure) 수립·유지 필요** ④ EYESEL 또는 브랜업이 사용 중인 **리콜 절차·SOP 사본 공유** 요청
 - 상세 전략 맥락: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · 제조사 [[entities/eyesel|EYESEL]] · 채널 [[channels/뷰티-프로젝트|뷰티-프로젝트]]
 ^[channels/뷰티-프로젝트.md]
+
+### 홍콩 법인 문안 및 국가별 바코드 (2026-10-21)
+- **새 유통 법인 확인 — `Enagic Hong Kong Co., Ltd.`** — Room 1615-17, Mira Place Tower A, 132 Nathan Road, Tsim Sha Tsui, Hong Kong / +852 2154-0077 / `WWW.ENAGIC-ASIA.COM`. 미국 `Enagic USA`·캐나다 `Enagic Canada Corp.`와 별개의 **아시아 권역 법인**으로, 홍콩 라벨의 `DISTRIBUTED BY` 표기 주체다.
+- **홍콩 스티커 문안 (영문 + 번체중문)** — 4면(STEP 1·2·3 + 세트박스), 세트박스 라벨 **205 × 35 mm**, `MADE IN KOREA`, EXP·LOT 별도 표기, **제조 후 2년 / 개봉 후 1년** 권장. STEP 2는 `DIRECTIONS`(사용법) 포함.
+- **물량 근거:** 미국향 부족 1,583세트에 홍콩 스티커를 부착해 홍콩향으로 전환 — 09-27 안건 3(아시아 우회 수출)의 첫 실행분. 캐나다향 206세트·미국 damage 168세트는 별도 배정.
+- **UPC-A 4종 발급** — `00884400941015`(50ml US) · `00884400732637`(15ml US) · `00884400318831`(50ml CA) · `00884400606921`(15ml CA). GS1 US 접두 `0088440`.
+- 상세: [[concepts/kangen-뷰티-문안-바코드-표준|KANGEN BEAUTÉ 문안·바코드 표준]] · [[raw/articles/branup-hongkong-sticker-copy-20261021|홍콩 스티커 문안 판독]] · [[raw/articles/branup-upc-barcodes-usa-canada-20261021|UPC 바코드 판독]]
+^[channels/코스메틱-본부.md]
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
