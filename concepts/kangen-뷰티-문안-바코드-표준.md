@@ -1,10 +1,10 @@
 ---
 title: KANGEN BEAUTÉ 문안·바코드 표준
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-23
 type: concept
 tags: [product, cosmetics, packaging, regulation, export, workflow]
-sources: [raw/articles/branup-hongkong-sticker-copy-20261021.md, raw/articles/branup-upc-barcodes-usa-canada-20261021.md, raw/articles/branup-enagic-print-copy-change-20261015.md, raw/articles/branup-용기-후면-문안-indd-20261019.md, channels/코스메틱-본부.md]
+sources: [raw/articles/branup-hongkong-sticker-copy-20261021.md, raw/articles/branup-upc-barcodes-usa-canada-20261021.md, raw/articles/branup-enagic-print-copy-change-20261015.md, raw/articles/branup-용기-후면-문안-indd-20261019.md, channels/코스메틱-본부.md, raw/articles/branup-kangenbeaute-asean-regulatory-request-20261023.md]
 confidence: medium
 ---
 
@@ -72,6 +72,22 @@ confidence: medium
 - **`※글자크기및서식규정없음`** 문구의 성격(홍콩 규정 해설 vs 내부 주석) 불명.
 - **INDD 원본 판독 불가** — 확정 문안 검토용 PDF 출력본 요청 지속 필요.
 
+## 6. 5개국 진출 라벨 함의 (2026-10-23 요청서 기준)
+
+에나지크 줄리어스 대표가 홍콩·말레이시아·싱가포르·필리핀·태국 **규제 신고자료 요청서**를 보냈다 → [[concepts/칸겐보떼-아세안-규제-신고-자료|칸겐 보떼 아세안 5개국 규제 신고자료 요청]]. 라벨·문안 관점의 함의:
+
+| 국가 | 라벨 관련 추가 요구 | 현재 표준과의 갭 |
+|------|---------------------|-----------------|
+| 홍콩 | 중국어·영어 **안전 경고·주의사항** 문안 | 10-21 스티커에 영문 CAUTION + 번체중문 注意事項 병기 완료 → **충족 추정**(현지 검토 결과 대기) |
+| 말레이시아 | 라벨에 **현지 책임업체(CNH) 명칭·주소** 반영, 라벨 원본 | CNH 미정 → **반영 불가** |
+| 싱가포르 | 영어 라벨·설명서 + **현지 책임업체 정보** 반영 원본, variant 정보 | variant 표기 체계 없음 → **갭** |
+| 필리핀 | 최종 라벨·설명서 + 책임업체 정보, **CPN 번호** | CPN 발급 전 인쇄 불가(10-01 "사전 인쇄 불가" 분류와 일치) |
+| 태국 | **태국어 라벨** 아트워크·사용법·주의사항, LPI용 제품명·SKU 일치 | 태국어 아트워크 미제작 → **갭** |
+
+- 라벨 원본은 **"국가별 책임업체 정보가 확정된 뒤"에야 완성**된다. 10-21 홍콩이 예외적으로 빨랐던 이유는 `Enagic Hong Kong Co., Ltd.`라는 법인이 이미 확정돼 있었기 때문.
+- 제품명·SKU·내용량이 **신고자료·라벨·선적서류(LPI) 3곳에서 일치**해야 한다는 요구(태국)는 10-21 제품명 통일안의 실효성을 시험하는 조건이다.
+- 관련: [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]]
+
 ---
 
-*Source channels: [[channels/코스메틱-본부]], [[channels/branup-design-backup]]*
+*Source channels: [[channels/코스메틱-본부]], [[channels/branup-design-backup]], [[channels/뷰티-프로젝트]]*

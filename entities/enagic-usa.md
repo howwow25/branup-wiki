@@ -1,10 +1,10 @@
 ---
 title: Enagic USA — 미국 에나지크
 created: 2026-07-15
-updated: 2026-10-22
+updated: 2026-10-23
 type: entity
 tags: [partner, export, usa, eu, market, contract]
-sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png, raw/articles/enagic-market-expansion-plan-20261001.md, raw/articles/branup-enagic-print-copy-change-20261015.md, raw/articles/branup-hongkong-sticker-copy-20261021.md, raw/articles/branup-upc-barcodes-usa-canada-20261021.md]
+sources: [raw/articles/slack_branup-design-backup_1784405039_★KANGEN_BEAUTÉ_—_Catalog_Copy_(English_&_French).docx, raw/articles/kangen-beaute-catalog-c-202607.md, raw/articles/260722-enagic-catalog-copy-review.md, raw/articles/branup-packaging-spec-usa-canada-20260728.md, raw/transcripts/줄리어스-9월27일-글로벌물류전략-안건-20260927.md, channels/뷰티-프로젝트.md, raw/assets/kangen-beaute-sabari-box-final-approval-20260929.png, raw/articles/enagic-market-expansion-plan-20261001.md, raw/articles/branup-enagic-print-copy-change-20261015.md, raw/articles/branup-hongkong-sticker-copy-20261021.md, raw/articles/branup-upc-barcodes-usa-canada-20261021.md, raw/articles/branup-kangenbeaute-asean-regulatory-request-20261023.md]
 confidence: medium
 ---
 
@@ -235,6 +235,14 @@ confidence: medium
 - **UPC-A 4종 발급** — `00884400941015`(50ml US) · `00884400732637`(15ml US) · `00884400318831`(50ml CA) · `00884400606921`(15ml CA). GS1 US 접두 `0088440`.
 - 상세: [[concepts/kangen-뷰티-문안-바코드-표준|KANGEN BEAUTÉ 문안·바코드 표준]] · [[raw/articles/branup-hongkong-sticker-copy-20261021|홍콩 스티커 문안 판독]] · [[raw/articles/branup-upc-barcodes-usa-canada-20261021|UPC 바코드 판독]]
 ^[channels/코스메틱-본부.md]
+
+### 아세안 5개국 규제 신고자료 요청 (2026-10-23)
+- 줄리어스 대표가 `#뷰티-프로젝트`에 **홍콩·말레이시아·싱가포르·필리핀·태국** 진출용 **규제 검토·신고 자료 요청서** 게시 (01:56~01:57, 4건 — 이미지 1 + 본문 3). 제조사·원료 공급사 협의 후 **보유 여부·제공 가능 범위·확보 일정** 회신 요청.
+- **공통 9종** (이미지 표): 제품 기본정보(SKU·제형·용도·사용방법·내용량·제조국) · **정량 처방(INCI+함량%·처방번호·버전)** · 제조사·제조소 정보(충전·포장 분리 시 각각) · 포장·라벨 최종 아트워크+원본 · GMP·공정·규격·COA · 안전성·미생물·보존력·포장 적합성 시험+사용기간 근거 · **서명된 안전성 평가보고서** · **효능 근거** · **PIF**.
+- **국가별:** 홍콩(우선, 사전 등록이 아닌 **수입자 안전성·표시 검토** — 중국어·영어 경고문안 포함) · 말레이시아(신고+현지 컨설턴트, **CNH 수권서**) · 싱가포르(**HSA** 신고·영어 라벨·제한성분) · 필리핀(**CPN**+PIF, FDA LTO는 현지 파트너) · 태국(신고+**태국어 라벨**+선적별 **LPI**).
+- **기밀 처리:** 정량 처방 등은 **NDA 체결 후 현지 책임업체·평가자에게 직접 제공** 가능. 홍콩 우선 + 후속 시장 공통 기술자료 병행 확보 요청.
+- **의미:** 에나지크 측 요구가 **물량·라벨(10-21 홍콩) → 서류(10-23)** 로 확장됐다. EYESEL의 정량 처방·GMP·COA 제공 범위가 5개국 전체의 크리티컬 패스.
+- 상세: [[concepts/칸겐보떼-아세안-규제-신고-자료|칸겐 보떼 아세안 5개국 규제 신고자료 요청]] · [[concepts/에나지크-글로벌-물류-패키징-전략|에나지크 글로벌 물류·패키징 전략]] · 원문 [[raw/articles/branup-kangenbeaute-asean-regulatory-request-20261023|판독 노트]]
 
 ## 관련 문서
 - [[aizel-contract|아이젤 제조위탁계약]] — Enagic 전제 계약 구조
