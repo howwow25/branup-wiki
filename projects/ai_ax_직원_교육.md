@@ -1,24 +1,24 @@
 ---
 title: AI/AX 직원 교육
 created: 2026-06-16
-updated: 2026-10-23
+updated: 2026-10-24
 type: project
-tags: [project, 계획]
+tags: [project, 보류]
 sources: [branup-dashboard]
 confidence: high
 ---
 
-# 📋 AI/AX 직원 교육
+# ⏸️ AI/AX 직원 교육
 
 *Source: 브랜업 대시보드 (toffer.co.kr:8800)*
 
 | 항목 | 내용 |
 |------|------|
-| **상태** | 📋 계획 |
+| **상태** | ⏸️ 보류 |
 | **담당자** | 이향석 |
 | **시작일** | 2026-07-20 |
 | **예상 종료일** | 2026-12-31 |
-| **마지막 업데이트** | 2026-07-15 |
+| **마지막 업데이트** | 2026-10-23 |
 
 ## 설명
 
@@ -46,4 +46,4 @@ https://www.instagram.com/p/DZhhhPJk3g6/?img_index=4
 *(등록된 업무 없음)*
 
 ---
-*마지막 동기화: 2026-10-23 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-10-24 | Source: [[concepts/브랜업-대시보드-현황]]*
