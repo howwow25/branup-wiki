@@ -3340,3 +3340,19 @@
 - 미조치(계속): `0720-2.jpg` KANGEN BEAUTÉ 제품 비주얼 — 대상 프로젝트(SNS·홈페이지·IR) 확인 필요
 - **신규 검토**: 대시보드에 **시장진출/인허가 프로젝트가 없다** — 5개국 규제 대응이 반복 업무로 굳어질 가능성이 크므로 프로젝트 신설 + `project_id` 연결 권장
 - 비고: 이번 회차의 핵심은 **"라벨은 실행됐고 서류는 시작됐다"** 이다. 10-21 홍콩 스티커 1,583세트로 오버레이 전략의 첫 실행이 확인됐지만, 10-23 요청서는 오버레이로 해결되지 않는 층(정량 처방·PIF·안전성 평가·GMP·수권서)을 드러냈다. 대시보드는 101건으로 소폭 감소했으나 경과 60건·60일 이상 40건은 그대로이고, 오늘 12건이 동시 도래한다. TSonaX 개발은 9일째 정지.
+
+## [2026-10-23] lint | 주간 위키 린트 (37주차, #wiki 게시)
+- 대상: ~/wiki · 콘텐츠 페이지 **61**(10-16 59 → +2: `concepts/kangen-뷰티-문안-바코드-표준` 10-22 · `concepts/칸겐보떼-아세안-규제-신고-자료` 10-23) · 전체 .md **124**(raw 56) · taxonomy 태그 63종 사용
+- **Broken wikilink 0건**(10-16 0건 유지) — short-name 링크는 resolver로 정상 해소, raw/ 원본 링크도 실존 확인. index ghost 0건
+- **고아 6건 / index 미등재 7건** — 변동 없음(37주차, 일일 카운터 기준), `_archive/` 이동 사용자 승인 대기. `concepts/project-status`는 inbound 링크 있어 고아 아님
+- Frontmatter 결손 **0건**(채널 페이지 `sources` 예외 규칙 적용, `channels/index`·`projects/index`는 네비게이션 파일로 검사 제외) · 태그 위반 **1종**(`task` — `concepts/task-status` 전용, 아카이브 시 자동 해소)
+- **stale(90일+) 7 → 11건(+4)**: `concepts/slack-adoption`(7/14, 101일) · `concepts/product-liability-insurance`·`concepts/export-voucher`·`entities/aizel-contract`·`entities/aizel-contract-review-request`(7/15, 100일) · `concepts/integrated-weekly-strategy`·`entities/peachy`(7/16, 99일) · **신규** `concepts/aizel-meeting-2026-07-14`·`concepts/aizel-proposal-lineup-2026-07-14`(7/19, 96일) · **신규** `entities/drsante`·`channels/브랜업-에듀`(7/23, 92일)
+- Oversized(200줄+) **4건 유지**(줄수 증가): 브랜업-신입직원-온보딩-매뉴얼 802 · 코스메틱-본부 267→**288** · enagic-usa 240→**256** · design-backup 205→**219**
+- raw sha256: **불일치 19건**(10-16 15건 → +4) — 전건 `git log` **단일 ingest 커밋** 확인 → 소스 변경 아님, ingest 시 해시 산출 규칙 불일치 · placeholder 18건 · `sha256` 필드 없음 6건
+- type 감사: entity 16 · concept 20 · channel 11 · project 13 · summary 1(`entities/aizel-contract-review-request` — 10-16 권고 유지)
+- 채널 매핑: Slack 활성 **15개** / 채널 페이지 **11개**(ID 실매칭 10/11). `channels/브랜업-공지사항` `slack_channel_id: (unknown)` — Slack 목록에 실체 없음(**32주차**). `아이젤-계약서` 페이지 ↔ 현 채널명 `브랜업-계약서`(rename 규칙대로 파일명 유지·라벨 갱신) 정상
+- 채널 페이지 미생성 Slack 채널 **5개**: `wiki` · `브랜업-조직구성` · `브랜업-휴가` · `제품-기획-제작` · `헤르메스`
+- log.md **165 entries / 3,343줄** (<500 → 로테이션 불필요)
+- **자동 수정 1건**: `index.md` `브랜업-대시보드-현황` 요약 수치 103건(10-15 기준) → **101건(10-23 기준)** 정정
+- 사용자 판단 대기: ① 고아·미등재 7건 `_archive/` 이동 승인 ② raw 레거시 해시 규칙 19건 재산출 여부 ③ 7월 페이지 stale 11건 재확인 ④ `브랜업-공지사항` 채널 실체 확인/페이지 아카이브 ⑤ 채널 페이지 미생성 5개 중 `wiki`·`제품-기획-제작` 생성 여부
+- Slack #wiki(C0BGCQS22BF) 리포트 게시 + GitHub push
