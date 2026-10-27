@@ -1,7 +1,7 @@
 ---
 title: AI/AX 직원 교육
 created: 2026-06-16
-updated: 2026-10-27
+updated: 2026-10-28
 type: project
 tags: [project, 보류]
 sources: [branup-dashboard]
@@ -46,4 +46,4 @@ https://www.instagram.com/p/DZhhhPJk3g6/?img_index=4
 *(등록된 업무 없음)*
 
 ---
-*마지막 동기화: 2026-10-27 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-10-28 | Source: [[concepts/브랜업-대시보드-현황]]*
