@@ -3871,3 +3871,15 @@
 - 미조치(계속): `projects/kcl_sgs_안정성검사_사업_실행_12_31` 대시보드 상태값(보류)이 실제 진행(시험 수행·리포트 대기·사업계획 변경)과 불일치 — 이제 격차가 더 벌어짐
 - 미조치(계속): 담당자 공백 6건 · IR 덱 편집 오류 2건 · `00.261016용기 후면 최신 (3).indd` INDD 판독 불가 · `0720-2.jpg` 대상 프로젝트 미확인
 - 비고: 오늘의 성격은 **'보드 정리 이후의 공백'**이다. 10-29 아침 5인이 `업무대시보드 정리회의`를 열고 09~10시에 마감 7건을 재조정했지만, **가장 시급한 부자재 발주 2건은 그 손질에서 빠져 3번째 마감을 넘겼다** — 회의가 '기한을 미루는 정리'에 집중하고 '결제·발주 집행'은 건드리지 못한 셈이다. 대신 새로 등록된 5건의 방향은 분명하다: 본계약 문안을 에나지크에 넘겨 국가별 번역을 붙이고, JNM에 전성분·라벨을 전달하고, 태국은 시설등록까지 내려간다 — **문안·규제 트랙이 내부 검토에서 외부 제출 단계로 넘어간 것**이다. 리스크는 그 산출물의 원본이 위키에 없다는 점(확정 문안·회의록·서베이 변경 사유 모두 부재)이고, KCL은 시험기관이 더마프로로 확정돼 리포트만 남았는데 대시보드 상태는 여전히 '보류'다. Slack은 7일째 완전히 조용하고 TSonaX 코드는 16일째 멈춰 있다 — 업무의 유일한 유입 경로가 대시보드 직접 등록이라는 구조가 이제 **8일째** 굳어졌다.
+
+## [2026-10-30] lint | 74 issues found (치명 0 · 경고 13 · 주의 1 · 정보 60)
+- 점검 범위: 62 콘텐츠 페이지(channels 11 · entities 17 · concepts 21 · projects 13) + raw 56 md · log 180 엔트리
+- **깨진 위키링크 0건** — 대신 `channels/index.md` 2건의 렌더링 결함 수정: 뷰티-프로젝트 행의 `concepts/에나지크-글로벌-물류-패키징-전략` 별칭 링크와 kcl-해외인증실증지원사업 행의 `concepts/kcl-overseas-certification-2026` 별칭 링크에서 **파이프 앞 백슬래시 4개 → 1개**(테이블 이스케이프 정상형)로 교정. 이 링크들은 resolver가 백슬래시를 제거해 '정상'으로 통과시켰으므로 렌더링 기준으로 별도 점검했다.
+- 고아 6건 / index 미등재 7건 — `concepts/task-status`(고아 아님·미등재), `concepts/project-status`, `entities/project-*` 5건(ai_ax_직원_교육·브랜업_대시보드_개발·소라살롱_공구_프로젝트·시니어_마케터_채용_프로젝트·에나지크_발주_시뮬레이터). `entities/project-*` 5건은 `projects/` 동명 페이지(26~28줄 vs 34~147줄)의 **2026-09-25 스냅샷 중복** → `_archive/` 이동 후보(사용자 승인 대기, 5주차).
+- index 정합: 선언 62 = 실측 62(내비 2개 제외) 일치 · ghost 0 · frontmatter 누락 0 · `contested: true` 0
+- 태그 감사: 미등재 1종(`task` = `concepts/task-status` 전용, SCHEMA.md 2026-10-02 린트에 등재 보류 명시) → **예상된 예외**, 아카이브 시 자동 해소
+- stale(90일+) 14건 — aizel 5건(07-14~07-19) · drsante·peachy·slack-adoption·export-voucher·product-liability-insurance·integrated-weekly-strategy·project-status·task-status · `channels/브랜업-온보딩`(92일)·`channels/브랜업-에듀`(99일)
+- 200줄 초과 5건 — `entities/브랜업-신입직원-온보딩-매뉴얼`(802) · `channels/코스메틱-본부`(288) · `entities/enagic-usa`(256) · `channels/branup-design-backup`(219) · `concepts/에나지크-글로벌-물류-패키징-전략`(205)
+- raw sha256: 불일치 15(전건 단일 ingest 커밋 → **해시 산출 규칙 불일치, 소스 drift 아님**) · source_file 바이너리 해시 4(정상 규약) · placeholder 18(drift 판정 불가) · sha256 필드 없음 4
+- log.md 180 엔트리(로테이션 기준 500 미만) · confidence medium/low 25건(단일 출처 다수) · `sources:` 누락 0
+- 파일 변경: `channels/index.md`(링크 2건 수정), `log.md`(본 엔트리)
