@@ -100,4 +100,4 @@
 
 ---
 
-*자동 생성: 2026-10-31 | 총 119페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-11-01 | 총 119페이지 (README.md·SCHEMA.md·log.md 제외)*
