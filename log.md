@@ -4239,3 +4239,16 @@
 - **미조치(지속)**: 쇼핑백 1만개 발주서 **11일째 원본 0건**(**6번째 마감 경과**) · 규제 리서치 2건(11-02 완료) **결과 문서 5일째 부재** → `씰링 스티커 다국어` 판단 근거 없이 경과 · `50ml 전면 문안` 기준 문서 0건 · 더마프로 리포트 원문 9일째 · 아세안 4개국 **14일째 업무 0건** · `[세무] 세무법인 결정` **75일째 미결** · `test_escalate_probe_20261006` 30일째 잔존 · 프로젝트 12/13 보류
 - **TSonaX**: 대시보드 활성 2건(#431·#201) **마감 없는 '진행중' 16일째** · 개발 브랜치 `feat/minichart-tf-series-reconnect` **신규 커밋 0건(23일째)** — tip `c6041cd`(2026-10-14 12:47) · master `e42d7c9`(09-02) 무변동(`git ls-remote origin` 11-06 실측)
 - 파일 변경: `concepts/브랜업-대시보드-입력-품질.md`, `concepts/kangen-뷰티-문안-바코드-표준.md`, `concepts/브랜업-업무-완료-판별.md`, `concepts/브랜업-법인행정-재무-라인.md`, `concepts/칸겐보떼-아세안-규제-신고-자료.md`, `concepts/tsonax.md`, `channels/index.md`, `index.md`, `README.md`, `log.md`(본 엔트리) + DB sync 자동 갱신분(`projects/*.md` 13건, `projects/index.md`, `concepts/브랜업-대시보드-현황.md`) + 스냅샷 `~/.hermes/cache/scratch/branup_snapshot_20261106.json` · `branup_snapshot_20261106_projects.json`
+
+## [2026-11-06] lint | 위키 린트 (50주차, #wiki 게시) — 치명 0 · 경고 6 · 주의 1 · 정보 33
+- 점검 범위: 콘텐츠 **64페이지**(channels 11 · entities 17 · concepts 23 · projects 13) + raw md 56 · log **196엔트리** (10-30 대비 +2페이지: `concepts/브랜업-업무-완료-판별`·`concepts/브랜업-대시보드-입력-품질`)
+- **깨진 위키링크 0건**(콘텐츠 페이지) · ghost index link 0건 · 파이프 앞 백슬래시 2개+ 누적 0건(10-30 교정 유지) · index 선언 64 = 실측 64 · frontmatter 결손 0 · `contested: true` 0
+- log.md 내 5건은 **과거 이슈를 서술한 이력 문장**(`branup-work-dashboard` ×2, `channels/브랜업-전체` ×2, `통합주간전략 자동화`) — append-only 이력 특성상 조치 대상 아님(콘텐츠 결함 아님)
+- 고아 **6** / index 미등재 **7** — 10-02 이후 **변동 없음**: `entities/project-*` 5건(`projects/` 동명 페이지의 09-25 스냅샷 중복, `_archive/` 이동 5주째 승인 대기) · `concepts/task-status`(아카이브 대기) · `concepts/project-status`(미등재이나 README+미러 5건에서 inbound → 고아 아님)
+- 태그 감사: taxonomy **75종**, 미등재 1종 `task`(`concepts/task-status` 전용, 2026-10-02 린트에서 등재 보류 명시한 예외)
+- stale(90일+) **14건** — 최장 `concepts/slack-adoption` 115일 · aizel 계열 5건 110~114일 · `channels/브랜업-온보딩` 99일 · `channels/브랜업-에듀` 106일
+- 200줄 초과 **6건** — `entities/브랜업-신입직원-온보딩-매뉴얼` 801 · **`concepts/kangen-뷰티-문안-바코드-표준` 324(10-30 302줄 → 증가, 분할 임계)** · `channels/코스메틱-본부` 287 · `entities/enagic-usa` 255 · `channels/branup-design-backup` 218 · `concepts/에나지크-글로벌-물류-패키징-전략` 204
+- raw sha256: 불일치 **15**(전건 단일 ingest 커밋 → **해시 산출 규칙 불일치, 소스 drift 아님**) · source_file 바이너리 4(정상 규약) · placeholder 18(drift 판정 불가) · 필드 없음 6 · 정상 13
+- 채널 `slack_channel_id` 미확정 1건(`channels/브랜업-공지사항` = unknown, Slack 실체 미확인 10-23부터) · outbound 2개 미만 12건(자동생성 프로젝트 페이지 8 + 미러/온보딩 4) · log 196엔트리(로테이션 기준 500 미만)
+- 게시: `#wiki`(C0BGCQS22BF) ts `1793955802.665259` — readback으로 본문 1,991자 확인
+- 파일 변경: `log.md`(본 엔트리)
