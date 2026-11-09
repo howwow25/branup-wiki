@@ -1,7 +1,7 @@
 ---
 title: KCL SGS 안정성검사 사업 실행(12.31)
 created: 2026-07-26
-updated: 2026-11-09
+updated: 2026-11-10
 type: project
 tags: [project, 보류]
 sources: [branup-dashboard]
@@ -87,4 +87,4 @@ KCL 안정성검사, HRIPT, TRA 일정관리
 *(등록된 업무 없음)*
 
 ---
-*마지막 동기화: 2026-11-09 | Source: [[concepts/브랜업-대시보드-현황]]*
+*마지막 동기화: 2026-11-10 | Source: [[concepts/브랜업-대시보드-현황]]*
