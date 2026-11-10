@@ -51,6 +51,7 @@
 - **[수출바우처 (Export Voucher)](concepts/export-voucher.md)**
 - **[정부지원사업 모니터링](concepts/government-support-programs.md)**
 - **[통합주간전략 (7월 3주차, 2026-07-14)](concepts/integrated-weekly-strategy.md)**
+- **[KANGEN BEAUTÉ 문안·발주 진행 이력 (2026-11)](concepts/kangen-문안-이력-2026-11.md)**
 - **[KANGEN BEAUTÉ 문안·바코드 표준](concepts/kangen-뷰티-문안-바코드-표준.md)**
 - **[KCL 해외인증실증지원사업 (2026)](concepts/kcl-overseas-certification-2026.md)**
 - **[PL보험 (Product Liability Insurance)](concepts/product-liability-insurance.md)**
@@ -103,4 +104,4 @@
 
 ---
 
-*자동 생성: 2026-11-10 | 총 123페이지 (README.md·SCHEMA.md·log.md 제외)*
+*자동 생성: 2026-11-11 | 총 124페이지 (README.md·SCHEMA.md·log.md 제외)*
