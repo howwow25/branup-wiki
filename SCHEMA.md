@@ -65,7 +65,7 @@ wiki/
   ```
 
 ## Tag Taxonomy
-- **Business:** contract, export, partner, customer, finance, insurance, pl-insurance, legal, market, competitor, b2b, korea, ir
+- **Business:** contract, export, partner, customer, finance, insurance, pl-insurance, legal, market, competitor, b2b, korea, ir, brand
 - **Government:** support-program, export-voucher, subsidy, monitoring, certification, government
 - **Product:** cosmetics, formulation, certification, packaging, regulation, fda, mocra, rnd, oem-odm, product
 - **People:** team, role, contact, ceo, director, org, people, hr
@@ -78,6 +78,7 @@ wiki/
 
 > 2026-09-25 린트: 실제 사용 중이던 태그 33종 중 taxonomy 미등재분을 위 라인에 등재(legal·rnd·government·dashboard 등). 신규 태그는 반드시 본 taxonomy에 먼저 추가할 것.
 > 2026-10-02 린트: Structure 4종(channel·department·company·announcement) 등재. `task`는 아카이브 대기 페이지(`concepts/task-status`) 전용이라 미등재 유지 — 해당 페이지 `_archive/` 이동 시 자동 해소.
+> 2026-11-13 주간 린트: `brand` 등재 — `concepts/브랜업-상표권-리스크`(11-12 신설)가 `tags: [legal, risk, brand, …]`로 사용. 상표·상호 리스크는 향후 반복 주제이므로 태그 유지.
 
 ## Page Thresholds
 - **Create page** when an entity/concept appears in 2+ sources OR is central to one source

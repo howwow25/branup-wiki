@@ -4538,3 +4538,21 @@
 - **미조치(신규)**: ① **TSonaX 대시보드 업무 재등록 여부 결정** — 2건이 기록 없이 삭제됨(코드 30일 정지) ② **`#640` 문안 확정본**(11-13) — 15ml 발주파일 인쇄 전 마지막 지점 ③ **`#688` 아이젤 회신**(이틀 연속 연기) — 안전성검사 재수행 여부가 KCL 12-31 일정 좌우 ④ **11-13 D-0 27건** 처리 여부 ⑤ **미스트 라인 거래처·수량·제품명** 확인(두코·홍이사) ⑥ **`#681` 2027-01 정기접수 대기 등록** — 2026년 경과 집계 사각지대 ⑦ **`#680`(마감 없음)·`#378` 등이 삭제 경로로 소멸할 위험** — 마감 부여 필요
 - **미조치(지속)**: **쇼핑백 1만개 발주서(#536) 복원·재등록**(11-10 삭제 후 3일째 기록 없음) · `50ml 전면 문안` 기준 문서 0건 · `[세무] 세무법인 결정` **82일째 미결**(11-20 연장) · 아세안 4개국 **21일째 업무 0건** · `코스매틱-진행` vs `00코스매틱-진행` 중복 정리(**9일째**) · 봇 초대 4개 채널(**9일째**) · 프로젝트 12/13 보류(진행중 0) · 하드 삭제 70건 감사 추적 불가(soft delete 백로그)
 - 파일 변경: `concepts/칸겐뷰티-미스트-용기-라인.md`(신규), `concepts/브랜업-업무-완료-판별.md`, `concepts/브랜업-대시보드-입력-품질.md`, `concepts/브랜업-법인행정-재무-라인.md`, `concepts/칸겐보떼-아세안-규제-신고-자료.md`, `concepts/kangen-문안-이력-2026-11.md`, `concepts/브랜업-상표권-리스크.md`, `concepts/tsonax.md`, `projects/kcl_sgs_안정성검사_사업_실행_12_31.md`, `projects/에나지크_발주_시뮬레이터.md`, `projects/브랜업_대시보드_개발.md`, `projects/시니어_마케터_채용_프로젝트.md`, `projects/칸겐뷰티_sns_운영.md`, `channels/index.md`, `index.md`, `README.md`, `log.md`(본 엔트리) + DB sync 자동 갱신분(`projects/*.md` 13건, `projects/index.md`, `concepts/브랜업-대시보드-현황.md`)
+
+## [2026-11-13] lint | 주간 위키 린트(54주차) — broken 0 · 고아 6 · 미등재 7 · 태그위반 2 · stale 14
+
+- **범위:** `~/wiki` 전체 — 콘텐츠 페이지 **68**(channels 11 · entities 18 · concepts 26 · projects 13, `channels/index`·`projects/index` 내비 파일 제외) · raw 원본 **58 md** · log 엔트리 **211**
+- **broken wikilink 0건**(콘텐츠 페이지 기준, NFC 정규화·alias 선분리·raw 네임스페이스 등록 후 측정) · **ghost page 0건** · **frontmatter 결손 0건**
+- **log.md 이력 문장 내 미해결 링크 3건** — `branup-work-dashboard` · `channels/브랜업-전체` · `통합주간전략 자동화`. 과거 린트가 "고친 링크"를 인용한 문장이라 **조치 대상 아님**(콘텐츠 결함 0건과 분리 집계)
+- **고아 6건**(inbound 0, index 포함): `entities/project-ai_ax_직원_교육` · `entities/project-브랜업_대시보드_개발` · `entities/project-소라살롱_공구_프로젝트` · `entities/project-시니어_마케터_채용_프로젝트` · `entities/project-에나지크_발주_시뮬레이터` · `concepts/task-status` — **9월 18일 린트 이후 8주째 동일**, `_archive/` 이동 사용자 승인 대기
+- **index 미등재 7건** — 위 6건 + `concepts/project-status`(타 페이지 유입 링크 있음 → 고아 아님) — 변동 없음
+- **index 헤더 정합:** `Total pages: 68 (channels 11 · entities 18 · concepts 26 · projects 13)` = 실측 68 **일치**. 오늘 신설 `concepts/칸겐뷰티-미스트-용기-라인` 등재 확인
+- **태그 위반 2종** — ① `brand`(`concepts/브랜업-상표권-리스크`, 11-12 신설) → **SCHEMA Business 항목에 등재 완료(자동 수정)** ② `task`(`concepts/task-status`) → 아카이브 대기 페이지 전용이라 미등재 유지(기존 방침)
+- **stale(90일+) 11 → 14건**(+3): `concepts/task-status`·`concepts/project-status`(updated 2026-07-28, 108일) · `channels/브랜업-온보딩`(07-30, 106일). 최장은 `concepts/slack-adoption`(07-14, 122일). 전건 7월 이후 본문 무변동 — 시간 경과에 따른 자연 증가이며 새 결함은 아님
+- **oversized(>200줄) 11건** — `entities/브랜업-신입직원-온보딩-매뉴얼` **802줄**(6주 연속 분할 권고) · `concepts/브랜업-업무-완료-판별` **378** · `concepts/브랜업-법인행정-재무-라인` **305** · `channels/코스메틱-본부` 288 · `concepts/kangen-뷰티-문안-바코드-표준` 286 · `entities/enagic-usa` 256 · `channels/branup-design-backup` 251 · `concepts/kangen-문안-이력-2026-11` 247 · `concepts/브랜업-대시보드-입력-품질` 232 · `concepts/칸겐보떼-아세안-규제-신고-자료` 223 · `concepts/에나지크-글로벌-물류-패키징-전략` 205. **일일 크론이 매일 §섹션을 덧붙이는 4개 페이지(업무-완료-판별·법인행정·입력-품질·아세안)는 분할 없이는 계속 증가** — 11-11에 문안 표준(466→285)을 분할한 것과 같은 조치가 필요
+- **raw sha256** — 정상 **15** · 불일치 **15** · `source_file` 바이너리 해시 **4** · placeholder **18** · 필드 없음 **6**. 불일치 15건은 전건 `git log --oneline` **단일 ingest 커밋** = **본문 무편집, ingest 시점 해시 산출 규칙 불일치**(소스 변경 아님). placeholder 18건(`slack-advisory` 등)은 drift 검출 자체 불가
+- **채널 ID 매핑 10/11** — `channels/브랜업-공지사항` `(unknown)` 유지(Slack 실체 없음). `slack_channel_id` 전건 실측 일치 확인
+- **품질 신호** — `contested: true` **0건** · `confidence: low` **2건**(`concepts/branup-finance`·`entities/정육공방`)
+- **log 로테이션** — log.md **211 엔트리**(기준 500 미만, 불필요). `log-2026.md` 663줄 보관 중
+- **파일 변경:** `SCHEMA.md`(`brand` 등재 + 린트 노트 1행), `index.md`(미등재 섹션에 2026-11-13 주간 린트 노트), `log.md`(본 엔트리)
+- **미조치(사용자 판단 필요):** ① 고아 7건 `_archive/` 이동 승인 ② `entities/브랜업-신입직원-온보딩-매뉴얼`(802줄) 분할 승인 ③ 일일 크론 누적 페이지 4건 분할 정책 ④ placeholder sha256 18건 백필 여부
