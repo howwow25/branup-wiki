@@ -2,7 +2,7 @@
 title: "design-backup (구 branup-design-backup)"
 type: channel
 created: 2026-07-21
-updated: 2026-11-12
+updated: 2026-11-17
 tags: [channel, department, design, packaging]
 slack_channel_id: C0BFY92PQUF
 status: active
@@ -28,6 +28,20 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략, conc
 | **참여 인물** | 디자인팀, Ashton |
 
 ## 최근 활동 요약
+
+### 2026-11-16 — **`00.리뉴얼 용기-누끼.jpg` 업로드**: 3-Step **STEP I 리뉴얼 용기 렌더**(6.3MB·3901×5116·300dpi), **전면 Enagic `E` 엠블럼 + 구리 오버캡 + 딥 퍼플 보디** (메시지 1건 · 파일 1건)
+
+> 11-11 삽지 지시 이후 **5일 만의 활동**이며, 이번에는 **텍스트 없이 이미지 1건만** 올라왔다. 발신자는 11-09·11-11과 동일한 **노수민(SueminNoh, `U0BFDSSR9PZ`)**. 18:51 KST.
+
+- **파일:** `00.리뉴얼 용기-누끼.jpg` · 6,342,685 bytes · `image/jpeg` · **3901×5116 px · 300 dpi**(인쇄급) · 파일 ID `F0CJ5P7G2E8` · 스레드 답글 0건.
+- **판독:** 오브젝트 **1개 단독 컷**(크림 배경 + 그림자 → 완전 투명 누끼가 아니라 **합성·레이아웃용 소스**). 보디는 **딥 퍼플 글로시 + 두꺼운 클리어 베이스**, 캡은 **구리·로즈골드 메탈 톤의 높은 원통형 오버캡(캡+칼라 2단, 상단 알루미늄 브러시 질감)** — 형태상 **에어리스/펌프형** 추정.
+- **전면 문안:** 금색 원형 엠블럼(**세리프 `E` + 스월 = Enagic 브랜드 마크**) · `KANGEN BEAUTÉ` · `TIMELESS RADIANCE` · `STEP I` · `First Light Essence / pH-Balanced Hydration` · `Essence Éclat Premier / Hydratation au pH équilibré`.
+- 🔑 **10-15 인쇄문안(미국/캐나다 4p)과 제품명·불문 병기 문구가 완전 일치** — 즉 **기존 문안 체계를 그대로 쓴 리뉴얼 목업**이다. 반면 **용량 표기(50mL·1.69 fl. oz.)는 전면에 없다** → 후면 고시 영역 배치 여부 확인 필요(11-04 `캐나다 3ea*50mL 1.69 fl. oz.` 확인 항목과 직결).
+- ⚠️ **`Enagic E` 엠블럼이 전면 중앙 상단에 크게 들어간 점이 새 요소로 보인다** — 10-15 판독본에는 전면 로고 기록이 없어 **직전 판본 부재로 diff 불가**(10-15와 동일한 한계). 11-09 지시의 `15ml 상짝 Enagic 로고 동판` 항목과 **같은 심볼 계열**이다.
+- 🔑 **11-09 `보라 베다 색감 조정(용기 타겟 전송 완료)`의 '용기 타겟' 렌더일 가능성** — 단정 불가(파일명·시점 근거뿐). 파일명 prefix `00.`은 10-19 `00.261016용기 후면 최신 (3).indd`와 **동일 명명 규칙**.
+- ⚠️ **미스트 라인과 무관** — 이 컷은 **3-Step STEP I**이며 **20ml 미스트 공병(두코)이 아니다**. 같은 주에 열린 미스트 용기 라인과 혼동 금지 → [[concepts/칸겐뷰티-미스트-용기-라인|미스트 용기 라인]]
+- 📌 상세 판독: [[raw/articles/slack-design-backup-20261116-renewal-bottle|`00.리뉴얼 용기-누끼.jpg` 판독 노트]]
+- **Canvas 신규 0건 · 북마크 0건**(채널 Canvas 누적 15건 — 최신 갱신 11-09 19:06 유지, 전 채널 누적 19건·신규 0)
 
 ### 2026-11-11 — **삽지(inset) 디자인 지시**: 50ml는 수정, 15ml는 **신규 사양(A6·양면·벨벳코팅?)** (메시지 1건 · 파일 0건)
 
@@ -233,6 +247,7 @@ related_concepts: [concepts/에나지크-글로벌-물류-패키징-전략, conc
 
 ## 관련 위키 페이지
 
+- [[raw/articles/slack-design-backup-20261116-renewal-bottle|`00.리뉴얼 용기-누끼.jpg` 판독 노트 (2026-11-16)]] — 3-Step STEP I 리뉴얼 용기 렌더(3901×5116·300dpi), Enagic `E` 엠블럼 + 딥 퍼플/구리 캡
 - [[raw/articles/slack-design-backup-20261111-insert-design|삽지 디자인 지시 전문 (2026-11-11)]] — 50ml 수정 2건 · 15ml A6 양면·벨벳코팅(?)
 - [[raw/articles/slack-design-backup-20261109-copy-ingredients|전성분 통일안·후면 고시사항 전문 (2026-11-09)]] — INCI 3종 전문 + 13항목 체크리스트 원본
 - [[concepts/kangen-뷰티-문안-바코드-표준|KANGEN BEAUTÉ 문안·바코드 표준 §21]] — 11-09 통일안의 위키 표준 반영

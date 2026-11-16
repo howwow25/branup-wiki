@@ -1,7 +1,7 @@
 ---
 title: TSonaX — 실시간 차트 분석 시스템
 created: 2026-07-15
-updated: 2026-11-16
+updated: 2026-11-17
 type: concept
 tags: [tech, developer, project, system, code, automation]
 sources: [branup-dashboard]
@@ -40,6 +40,8 @@ confidence: medium
 | ~~[TSonaX] 1차 배포~~ | 이향석 | 2026-09-28 | **✅ 완료 (09-29 12:39)** | 종료 |
 
 ## 연혁
+- **2026-11-17 (화)** — **`#719 [TSonaX] Red 지표 경원님 전달`이 마감(11-16)을 넘겨 경과 1일**. 대시보드 **활성 1건 · 경과 1건**이며, 이 항목은 **'지표 전달' 성격**이라 개발 진척 지표가 아니다. 개발 브랜치 `feat/minichart-tf-series-reconnect`는 **신규 커밋 0건(34일째)** — `git ls-remote origin` 실측 tip **`c6041cd`**(2026-10-14 12:47) 무변동, master `e42d7c9`(09-02) 무변동. 즉 **코드 34일 정지 · 대시보드 1건(경과)**.
+  - 📌 **사용자 판단 대기 유지:** 11-12 하드 삭제된 **`#431` 사용자 매매 시나리오 · `#201` 대표 지표추가**를 재등록할지 여부가 **5일째 미결**이다. #719는 그 자리를 대체하지 않는다.
 - **2026-11-16 (월)** — 🟢 **TSonaX가 3일 만에 대시보드에 다시 등장했다** — 11-15(일) **23:34:42** 신규 **`#719 [TSonaX] Red 지표 경원님 전달`**(이향석, **due 11-16**). 11-12 하드 삭제(#431·#201)로 **활성 0건**이 된 뒤 **첫 재등록**이다.
   - ⚠️ **부활이 아니라 단발 항목이다** — 재등록된 것은 종전의 ① 사용자 매매 시나리오(#431) ② 대표 지표추가(#201)가 아니라 **제3의 항목**이고, 성격도 **개발이 아니라 '지표 전달'**(전경원 지표 연구 라인의 산출물을 경원님께 넘기는 커뮤니케이션 건)이며 마감이 **11-16 하루**다. **개발 재개를 뜻하지 않는다.**
   - 코드는 **33일째 정지** — `git ls-remote origin` 실측 tip **`c6041cd`**(2026-10-14 12:47) 무변동, master `e42d7c9`(09-02) 무변동. **코드 33일 · 대시보드 0건 3일 → 1건**.
@@ -169,4 +171,4 @@ confidence: medium
 - [[entities/브랜업코러스|브랜업코러스]] — 우선순위 3번 "계약서·수출 관리" 당사자 (2026-10-07 영세율용 구매확인서 3건)
 - [[channels/브랜업-에듀|브랜업-에듀]] — AI/AX 직원 교육 연계
 
-*Source: branup-dashboard (`/api/tasks/list` 2026-11-11 · 92건 · `/api/tasks/completed` 437건) · `branup.db` **다운로드 403 지속 — 완료/삭제 판별은 `/api/tasks/completed`로 대체** · 개발 브랜치 git 실측(`feat/minichart-tf-series-reconnect`, 2026-11-11 — 최신 `c6041cd` 2026-10-14 12:47, 신규 커밋 0건(28일째), `git ls-remote origin`)*
+*Source: branup-dashboard (`/api/tasks/list` 2026-11-17 · 활성 90건 · `/api/tasks/completed` 475건) · `branup.db` **다운로드 403 지속 — 완료/삭제 판별은 `/api/tasks/completed`로 대체** · 개발 브랜치 git 실측(`feat/minichart-tf-series-reconnect`, 2026-11-17 — 최신 `c6041cd` 2026-10-14 12:47, 신규 커밋 0건(34일째), `git ls-remote origin`)*
